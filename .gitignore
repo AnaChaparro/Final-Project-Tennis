@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+*.log
+*.DS_Store
+/datanosubir
+datanosubir
+.datanosubir
+
+/torneos22
+torneos22
+.torneos22

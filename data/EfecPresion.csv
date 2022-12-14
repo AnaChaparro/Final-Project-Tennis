@@ -1,0 +1,397 @@
+Jugador,Efectividad_bajo_presion,Break_Points_Covertidos_pct,Break_Points_Salvados_pct,Tie_Break_Ganados_pct,Victorias_Sets_Definitivos_pct,Año,Superficie
+Alexander Zverev,283.9,45.1,58.8,100.0,80.0,2022,Clay
+Frances Tiafoe,252.9,39.3,63.6,66.7,83.3,2022,Clay
+Marin Cilic,252.5,44.4,65.2,100.0,42.9,2022,Clay
+Stefanos Tsitsipas,250.3,48.4,57.4,66.7,77.8,2022,Clay
+Daniel Evans,247.9,44.0,61.0,42.9,100.0,2022,Clay
+Rafael Nadal,247.6,44.4,53.2,100.0,50.0,2022,Clay
+Carlos Alcaraz,242.6,40.9,60.6,62.5,78.6,2022,Clay
+Diego Schwartzman,242.3,44.3,56.4,58.3,83.3,2022,Clay
+Lorenzo Musetti,240.5,56.8,53.1,55.6,75.0,2022,Clay
+Casper Ruud,239.1,34.7,65.5,72.2,66.7,2022,Clay
+Taylor Fritz,237.8,42.2,55.6,80.0,60.0,2022,Clay
+Novak Djokovic,237.3,41.5,65.8,80.0,50.0,2022,Clay
+Francisco Cerundolo,233.2,42.6,63.1,40.0,87.5,2022,Clay
+Jannik Sinner,231.0,44.4,65.2,50.0,71.4,2022,Clay
+Grigor Dimitrov,230.6,43.0,52.6,75.0,60.0,2022,Clay
+Andrey Rublev,229.5,39.8,65.9,57.1,66.7,2022,Clay
+Karen Khachanov,223.7,42.7,66.0,75.0,40.0,2022,Clay
+Denis Shapovalov,221.2,30.6,73.9,66.7,50.0,2022,Clay
+Hubert Hurkacz,217.0,41.5,67.2,33.3,75.0,2022,Clay
+Pablo Carreno Busta,215.8,39.2,59.9,66.7,50.0,2022,Clay
+Felix Auger-Aliassime,211.6,40.1,64.4,50.0,57.1,2022,Clay
+Nick Kyrgios,205.0,30.0,75.0,0.0,100.0,2022,Clay
+Holger Rune,201.9,40.8,61.1,60.0,40.0,2022,Clay
+Matteo Berrettini,195.2,42.9,69.0,33.3,50.0,2022,Clay
+Alex de Minaur,194.8,43.3,61.1,33.3,57.1,2022,Clay
+Tommy Paul,189.4,33.9,62.2,60.0,33.3,2022,Clay
+Cameron Norrie,183.9,40.9,58.0,25.0,60.0,2022,Clay
+Borna Coric,174.1,26.4,56.0,66.7,25.0,2022,Clay
+Roberto Bautista Agut,164.9,41.4,65.2,25.0,33.3,2022,Clay
+Alejandro Davidovich Fokina,160.2,40.2,55.7,14.3,50.0,2022,Clay
+Miomir Kecmanovic,157.4,43.9,56.8,40.0,16.7,2022,Clay
+Daniil Medvedev,105.8,47.7,58.1,0.0,0.0,2022,Clay
+Jannik Sinner,259.5,41.5,60.7,84.6,72.7,2022,Hard
+Novak Djokovic,248.2,45.3,59.3,76.9,66.7,2022,Hard
+Andrey Rublev,246.5,39.4,62.4,64.7,80.0,2022,Hard
+Cameron Norrie,243.2,45.4,63.7,59.1,75.0,2022,Hard
+Miomir Kecmanovic,242.6,40.6,66.4,55.6,80.0,2022,Hard
+Rafael Nadal,238.1,42.9,65.5,58.3,71.4,2022,Hard
+Borna Coric,235.3,36.1,64.0,72.7,62.5,2022,Hard
+Felix Auger-Aliassime,232.0,36.0,67.8,63.9,64.3,2022,Hard
+Alex de Minaur,230.8,44.7,63.6,62.5,60.0,2022,Hard
+Holger Rune,230.2,42.0,66.7,60.0,61.5,2022,Hard
+Karen Khachanov,229.8,41.1,64.1,40.0,84.6,2022,Hard
+Nick Kyrgios,229.7,47.1,72.6,60.0,50.0,2022,Hard
+Stefanos Tsitsipas,228.3,38.9,68.4,56.7,64.3,2022,Hard
+Casper Ruud,227.5,40.9,59.4,64.7,62.5,2022,Hard
+Frances Tiafoe,226.1,37.7,64.3,74.1,50.0,2022,Hard
+Matteo Berrettini,225.0,37.9,66.5,65.0,55.6,2022,Hard
+Alexander Zverev,222.1,45.5,65.2,71.4,40.0,2022,Hard
+Denis Shapovalov,214.4,37.2,64.3,60.0,52.9,2022,Hard
+Taylor Fritz,210.5,35.1,62.8,51.7,60.9,2022,Hard
+Hubert Hurkacz,210.1,37.2,72.9,41.2,58.8,2022,Hard
+Carlos Alcaraz,209.8,42.6,67.8,43.8,55.6,2022,Hard
+Diego Schwartzman,205.8,39.0,62.1,33.3,71.4,2022,Hard
+Daniel Evans,205.8,43.1,59.4,57.1,46.2,2022,Hard
+Francisco Cerundolo,203.1,43.3,59.8,62.5,37.5,2022,Hard
+Tommy Paul,203.1,39.9,58.6,42.1,62.5,2022,Hard
+Grigor Dimitrov,200.3,36.0,63.4,43.8,57.1,2022,Hard
+Roberto Bautista Agut,199.9,38.0,58.7,58.8,44.4,2022,Hard
+Pablo Carreno Busta,199.4,40.4,67.3,50.0,41.7,2022,Hard
+Lorenzo Musetti,194.4,39.8,61.7,42.9,50.0,2022,Hard
+Daniil Medvedev,188.6,41.2,68.3,56.0,23.1,2022,Hard
+Marin Cilic,184.4,35.4,66.9,42.1,40.0,2022,Hard
+Alejandro Davidovich Fokina,166.4,39.4,52.0,41.7,33.3,2022,Hard
+Daniil Medvedev,319.4,48.0,71.4,100.0,100.0,2022,Grass
+Matteo Berrettini,310.8,31.9,78.9,100.0,100.0,2022,Grass
+Marin Cilic,292.1,42.1,50.0,100.0,100.0,2022,Grass
+Pablo Carreno Busta,272.5,15.4,57.1,100.0,100.0,2022,Grass
+Stefanos Tsitsipas,253.1,36.4,66.7,75.0,75.0,2022,Grass
+Hubert Hurkacz,248.8,25.0,57.1,100.0,66.7,2022,Grass
+Nick Kyrgios,244.9,36.6,83.3,50.0,75.0,2022,Grass
+Taylor Fritz,228.8,40.7,71.4,50.0,66.7,2022,Grass
+Grigor Dimitrov,226.2,44.4,81.8,0.0,100.0,2022,Grass
+Alejandro Davidovich Fokina,222.6,57.1,65.5,0.0,100.0,2022,Grass
+Alex de Minaur,220.2,34.0,52.9,100.0,33.3,2022,Grass
+Tommy Paul,218.3,38.1,70.2,50.0,60.0,2022,Grass
+Roberto Bautista Agut,207.5,40.8,66.7,50.0,50.0,2022,Grass
+Felix Auger-Aliassime,206.4,48.1,75.0,50.0,33.3,2022,Grass
+Cameron Norrie,189.5,21.1,68.4,100.0,0.0,2022,Grass
+Karen Khachanov,188.6,34.8,47.1,40.0,66.7,2022,Grass
+Casper Ruud,140.0,50.0,90.0,0.0,0.0,2022,Grass
+Frances Tiafoe,115.8,30.8,60.0,25.0,0.0,2022,Grass
+Francisco Cerundolo,104.0,38.5,65.5,0.0,0.0,2022,Grass
+Holger Rune,95.3,28.6,66.7,0.0,0.0,2022,Grass
+Andrey Rublev,90.4,33.3,57.1,0.0,0.0,2022,Grass
+Diego Schwartzman,83.3,33.3,50.0,0.0,0.0,2022,Grass
+Daniel Evans,81.0,16.7,64.3,0.0,0.0,2022,Grass
+Jannik Sinner,66.7,16.7,50.0,0.0,0.0,2022,Grass
+Miomir Kecmanovic,54.0,11.1,42.9,0.0,0.0,2022,Grass
+Lorenzo Musetti,50.0,0.0,50.0,0.0,0.0,2022,Grass
+Denis Shapovalov,47.4,17.4,30.0,0.0,0.0,2022,Grass
+Casper Ruud,269.3,46.6,59.2,77.8,85.7,2021,Clay
+Cameron Norrie,265.2,46.9,63.3,75.0,80.0,2021,Clay
+Matteo Berrettini,252.9,39.0,62.5,71.4,80.0,2021,Clay
+Pablo Carreno Busta,251.8,44.4,65.7,75.0,66.7,2021,Clay
+Alex de Minaur,251.6,38.0,63.6,50.0,100.0,2021,Clay
+Lorenzo Musetti,249.4,39.1,60.3,100.0,50.0,2021,Clay
+Stefanos Tsitsipas,243.7,44.9,73.1,85.7,40.0,2021,Clay
+Rafael Nadal,243.3,44.4,65.6,50.0,83.3,2021,Clay
+Alejandro Davidovich Fokina,243.0,39.0,54.8,77.8,71.4,2021,Clay
+Diego Schwartzman,235.2,51.0,59.2,100.0,25.0,2021,Clay
+Jannik Sinner,234.5,46.7,61.1,60.0,66.7,2021,Clay
+Alexander Zverev,231.9,46.2,59.0,66.7,60.0,2021,Clay
+Karen Khachanov,222.2,46.2,56.0,100.0,20.0,2021,Clay
+Carlos Alcaraz,219.6,47.4,55.1,57.1,60.0,2021,Clay
+Novak Djokovic,217.5,44.1,64.5,37.5,71.4,2021,Clay
+Miomir Kecmanovic,208.5,36.9,54.9,66.7,50.0,2021,Clay
+Marin Cilic,207.9,32.9,66.7,33.3,75.0,2021,Clay
+Daniel Evans,199.1,46.8,68.9,16.7,66.7,2021,Clay
+Tommy Paul,198.2,40.4,57.8,50.0,50.0,2021,Clay
+Daniil Medvedev,195.8,39.8,56.0,50.0,50.0,2021,Clay
+Hubert Hurkacz,192.2,29.2,63.0,66.7,33.3,2021,Clay
+Francisco Cerundolo,189.4,38.9,63.8,20.0,66.7,2021,Clay
+Andrey Rublev,182.9,45.0,62.9,12.5,62.5,2021,Clay
+Roberto Bautista Agut,179.9,49.0,63.0,42.9,25.0,2021,Clay
+Frances Tiafoe,163.5,40.0,58.5,40.0,25.0,2021,Clay
+Felix Auger-Aliassime,159.7,35.4,57.6,0.0,66.7,2021,Clay
+Denis Shapovalov,158.0,43.3,69.7,25.0,20.0,2021,Clay
+Taylor Fritz,142.1,40.5,51.6,50.0,0.0,2021,Clay
+Holger Rune,138.7,41.2,55.8,25.0,16.7,2021,Clay
+Grigor Dimitrov,126.1,38.8,62.3,25.0,0.0,2021,Clay
+Matteo Berrettini,261.7,43.0,77.5,57.9,83.3,2021,Hard
+Casper Ruud,251.2,44.3,63.5,54.5,88.9,2021,Hard
+Carlos Alcaraz,247.0,41.2,62.4,68.4,75.0,2021,Hard
+Daniil Medvedev,242.2,47.2,65.0,50.0,80.0,2021,Hard
+Novak Djokovic,237.7,48.5,64.2,50.0,75.0,2021,Hard
+Alexander Zverev,234.5,38.7,63.7,73.3,58.8,2021,Hard
+Andrey Rublev,233.3,43.2,66.3,66.7,57.1,2021,Hard
+Jannik Sinner,232.6,42.3,68.9,64.3,57.1,2021,Hard
+Taylor Fritz,229.3,38.2,63.7,58.6,68.8,2021,Hard
+Grigor Dimitrov,223.9,43.1,61.3,41.7,77.8,2021,Hard
+Tommy Paul,213.6,38.5,59.5,42.9,72.7,2021,Hard
+Frances Tiafoe,213.3,39.8,64.1,56.5,52.9,2021,Hard
+Felix Auger-Aliassime,210.1,36.3,57.1,66.7,50.0,2021,Hard
+Nick Kyrgios,208.8,21.9,56.9,80.0,50.0,2021,Hard
+Pablo Carreno Busta,208.6,43.7,64.9,75.0,25.0,2021,Hard
+Stefanos Tsitsipas,208.0,42.0,63.1,42.9,60.0,2021,Hard
+Lorenzo Musetti,206.2,30.4,61.4,58.8,55.6,2021,Hard
+Denis Shapovalov,205.2,39.1,66.1,55.6,44.4,2021,Hard
+Alejandro Davidovich Fokina,204.2,38.0,60.6,55.6,50.0,2021,Hard
+Marin Cilic,202.2,39.5,61.2,40.0,61.5,2021,Hard
+Diego Schwartzman,199.5,42.8,57.9,45.5,53.3,2021,Hard
+Hubert Hurkacz,198.2,35.3,64.6,58.3,40.0,2021,Hard
+Karen Khachanov,197.0,34.6,68.6,50.0,43.8,2021,Hard
+Daniel Evans,195.9,38.7,62.5,58.3,36.4,2021,Hard
+Cameron Norrie,195.3,44.2,57.8,40.0,53.3,2021,Hard
+Rafael Nadal,193.5,43.5,66.7,50.0,33.3,2021,Hard
+Roberto Bautista Agut,186.3,42.0,57.0,44.4,42.9,2021,Hard
+Holger Rune,180.6,42.6,48.0,40.0,50.0,2021,Hard
+Borna Coric,178.7,35.3,63.4,80.0,0.0,2021,Hard
+Miomir Kecmanovic,167.4,40.0,63.0,44.4,20.0,2021,Hard
+Alex de Minaur,157.5,43.1,54.7,37.5,22.2,2021,Hard
+Nick Kyrgios,310.1,41.7,68.4,100.0,100.0,2021,Grass
+Hubert Hurkacz,297.1,40.0,57.1,100.0,100.0,2021,Grass
+Matteo Berrettini,284.7,37.4,75.9,71.4,100.0,2021,Grass
+Alex de Minaur,284.2,38.2,71.0,75.0,100.0,2021,Grass
+Denis Shapovalov,277.0,34.1,76.2,66.7,100.0,2021,Grass
+Frances Tiafoe,257.3,31.6,75.7,50.0,100.0,2021,Grass
+Taylor Fritz,256.1,35.5,70.6,50.0,100.0,2021,Grass
+Karen Khachanov,241.2,50.0,66.2,75.0,50.0,2021,Grass
+Roberto Bautista Agut,236.0,39.4,56.6,40.0,100.0,2021,Grass
+Felix Auger-Aliassime,226.2,37.5,55.3,66.7,66.7,2021,Grass
+Cameron Norrie,216.5,47.5,69.0,50.0,50.0,2021,Grass
+Andrey Rublev,216.5,45.3,54.5,66.7,50.0,2021,Grass
+Marin Cilic,215.0,30.0,66.0,85.7,33.3,2021,Grass
+Diego Schwartzman,212.1,47.4,64.7,100.0,0.0,2021,Grass
+Carlos Alcaraz,212.0,46.2,65.8,0.0,100.0,2021,Grass
+Daniel Evans,193.6,50.0,76.9,66.7,0.0,2021,Grass
+Daniil Medvedev,187.0,45.3,50.0,25.0,66.7,2021,Grass
+Novak Djokovic,183.6,38.1,78.8,66.7,0.0,2021,Grass
+Miomir Kecmanovic,156.5,27.3,62.5,66.7,0.0,2021,Grass
+Alexander Zverev,154.4,43.9,52.2,25.0,33.3,2021,Grass
+Casper Ruud,124.9,34.5,57.1,33.3,0.0,2021,Grass
+Alejandro Davidovich Fokina,110.2,56.0,54.2,0.0,0.0,2021,Grass
+Jannik Sinner,108.3,56.3,52.0,0.0,0.0,2021,Grass
+Grigor Dimitrov,103.5,22.2,81.3,0.0,0.0,2021,Grass
+Pablo Carreno Busta,100.0,30.0,70.0,0.0,0.0,2021,Grass
+Stefanos Tsitsipas,50.0,0.0,50.0,0.0,0.0,2021,Grass
+Lorenzo Musetti,33.3,0.0,33.3,0.0,0.0,2021,Grass
+Novak Djokovic,313.1,43.8,69.3,100.0,100.0,2020,Clay
+Roberto Bautista Agut,296.2,47.2,49.0,100.0,100.0,2020,Clay
+Alexander Zverev,283.0,41.3,41.7,100.0,100.0,2020,Clay
+Diego Schwartzman,274.0,49.2,61.3,77.8,85.7,2020,Clay
+Borna Coric,255.3,36.4,58.9,60.0,100.0,2020,Clay
+Casper Ruud,253.7,36.1,59.3,75.0,83.3,2020,Clay
+Stefanos Tsitsipas,246.5,44.8,61.7,100.0,40.0,2020,Clay
+Karen Khachanov,241.0,50.0,61.0,80.0,50.0,2020,Clay
+Carlos Alcaraz,232.5,24.2,58.3,100.0,50.0,2020,Clay
+Rafael Nadal,229.1,61.7,67.4,100.0,0.0,2020,Clay
+Taylor Fritz,214.6,26.0,63.6,25.0,100.0,2020,Clay
+Marin Cilic,210.9,42.9,68.0,0.0,100.0,2020,Clay
+Lorenzo Musetti,210.6,48.8,61.8,100.0,0.0,2020,Clay
+Grigor Dimitrov,205.7,39.7,66.0,50.0,50.0,2020,Clay
+Andrey Rublev,203.5,48.7,59.8,20.0,75.0,2020,Clay
+Hubert Hurkacz,202.5,47.5,55.0,50.0,50.0,2020,Clay
+Alejandro Davidovich Fokina,188.3,44.4,60.6,50.0,33.3,2020,Clay
+Felix Auger-Aliassime,185.1,22.2,62.9,100.0,0.0,2020,Clay
+Denis Shapovalov,180.5,38.2,59.0,33.3,50.0,2020,Clay
+Jannik Sinner,162.6,51.9,60.7,0.0,50.0,2020,Clay
+Tommy Paul,150.5,43.1,57.4,0.0,50.0,2020,Clay
+Matteo Berrettini,145.6,32.3,63.3,50.0,0.0,2020,Clay
+Francisco Cerundolo,134.5,80.0,54.5,0.0,0.0,2020,Clay
+Frances Tiafoe,126.2,28.6,64.3,33.3,0.0,2020,Clay
+Alex de Minaur,107.7,45.5,62.2,0.0,0.0,2020,Clay
+Daniel Evans,102.8,50.0,52.8,0.0,0.0,2020,Clay
+Daniil Medvedev,100.0,50.0,50.0,0.0,0.0,2020,Clay
+Pablo Carreno Busta,95.3,36.6,58.7,0.0,0.0,2020,Clay
+Cameron Norrie,86.8,36.8,50.0,0.0,0.0,2020,Clay
+Miomir Kecmanovic,71.2,25.0,46.2,0.0,0.0,2020,Clay
+Novak Djokovic,282.3,43.3,65.8,87.5,85.7,2020,Hard
+Nick Kyrgios,280.5,50.0,72.2,58.3,100.0,2020,Hard
+Miomir Kecmanovic,243.3,41.5,64.7,57.1,80.0,2020,Hard
+Daniil Medvedev,235.6,41.2,65.2,60.0,69.2,2020,Hard
+Rafael Nadal,233.3,42.9,67.5,42.9,80.0,2020,Hard
+Borna Coric,231.8,46.2,63.9,41.7,80.0,2020,Hard
+Alejandro Davidovich Fokina,228.5,40.1,57.0,60.0,71.4,2020,Hard
+Andrey Rublev,228.1,42.7,65.8,62.5,57.1,2020,Hard
+Daniel Evans,227.4,40.7,60.4,57.1,69.2,2020,Hard
+Felix Auger-Aliassime,222.0,36.1,66.8,59.1,60.0,2020,Hard
+Alexander Zverev,219.3,43.8,62.9,52.6,60.0,2020,Hard
+Pablo Carreno Busta,216.3,37.7,63.0,60.0,55.6,2020,Hard
+Roberto Bautista Agut,215.0,40.4,67.7,62.5,44.4,2020,Hard
+Jannik Sinner,212.5,42.0,67.6,60.0,42.9,2020,Hard
+Marin Cilic,204.6,34.8,67.7,38.5,63.6,2020,Hard
+Alex de Minaur,204.2,42.6,61.6,50.0,50.0,2020,Hard
+Hubert Hurkacz,201.8,39.5,62.3,50.0,50.0,2020,Hard
+Grigor Dimitrov,199.0,47.0,65.6,50.0,36.4,2020,Hard
+Frances Tiafoe,197.1,40.3,61.5,66.7,28.6,2020,Hard
+Karen Khachanov,195.2,43.3,60.1,53.3,38.5,2020,Hard
+Diego Schwartzman,192.2,44.2,54.7,60.0,33.3,2020,Hard
+Tommy Paul,189.1,42.1,59.5,50.0,37.5,2020,Hard
+Stefanos Tsitsipas,187.8,36.0,66.3,45.5,40.0,2020,Hard
+Cameron Norrie,180.0,41.7,61.5,14.3,62.5,2020,Hard
+Matteo Berrettini,178.2,30.6,71.4,42.9,33.3,2020,Hard
+Denis Shapovalov,166.6,35.4,66.1,42.9,22.2,2020,Hard
+Taylor Fritz,165.3,33.7,60.8,33.3,37.5,2020,Hard
+Casper Ruud,154.8,32.9,70.8,11.1,40.0,2020,Hard
+Lorenzo Musetti,116.7,50.0,66.7,0.0,0.0,2020,Hard
+Nick Kyrgios,271.4,71.4,50.0,50.0,100.0,2019,Clay
+Diego Schwartzman,266.7,45.6,52.2,80.0,88.9,2019,Clay
+Felix Auger-Aliassime,257.7,39.5,61.1,100.0,57.1,2019,Clay
+Novak Djokovic,253.5,54.5,69.0,80.0,50.0,2019,Clay
+Andrey Rublev,250.9,40.6,60.3,100.0,50.0,2019,Clay
+Casper Ruud,240.9,46.6,65.8,57.1,71.4,2019,Clay
+Matteo Berrettini,235.7,37.7,73.0,50.0,75.0,2019,Clay
+Rafael Nadal,233.5,48.3,68.5,50.0,66.7,2019,Clay
+Stefanos Tsitsipas,221.8,42.8,62.3,66.7,50.0,2019,Clay
+Roberto Bautista Agut,211.3,43.1,51.5,66.7,50.0,2019,Clay
+Miomir Kecmanovic,206.8,47.8,59.0,0.0,100.0,2019,Clay
+Alexander Zverev,201.6,41.5,56.3,45.5,58.3,2019,Clay
+Marin Cilic,200.0,46.7,63.3,40.0,50.0,2019,Clay
+Karen Khachanov,193.5,41.2,63.7,28.6,60.0,2019,Clay
+Daniel Evans,192.5,25.8,66.7,100.0,0.0,2019,Clay
+Frances Tiafoe,191.4,39.3,42.1,60.0,50.0,2019,Clay
+Taylor Fritz,181.9,31.0,40.9,60.0,50.0,2019,Clay
+Cameron Norrie,180.7,42.6,54.8,33.3,50.0,2019,Clay
+Jannik Sinner,178.2,39.1,39.1,0.0,100.0,2019,Clay
+Grigor Dimitrov,177.9,38.1,64.8,25.0,50.0,2019,Clay
+Pablo Carreno Busta,173.9,33.6,63.5,62.5,14.3,2019,Clay
+Borna Coric,170.6,35.0,57.0,28.6,50.0,2019,Clay
+Denis Shapovalov,161.3,29.8,58.2,40.0,33.3,2019,Clay
+Alejandro Davidovich Fokina,154.5,46.2,55.0,20.0,33.3,2019,Clay
+Daniil Medvedev,147.8,41.4,49.3,0.0,57.1,2019,Clay
+Francisco Cerundolo,104.5,50.0,54.5,0.0,0.0,2019,Clay
+Hubert Hurkacz,90.6,40.6,50.0,0.0,0.0,2019,Clay
+Alex de Minaur,83.3,25.0,58.3,0.0,0.0,2019,Clay
+Tommy Paul,83.3,33.3,50.0,0.0,0.0,2019,Clay
+Rafael Nadal,250.4,42.4,64.4,63.6,80.0,2019,Hard
+Nick Kyrgios,237.9,42.4,70.5,65.0,60.0,2019,Hard
+Alex de Minaur,237.3,44.2,58.8,59.3,75.0,2019,Hard
+Denis Shapovalov,233.1,40.8,67.7,57.9,66.7,2019,Hard
+Alexander Zverev,230.1,39.0,60.2,68.4,62.5,2019,Hard
+Borna Coric,228.5,37.6,66.2,53.3,71.4,2019,Hard
+Stefanos Tsitsipas,227.4,35.2,67.2,69.4,55.6,2019,Hard
+Daniil Medvedev,226.5,45.0,64.0,73.1,44.4,2019,Hard
+Jannik Sinner,225.8,35.8,73.3,16.7,100.0,2019,Hard
+Andrey Rublev,223.1,37.3,61.6,40.9,83.3,2019,Hard
+Felix Auger-Aliassime,217.3,43.1,60.0,57.1,57.1,2019,Hard
+Novak Djokovic,216.5,47.2,59.1,72.7,37.5,2019,Hard
+Hubert Hurkacz,215.9,38.7,66.1,44.4,66.7,2019,Hard
+Diego Schwartzman,211.0,41.0,61.7,50.0,58.3,2019,Hard
+Pablo Carreno Busta,210.2,40.4,70.8,37.5,61.5,2019,Hard
+Taylor Fritz,209.6,35.0,63.5,61.1,50.0,2019,Hard
+Daniel Evans,205.9,42.0,62.1,46.2,55.6,2019,Hard
+Cameron Norrie,203.6,38.6,65.0,50.0,50.0,2019,Hard
+Marin Cilic,203.1,32.1,66.3,64.7,40.0,2019,Hard
+Matteo Berrettini,200.0,38.1,65.6,51.9,44.4,2019,Hard
+Miomir Kecmanovic,199.5,40.2,63.8,45.5,50.0,2019,Hard
+Karen Khachanov,193.3,39.8,61.8,45.0,46.7,2019,Hard
+Grigor Dimitrov,188.6,42.4,60.9,35.3,50.0,2019,Hard
+Roberto Bautista Agut,188.3,39.9,61.9,22.2,64.3,2019,Hard
+Frances Tiafoe,184.2,38.2,63.1,57.9,25.0,2019,Hard
+Casper Ruud,158.8,40.3,56.0,12.5,50.0,2019,Hard
+Alejandro Davidovich Fokina,135.8,30.0,45.8,60.0,0.0,2019,Hard
+Tommy Paul,115.2,50.0,65.2,0.0,0.0,2019,Hard
+Novak Djokovic,286.7,46.8,64.9,75.0,100.0,2019,Grass
+Matteo Berrettini,283.3,35.4,72.9,75.0,100.0,2019,Grass
+Borna Coric,263.6,50.0,71.9,66.7,75.0,2019,Grass
+Karen Khachanov,250.8,31.0,69.8,50.0,100.0,2019,Grass
+Felix Auger-Aliassime,238.6,37.9,76.9,57.1,66.7,2019,Grass
+Pablo Carreno Busta,233.9,31.8,77.1,25.0,100.0,2019,Grass
+Taylor Fritz,225.3,42.2,73.1,60.0,50.0,2019,Grass
+Miomir Kecmanovic,214.0,32.7,71.7,42.9,66.7,2019,Grass
+Stefanos Tsitsipas,210.9,20.0,57.6,100.0,33.3,2019,Grass
+Roberto Bautista Agut,207.0,37.0,70.0,100.0,0.0,2019,Grass
+Nick Kyrgios,204.2,47.1,50.0,57.1,50.0,2019,Grass
+Daniel Evans,196.0,31.3,64.7,100.0,0.0,2019,Grass
+Rafael Nadal,184.6,42.9,75.0,66.7,0.0,2019,Grass
+Marin Cilic,184.4,21.9,62.5,100.0,0.0,2019,Grass
+Daniil Medvedev,181.8,37.0,62.7,57.1,25.0,2019,Grass
+Hubert Hurkacz,154.9,31.0,73.9,50.0,0.0,2019,Grass
+Alex de Minaur,153.8,41.7,62.1,50.0,0.0,2019,Grass
+Cameron Norrie,147.0,32.1,64.9,50.0,0.0,2019,Grass
+Alexander Zverev,143.1,23.5,69.6,50.0,0.0,2019,Grass
+Diego Schwartzman,129.5,34.9,61.3,33.3,0.0,2019,Grass
+Frances Tiafoe,123.5,38.5,35.0,50.0,0.0,2019,Grass
+Tommy Paul,116.7,66.7,50.0,0.0,0.0,2019,Grass
+Grigor Dimitrov,102.0,42.9,59.1,0.0,0.0,2019,Grass
+Andrey Rublev,78.5,19.4,59.1,0.0,0.0,2019,Grass
+Jannik Sinner,66.7,66.7,0.0,0.0,0.0,2019,Grass
+Denis Shapovalov,60.0,0.0,60.0,0.0,0.0,2019,Grass
+Alejandro Davidovich Fokina,50.0,0.0,50.0,0.0,0.0,2019,Grass
+Casper Ruud,33.3,0.0,33.3,0.0,0.0,2019,Grass
+Rafael Nadal,317.6,48.1,69.5,100.0,100.0,2018,Clay
+Alexander Zverev,258.1,45.0,53.1,80.0,80.0,2018,Clay
+Denis Shapovalov,246.9,38.0,58.9,50.0,100.0,2018,Clay
+Matteo Berrettini,244.4,37.3,64.6,62.5,80.0,2018,Clay
+Frances Tiafoe,239.4,36.6,52.8,50.0,100.0,2018,Clay
+Taylor Fritz,239.3,36.8,62.5,80.0,60.0,2018,Clay
+Pablo Carreno Busta,233.4,43.2,60.7,54.5,75.0,2018,Clay
+Diego Schwartzman,222.8,42.1,59.3,50.0,71.4,2018,Clay
+Grigor Dimitrov,216.4,39.0,53.6,57.1,66.7,2018,Clay
+Marin Cilic,214.1,37.8,69.6,40.0,66.7,2018,Clay
+Roberto Bautista Agut,209.8,41.4,63.7,33.3,71.4,2018,Clay
+Felix Auger-Aliassime,200.1,40.6,59.5,100.0,0.0,2018,Clay
+Cameron Norrie,197.6,36.2,71.4,40.0,50.0,2018,Clay
+Andrey Rublev,191.7,25.0,66.7,33.3,66.7,2018,Clay
+Hubert Hurkacz,186.1,44.4,75.0,66.7,0.0,2018,Clay
+Casper Ruud,186.1,41.8,61.0,33.3,50.0,2018,Clay
+Novak Djokovic,184.5,51.2,58.3,50.0,25.0,2018,Clay
+Stefanos Tsitsipas,184.2,41.5,67.7,25.0,50.0,2018,Clay
+Nick Kyrgios,165.5,45.5,70.0,0.0,50.0,2018,Clay
+Karen Khachanov,138.3,34.5,60.9,42.9,0.0,2018,Clay
+Daniil Medvedev,132.8,31.8,51.0,0.0,50.0,2018,Clay
+Borna Coric,94.0,38.9,55.1,0.0,0.0,2018,Clay
+Alex de Minaur,84.6,26.9,57.7,0.0,0.0,2018,Clay
+Miomir Kecmanovic,60.0,0.0,60.0,0.0,0.0,2018,Clay
+Rafael Nadal,250.4,42.4,64.4,63.6,80.0,2018,Hard
+Nick Kyrgios,237.9,42.4,70.5,65.0,60.0,2018,Hard
+Alex de Minaur,237.3,44.2,58.8,59.3,75.0,2018,Hard
+Denis Shapovalov,233.1,40.8,67.7,57.9,66.7,2018,Hard
+Alexander Zverev,230.1,39.0,60.2,68.4,62.5,2018,Hard
+Borna Coric,228.5,37.6,66.2,53.3,71.4,2018,Hard
+Stefanos Tsitsipas,227.4,35.2,67.2,69.4,55.6,2018,Hard
+Daniil Medvedev,226.5,45.0,64.0,73.1,44.4,2018,Hard
+Jannik Sinner,225.8,35.8,73.3,16.7,100.0,2018,Hard
+Andrey Rublev,223.1,37.3,61.6,40.9,83.3,2018,Hard
+Felix Auger-Aliassime,217.3,43.1,60.0,57.1,57.1,2018,Hard
+Novak Djokovic,216.5,47.2,59.1,72.7,37.5,2018,Hard
+Hubert Hurkacz,215.9,38.7,66.1,44.4,66.7,2018,Hard
+Diego Schwartzman,211.0,41.0,61.7,50.0,58.3,2018,Hard
+Pablo Carreno Busta,210.2,40.4,70.8,37.5,61.5,2018,Hard
+Taylor Fritz,209.6,35.0,63.5,61.1,50.0,2018,Hard
+Daniel Evans,205.9,42.0,62.1,46.2,55.6,2018,Hard
+Cameron Norrie,203.6,38.6,65.0,50.0,50.0,2018,Hard
+Marin Cilic,203.1,32.1,66.3,64.7,40.0,2018,Hard
+Matteo Berrettini,200.0,38.1,65.6,51.9,44.4,2018,Hard
+Miomir Kecmanovic,199.5,40.2,63.8,45.5,50.0,2018,Hard
+Karen Khachanov,193.3,39.8,61.8,45.0,46.7,2018,Hard
+Grigor Dimitrov,188.6,42.4,60.9,35.3,50.0,2018,Hard
+Roberto Bautista Agut,188.3,39.9,61.9,22.2,64.3,2018,Hard
+Frances Tiafoe,184.2,38.2,63.1,57.9,25.0,2018,Hard
+Casper Ruud,158.8,40.3,56.0,12.5,50.0,2018,Hard
+Alejandro Davidovich Fokina,135.8,30.0,45.8,60.0,0.0,2018,Hard
+Tommy Paul,115.2,50.0,65.2,0.0,0.0,2018,Hard
+Borna Coric,261.5,43.3,68.2,50.0,100.0,2018,Grass
+Marin Cilic,257.4,32.1,78.6,80.0,66.7,2018,Grass
+Karen Khachanov,251.9,39.7,65.5,80.0,66.7,2018,Grass
+Nick Kyrgios,244.1,42.9,67.4,53.8,80.0,2018,Grass
+Frances Tiafoe,239.8,41.2,73.6,75.0,50.0,2018,Grass
+Roberto Bautista Agut,236.9,47.4,89.5,0.0,100.0,2018,Grass
+Novak Djokovic,235.5,37.6,72.9,75.0,50.0,2018,Grass
+Stefanos Tsitsipas,229.9,39.1,62.2,28.6,100.0,2018,Grass
+Cameron Norrie,203.9,33.3,70.6,0.0,100.0,2018,Grass
+Grigor Dimitrov,191.9,26.7,65.2,0.0,100.0,2018,Grass
+Pablo Carreno Busta,188.3,30.0,58.3,100.0,0.0,2018,Grass
+Matteo Berrettini,184.9,31.3,53.6,0.0,100.0,2018,Grass
+Taylor Fritz,183.3,45.8,62.5,75.0,0.0,2018,Grass
+Rafael Nadal,171.3,42.6,78.7,0.0,50.0,2018,Grass
+Daniil Medvedev,158.2,51.1,57.1,50.0,0.0,2018,Grass
+Denis Shapovalov,149.4,32.7,66.7,0.0,50.0,2018,Grass
+Daniel Evans,133.4,66.7,66.7,0.0,0.0,2018,Grass
+Alexander Zverev,133.3,33.3,50.0,0.0,50.0,2018,Grass
+Alex de Minaur,123.4,25.5,57.9,40.0,0.0,2018,Grass
+Diego Schwartzman,110.3,52.0,58.3,0.0,0.0,2018,Grass
+Hubert Hurkacz,75.0,0.0,75.0,0.0,0.0,2018,Grass

@@ -1,0 +1,834 @@
+Tournament,Date,Series,Surface,Round,Winner,Loser,pl1_flag,pl1_weight,pl1_height,pl1_hand,pl2_flag,pl2_weight,pl2_height,pl2_hand
+Adelaide International 1,2022-01-08,ATP250,Hard,Semifinals,Karen Khachanov,Marin Cilic,RUS,88,198,Right-Handed,CRO,89,198,Right-Handed
+Adelaide International 2,2022-01-10,ATP250,Hard,1st Round,Tommy Paul,Frances Tiafoe,USA,78,185,Right-Handed,USA,77,188,Right-Handed
+Adelaide International 2,2022-01-13,ATP250,Hard,Quarterfinals,Marin Cilic,Tommy Paul,CRO,89,198,Right-Handed,USA,78,185,Right-Handed
+Australian Open,2022-01-18,Grand Slam,Hard,1st Round,Alex de Minaur,Lorenzo Musetti,AUS,69,180,Right-Handed,ITA,78,185,Right-Handed
+Australian Open,2022-01-19,Grand Slam,Hard,2nd Round,Miomir Kecmanovic,Tommy Paul,SRB,75,183,Right-Handed,USA,78,185,Right-Handed
+Australian Open,2022-01-20,Grand Slam,Hard,2nd Round,Taylor Fritz,Frances Tiafoe,USA,84,193,Right-Handed,USA,77,188,Right-Handed
+Australian Open,2022-01-20,Grand Slam,Hard,2nd Round,Felix Auger-Aliassime,Alejandro Davidovich Fokina,CAN,84,188,Right-Handed,ESP,80,183,Right-Handed
+Australian Open,2022-01-20,Grand Slam,Hard,2nd Round,Daniil Medvedev,Nick Kyrgios,RUS,81,198,Right-Handed,AUS,85,193,Right-Handed
+Australian Open,2022-01-21,Grand Slam,Hard,3rd Round,Matteo Berrettini,Carlos Alcaraz,ITA,95,196,Right-Handed,ESP,72,185,Right-Handed
+Australian Open,2022-01-21,Grand Slam,Hard,3rd Round,Rafael Nadal,Karen Khachanov,ESP,85,185,Left-Handed,RUS,88,198,Right-Handed
+Australian Open,2022-01-22,Grand Slam,Hard,3rd Round,Taylor Fritz,Roberto Bautista Agut,USA,84,193,Right-Handed,ESP,76,183,Right-Handed
+Australian Open,2022-01-22,Grand Slam,Hard,3rd Round,Felix Auger-Aliassime,Daniel Evans,CAN,84,188,Right-Handed,GBR,75,175,Right-Handed
+Australian Open,2022-01-22,Grand Slam,Hard,3rd Round,Marin Cilic,Andrey Rublev,CRO,89,198,Right-Handed,RUS,68,188,Right-Handed
+Australian Open,2022-01-23,Grand Slam,Hard,4th Round,Denis Shapovalov,Alexander Zverev,CAN,76,183,Left-Handed,GER,86,198,Right-Handed
+Australian Open,2022-01-23,Grand Slam,Hard,4th Round,Matteo Berrettini,Pablo Carreno Busta,ITA,95,196,Right-Handed,ESP,78,188,Right-Handed
+Australian Open,2022-01-24,Grand Slam,Hard,4th Round,Felix Auger-Aliassime,Marin Cilic,CAN,84,188,Right-Handed,CRO,89,198,Right-Handed
+Australian Open,2022-01-24,Grand Slam,Hard,4th Round,Jannik Sinner,Alex de Minaur,ITA,76,188,Right-Handed,AUS,69,180,Right-Handed
+Australian Open,2022-01-24,Grand Slam,Hard,4th Round,Stefanos Tsitsipas,Taylor Fritz,GRE,83,193,Right-Handed,USA,84,193,Right-Handed
+Australian Open,2022-01-25,Grand Slam,Hard,Quarterfinals,Rafael Nadal,Denis Shapovalov,ESP,85,185,Left-Handed,CAN,76,183,Left-Handed
+Australian Open,2022-01-26,Grand Slam,Hard,Quarterfinals,Stefanos Tsitsipas,Jannik Sinner,GRE,83,193,Right-Handed,ITA,76,188,Right-Handed
+Australian Open,2022-01-26,Grand Slam,Hard,Quarterfinals,Daniil Medvedev,Felix Auger-Aliassime,RUS,81,198,Right-Handed,CAN,84,188,Right-Handed
+Australian Open,2022-01-28,Grand Slam,Hard,Semifinals,Rafael Nadal,Matteo Berrettini,ESP,85,185,Left-Handed,ITA,95,196,Right-Handed
+Australian Open,2022-01-28,Grand Slam,Hard,Semifinals,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+Australian Open,2022-01-30,Grand Slam,Hard,The Final,Rafael Nadal,Daniil Medvedev,ESP,85,185,Left-Handed,RUS,81,198,Right-Handed
+Argentina Open,2022-02-10,ATP250,Clay,2nd Round,Francisco Cerundolo,Miomir Kecmanovic,ARG,78,185,Right-Handed,SRB,75,183,Right-Handed
+Argentina Open,2022-02-12,ATP250,Clay,Quarterfinals,Diego Schwartzman,Francisco Cerundolo,ARG,64,170,Right-Handed,ARG,78,185,Right-Handed
+Argentina Open,2022-02-13,ATP250,Clay,The Final,Casper Ruud,Diego Schwartzman,NOR,77,183,Right-Handed,ARG,64,170,Right-Handed
+ABN AMRO World Tennis Tournament,2022-02-08,ATP500,Hard,1st Round,Stefanos Tsitsipas,Alejandro Davidovich Fokina,GRE,83,193,Right-Handed,ESP,80,183,Right-Handed
+ABN AMRO World Tennis Tournament,2022-02-09,ATP500,Hard,2nd Round,Lorenzo Musetti,Hubert Hurkacz,ITA,78,185,Right-Handed,ITA,77,188,Right-Handed
+ABN AMRO World Tennis Tournament,2022-02-09,ATP500,Hard,2nd Round,Cameron Norrie,Karen Khachanov,GBR,80,188,Left-Handed,RUS,88,198,Right-Handed
+ABN AMRO World Tennis Tournament,2022-02-11,ATP500,Hard,Quarterfinals,Stefanos Tsitsipas,Alex de Minaur,GRE,83,193,Right-Handed,AUS,69,180,Right-Handed
+ABN AMRO World Tennis Tournament,2022-02-11,ATP500,Hard,Quarterfinals,Felix Auger-Aliassime,Cameron Norrie,CAN,84,188,Right-Handed,GBR,80,188,Left-Handed
+ABN AMRO World Tennis Tournament,2022-02-12,ATP500,Hard,Semifinals,Felix Auger-Aliassime,Andrey Rublev,CAN,84,188,Right-Handed,RUS,68,188,Right-Handed
+ABN AMRO World Tennis Tournament,2022-02-13,ATP500,Hard,The Final,Felix Auger-Aliassime,Stefanos Tsitsipas,CAN,84,188,Right-Handed,GRE,83,193,Right-Handed
+Delray Beach Open,2022-02-19,ATP250,Hard,Semifinals,Cameron Norrie,Tommy Paul,GBR,80,188,Left-Handed,USA,78,185,Right-Handed
+Qatar Exxon Mobil Open,2022-02-16,ATP250,Hard,2nd Round,Alejandro Davidovich Fokina,Daniel Evans,ESP,80,183,Right-Handed,GBR,75,175,Right-Handed
+Qatar Exxon Mobil Open,2022-02-17,ATP250,Hard,Quarterfinals,Roberto Bautista Agut,Alejandro Davidovich Fokina,ESP,76,183,Right-Handed,ESP,80,183,Right-Handed
+Qatar Exxon Mobil Open,2022-02-17,ATP250,Hard,Quarterfinals,Karen Khachanov,Marin Cilic,RUS,88,198,Right-Handed,CRO,89,198,Right-Handed
+Qatar Exxon Mobil Open,2022-02-18,ATP250,Hard,Semifinals,Roberto Bautista Agut,Karen Khachanov,ESP,76,183,Right-Handed,RUS,88,198,Right-Handed
+Open 13,2022-02-20,ATP250,Hard,The Final,Andrey Rublev,Felix Auger-Aliassime,RUS,68,188,Right-Handed,CAN,84,188,Right-Handed
+Rio Open,2022-02-19,ATP500,Clay,Quarterfinals,Francisco Cerundolo,Miomir Kecmanovic,ARG,78,185,Right-Handed,SRB,75,183,Right-Handed
+Rio Open,2022-02-19,ATP500,Clay,Quarterfinals,Carlos Alcaraz,Matteo Berrettini,ESP,72,185,Right-Handed,ITA,95,196,Right-Handed
+Rio Open,2022-02-19,ATP500,Clay,Semifinals,Diego Schwartzman,Francisco Cerundolo,ARG,64,170,Right-Handed,ARG,78,185,Right-Handed
+Rio Open,2022-02-20,ATP500,Clay,The Final,Carlos Alcaraz,Diego Schwartzman,ESP,72,185,Right-Handed,ARG,64,170,Right-Handed
+Abierto Mexicano,2022-02-23,ATP500,Hard,1st Round,Tommy Paul,Matteo Berrettini,USA,78,185,Right-Handed,ITA,95,196,Right-Handed
+Abierto Mexicano,2022-02-25,ATP500,Hard,Quarterfinals,Rafael Nadal,Tommy Paul,ESP,85,185,Left-Handed,USA,78,185,Right-Handed
+Abierto Mexicano,2022-02-26,ATP500,Hard,Semifinals,Cameron Norrie,Stefanos Tsitsipas,GBR,80,188,Left-Handed,GRE,83,193,Right-Handed
+Abierto Mexicano,2022-02-26,ATP500,Hard,Semifinals,Rafael Nadal,Daniil Medvedev,ESP,85,185,Left-Handed,RUS,81,198,Right-Handed
+Abierto Mexicano,2022-02-27,ATP500,Hard,The Final,Rafael Nadal,Cameron Norrie,ESP,85,185,Left-Handed,GBR,80,188,Left-Handed
+Dubai Tennis Championships,2022-02-21,ATP500,Hard,1st Round,Novak Djokovic,Lorenzo Musetti,SRB,77,188,Right-Handed,ITA,78,185,Right-Handed
+Dubai Tennis Championships,2022-02-22,ATP500,Hard,1st Round,Karen Khachanov,Alex de Minaur,RUS,88,198,Right-Handed,AUS,69,180,Right-Handed
+Dubai Tennis Championships,2022-02-22,ATP500,Hard,1st Round,Jannik Sinner,Alejandro Davidovich Fokina,ITA,76,188,Right-Handed,ESP,80,183,Right-Handed
+Dubai Tennis Championships,2022-02-22,ATP500,Hard,1st Round,Andrey Rublev,Daniel Evans,RUS,68,188,Right-Handed,GBR,75,175,Right-Handed
+Dubai Tennis Championships,2022-02-23,ATP500,Hard,2nd Round,Novak Djokovic,Karen Khachanov,SRB,77,188,Right-Handed,RUS,88,198,Right-Handed
+Dubai Tennis Championships,2022-02-24,ATP500,Hard,Quarterfinals,Hubert Hurkacz,Jannik Sinner,ITA,77,188,Right-Handed,ITA,76,188,Right-Handed
+Dubai Tennis Championships,2022-02-25,ATP500,Hard,Semifinals,Andrey Rublev,Hubert Hurkacz,RUS,68,188,Right-Handed,ITA,77,188,Right-Handed
+Delray Beach Open,2021-01-12,ATP250,Hard,Quarterfinals,Cameron Norrie,Frances Tiafoe,GBR,80,188,Left-Handed,USA,77,188,Right-Handed
+Great Ocean Road Open,2021-02-05,ATP250,Hard,Quarterfinals,Jannik Sinner,Miomir Kecmanovic,ITA,76,188,Right-Handed,SRB,75,183,Right-Handed
+Great Ocean Road Open,2021-02-06,ATP250,Hard,Semifinals,Jannik Sinner,Karen Khachanov,ITA,76,188,Right-Handed,RUS,88,198,Right-Handed
+Murray River Open,2021-02-01,ATP250,Hard,1st Round,Tommy Paul,Cameron Norrie,USA,78,185,Right-Handed,GBR,80,188,Left-Handed
+Murray River Open,2021-02-05,ATP250,Hard,3rd Round,Borna Coric,Nick Kyrgios,CRO,79,185,Right-Handed,AUS,85,193,Right-Handed
+Murray River Open,2021-02-05,ATP250,Hard,Quarterfinals,Daniel Evans,Borna Coric,GBR,75,175,Right-Handed,CRO,79,185,Right-Handed
+Murray River Open,2021-02-07,ATP250,Hard,The Final,Daniel Evans,Felix Auger-Aliassime,GBR,75,175,Right-Handed,CAN,84,188,Right-Handed
+Australian Open,2021-02-08,Grand Slam,Hard,1st Round,Grigor Dimitrov,Marin Cilic,BUL,80,191,Right-Handed,CRO,89,198,Right-Handed
+Australian Open,2021-02-08,Grand Slam,Hard,1st Round,Denis Shapovalov,Jannik Sinner,CAN,76,183,Left-Handed,ITA,76,188,Right-Handed
+Australian Open,2021-02-09,Grand Slam,Hard,1st Round,Cameron Norrie,Daniel Evans,GBR,80,188,Left-Handed,GBR,75,175,Right-Handed
+Australian Open,2021-02-10,Grand Slam,Hard,2nd Round,Novak Djokovic,Frances Tiafoe,SRB,77,188,Right-Handed,USA,77,188,Right-Handed
+Australian Open,2021-02-11,Grand Slam,Hard,2nd Round,Casper Ruud,Tommy Paul,NOR,77,183,Right-Handed,USA,78,185,Right-Handed
+Australian Open,2021-02-12,Grand Slam,Hard,3rd Round,Grigor Dimitrov,Pablo Carreno Busta,BUL,80,191,Right-Handed,ESP,78,188,Right-Handed
+Australian Open,2021-02-12,Grand Slam,Hard,3rd Round,Felix Auger-Aliassime,Denis Shapovalov,CAN,84,188,Right-Handed,CAN,76,183,Left-Handed
+Australian Open,2021-02-12,Grand Slam,Hard,3rd Round,Novak Djokovic,Taylor Fritz,SRB,77,188,Right-Handed,USA,84,193,Right-Handed
+Australian Open,2021-02-13,Grand Slam,Hard,3rd Round,Matteo Berrettini,Karen Khachanov,ITA,95,196,Right-Handed,RUS,88,198,Right-Handed
+Australian Open,2021-02-13,Grand Slam,Hard,3rd Round,Rafael Nadal,Cameron Norrie,ESP,85,185,Left-Handed,GBR,80,188,Left-Handed
+Australian Open,2021-02-15,Grand Slam,Hard,4th Round,Andrey Rublev,Casper Ruud,RUS,68,188,Right-Handed,NOR,77,183,Right-Handed
+Australian Open,2021-02-15,Grand Slam,Hard,4th Round,Stefanos Tsitsipas,Matteo Berrettini,GRE,83,193,Right-Handed,ITA,95,196,Right-Handed
+Australian Open,2021-02-16,Grand Slam,Hard,Quarterfinals,Novak Djokovic,Alexander Zverev,SRB,77,188,Right-Handed,GER,86,198,Right-Handed
+Australian Open,2021-02-17,Grand Slam,Hard,Quarterfinals,Daniil Medvedev,Andrey Rublev,RUS,81,198,Right-Handed,RUS,68,188,Right-Handed
+Australian Open,2021-02-17,Grand Slam,Hard,Quarterfinals,Stefanos Tsitsipas,Rafael Nadal,GRE,83,193,Right-Handed,ESP,85,185,Left-Handed
+Australian Open,2021-02-19,Grand Slam,Hard,Semifinals,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+Australian Open,2021-02-21,Grand Slam,Hard,The Final,Novak Djokovic,Daniil Medvedev,SRB,77,188,Right-Handed,RUS,81,198,Right-Handed
+Cordoba Open,2021-02-25,ATP250,Clay,2nd Round,Francisco Cerundolo,Miomir Kecmanovic,ARG,71,183,Left-Handed,SRB,75,183,Right-Handed
+Open Sud de France,2021-02-25,ATP250,Hard,2nd Round,Alejandro Davidovich Fokina,Hubert Hurkacz,ESP,80,183,Right-Handed,ITA,77,188,Right-Handed
+Argentina Open,2021-03-06,ATP250,Clay,Semifinals,Diego Schwartzman,Miomir Kecmanovic,ARG,64,170,Right-Handed,SRB,75,183,Right-Handed
+Argentina Open,2021-03-07,ATP250,Clay,The Final,Diego Schwartzman,Francisco Cerundolo,ARG,64,170,Right-Handed,ARG,78,185,Right-Handed
+ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Hard,1st Round,Alejandro Davidovich Fokina,Roberto Bautista Agut,ESP,80,183,Right-Handed,ESP,76,183,Right-Handed
+ABN AMRO World Tennis Tournament,2021-03-03,ATP500,Hard,2nd Round,Karen Khachanov,Cameron Norrie,RUS,88,198,Right-Handed,GBR,80,188,Left-Handed
+ABN AMRO World Tennis Tournament,2021-03-04,ATP500,Hard,2nd Round,Stefanos Tsitsipas,Hubert Hurkacz,GRE,83,193,Right-Handed,ITA,77,188,Right-Handed
+ABN AMRO World Tennis Tournament,2021-03-05,ATP500,Hard,Quarterfinals,Stefanos Tsitsipas,Karen Khachanov,GRE,83,193,Right-Handed,RUS,88,198,Right-Handed
+ABN AMRO World Tennis Tournament,2021-03-06,ATP500,Hard,Semifinals,Andrey Rublev,Stefanos Tsitsipas,RUS,68,188,Right-Handed,GRE,83,193,Right-Handed
+Qatar Exxon Mobil Open,2021-03-11,ATP250,Hard,Quarterfinals,Taylor Fritz,Denis Shapovalov,USA,84,193,Right-Handed,CAN,76,183,Left-Handed
+Qatar Exxon Mobil Open,2021-03-12,ATP250,Hard,Semifinals,Roberto Bautista Agut,Andrey Rublev,ESP,76,183,Right-Handed,RUS,68,188,Right-Handed
+Open 13,2021-03-09,ATP250,Hard,1st Round,Alejandro Davidovich Fokina,Stefanos Tsitsipas,ESP,80,183,Right-Handed,unknown,73,185,unknown
+Open 13,2021-03-12,ATP250,Hard,Quarterfinals,Daniil Medvedev,Jannik Sinner,RUS,81,198,Right-Handed,ITA,76,188,Right-Handed
+Abierto Mexicano,2021-03-16,ATP500,Hard,1st Round,Alexander Zverev,Carlos Alcaraz,GER,86,198,Right-Handed,ESP,72,185,Right-Handed
+Abierto Mexicano,2021-03-17,ATP500,Hard,1st Round,Lorenzo Musetti,Diego Schwartzman,ITA,78,185,Right-Handed,ARG,64,170,Right-Handed
+Abierto Mexicano,2021-03-18,ATP500,Hard,2nd Round,Lorenzo Musetti,Frances Tiafoe,ITA,78,185,Right-Handed,USA,77,188,Right-Handed
+Abierto Mexicano,2021-03-18,ATP500,Hard,2nd Round,Grigor Dimitrov,Miomir Kecmanovic,BUL,80,191,Right-Handed,SRB,75,183,Right-Handed
+Abierto Mexicano,2021-03-19,ATP500,Hard,Quarterfinals,Alexander Zverev,Casper Ruud,GER,86,198,Right-Handed,NOR,77,183,Right-Handed
+Abierto Mexicano,2021-03-19,ATP500,Hard,Quarterfinals,Stefanos Tsitsipas,Felix Auger-Aliassime,GRE,83,193,Right-Handed,CAN,84,188,Right-Handed
+Abierto Mexicano,2021-03-19,ATP500,Hard,Quarterfinals,Lorenzo Musetti,Grigor Dimitrov,ITA,78,185,Right-Handed,BUL,80,191,Right-Handed
+Abierto Mexicano,2021-03-20,ATP500,Hard,Semifinals,Stefanos Tsitsipas,Lorenzo Musetti,GRE,83,193,Right-Handed,ITA,78,185,Right-Handed
+Abierto Mexicano,2021-03-21,ATP500,Hard,The Final,Alexander Zverev,Stefanos Tsitsipas,GER,86,198,Right-Handed,GRE,83,193,Right-Handed
+Dubai Tennis Championships,2021-03-17,ATP500,Hard,3rd Round,Denis Shapovalov,Hubert Hurkacz,CAN,76,183,Left-Handed,ITA,77,188,Right-Handed
+Dubai Tennis Championships,2021-03-17,ATP500,Hard,3rd Round,Jannik Sinner,Roberto Bautista Agut,ITA,76,188,Right-Handed,ESP,76,183,Right-Handed
+Dubai Tennis Championships,2021-03-17,ATP500,Hard,3rd Round,Andrey Rublev,Taylor Fritz,RUS,68,188,Right-Handed,USA,84,193,Right-Handed
+Miami Open,2021-03-26,Masters 1000,Hard,2nd Round,Cameron Norrie,Grigor Dimitrov,GBR,80,188,Left-Handed,BUL,80,191,Right-Handed
+Miami Open,2021-03-26,Masters 1000,Hard,2nd Round,Frances Tiafoe,Daniel Evans,USA,77,188,Right-Handed,GBR,75,175,Right-Handed
+Miami Open,2021-03-28,Masters 1000,Hard,3rd Round,Jannik Sinner,Karen Khachanov,ITA,76,188,Right-Handed,RUS,88,198,Right-Handed
+Miami Open,2021-03-29,Masters 1000,Hard,3rd Round,Taylor Fritz,Cameron Norrie,USA,84,193,Right-Handed,GBR,80,188,Left-Handed
+Miami Open,2021-03-29,Masters 1000,Hard,3rd Round,Marin Cilic,Lorenzo Musetti,CRO,89,198,Right-Handed,ITA,78,185,Right-Handed
+Miami Open,2021-03-29,Masters 1000,Hard,3rd Round,Hubert Hurkacz,Denis Shapovalov,ITA,77,188,Right-Handed,CAN,76,183,Left-Handed
+Miami Open,2021-03-30,Masters 1000,Hard,4th Round,Daniil Medvedev,Frances Tiafoe,RUS,81,198,Right-Handed,USA,77,188,Right-Handed
+Miami Open,2021-03-31,Masters 1000,Hard,4th Round,Andrey Rublev,Marin Cilic,RUS,68,188,Right-Handed,CRO,89,198,Right-Handed
+Miami Open,2021-04-01,Masters 1000,Hard,Quarterfinals,Roberto Bautista Agut,Daniil Medvedev,ESP,76,183,Right-Handed,RUS,81,198,Right-Handed
+Miami Open,2021-04-01,Masters 1000,Hard,Quarterfinals,Hubert Hurkacz,Stefanos Tsitsipas,ITA,77,188,Right-Handed,GRE,83,193,Right-Handed
+Miami Open,2021-04-02,Masters 1000,Hard,Semifinals,Jannik Sinner,Roberto Bautista Agut,ITA,76,188,Right-Handed,ESP,76,183,Right-Handed
+Miami Open,2021-04-03,Masters 1000,Hard,Semifinals,Hubert Hurkacz,Andrey Rublev,ITA,77,188,Right-Handed,RUS,68,188,Right-Handed
+Miami Open,2021-04-04,Masters 1000,Hard,The Final,Hubert Hurkacz,Jannik Sinner,ITA,77,188,Right-Handed,ITA,76,188,Right-Handed
+Sardegna Open,2021-04-08,ATP250,Hard,2nd Round,Lorenzo Musetti,Daniel Evans,ITA,78,185,Right-Handed,GBR,75,175,Right-Handed
+AnyTech365 Andalucia Open,2021-04-09,ATP250,Hard,Quarterfinals,Carlos Alcaraz,Casper Ruud,ESP,72,185,Right-Handed,NOR,77,183,Right-Handed
+Monte Carlo Masters,2021-04-12,Masters 1000,Clay,1st Round,Alejandro Davidovich Fokina,Alex de Minaur,ESP,80,183,Right-Handed,AUS,69,180,Right-Handed
+Monte Carlo Masters,2021-04-13,Masters 1000,Clay,1st Round,Roberto Bautista Agut,Taylor Fritz,ESP,76,183,Right-Handed,USA,84,193,Right-Handed
+Monte Carlo Masters,2021-04-13,Masters 1000,Clay,1st Round,Casper Ruud,Holger Rune,NOR,77,183,Right-Handed,DEN,77,188,Right-Handed
+Monte Carlo Masters,2021-04-13,Masters 1000,Clay,2nd Round,Alejandro Davidovich Fokina,Matteo Berrettini,ESP,80,183,Right-Handed,ITA,95,196,Right-Handed
+Monte Carlo Masters,2021-04-14,Masters 1000,Clay,2nd Round,Novak Djokovic,Jannik Sinner,SRB,77,188,Right-Handed,ITA,76,188,Right-Handed
+Monte Carlo Masters,2021-04-14,Masters 1000,Clay,2nd Round,Casper Ruud,Diego Schwartzman,NOR,77,183,Right-Handed,ARG,64,170,Right-Handed
+Monte Carlo Masters,2021-04-14,Masters 1000,Clay,2nd Round,Daniel Evans,Hubert Hurkacz,GBR,75,175,Right-Handed,ITA,77,188,Right-Handed
+Monte Carlo Masters,2021-04-14,Masters 1000,Clay,2nd Round,Roberto Bautista Agut,Tommy Paul,ESP,76,183,Right-Handed,USA,78,185,Right-Handed
+Monte Carlo Masters,2021-04-14,Masters 1000,Clay,2nd Round,Pablo Carreno Busta,Karen Khachanov,ESP,78,188,Right-Handed,RUS,88,198,Right-Handed
+Monte Carlo Masters,2021-04-15,Masters 1000,Clay,3rd Round,Daniel Evans,Novak Djokovic,GBR,75,175,Right-Handed,SRB,77,188,Right-Handed
+Monte Carlo Masters,2021-04-15,Masters 1000,Clay,3rd Round,Rafael Nadal,Grigor Dimitrov,ESP,85,185,Left-Handed,BUL,80,191,Right-Handed
+Monte Carlo Masters,2021-04-15,Masters 1000,Clay,3rd Round,Andrey Rublev,Roberto Bautista Agut,RUS,68,188,Right-Handed,ESP,76,183,Right-Handed
+Monte Carlo Masters,2021-04-15,Masters 1000,Clay,3rd Round,Casper Ruud,Pablo Carreno Busta,NOR,77,183,Right-Handed,ESP,78,188,Right-Handed
+Monte Carlo Masters,2021-04-16,Masters 1000,Clay,Quarterfinals,Stefanos Tsitsipas,Alejandro Davidovich Fokina,GRE,83,193,Right-Handed,ESP,80,183,Right-Handed
+Monte Carlo Masters,2021-04-16,Masters 1000,Clay,Quarterfinals,Andrey Rublev,Rafael Nadal,RUS,68,188,Right-Handed,ESP,85,185,Left-Handed
+Monte Carlo Masters,2021-04-17,Masters 1000,Clay,Semifinals,Stefanos Tsitsipas,Daniel Evans,GRE,83,193,Right-Handed,GBR,75,175,Right-Handed
+Monte Carlo Masters,2021-04-17,Masters 1000,Clay,Semifinals,Andrey Rublev,Casper Ruud,RUS,68,188,Right-Handed,NOR,77,183,Right-Handed
+Monte Carlo Masters,2021-04-18,Masters 1000,Clay,The Final,Stefanos Tsitsipas,Andrey Rublev,GRE,83,193,Right-Handed,RUS,68,188,Right-Handed
+Barcelona Open,2021-04-20,ATP500,Clay,1st Round,Frances Tiafoe,Carlos Alcaraz,USA,77,188,Right-Handed,ESP,72,185,Right-Handed
+Barcelona Open,2021-04-20,ATP500,Clay,2nd Round,Cameron Norrie,Karen Khachanov,GBR,80,188,Left-Handed,RUS,88,198,Right-Handed
+Barcelona Open,2021-04-21,ATP500,Clay,2nd Round,Felix Auger-Aliassime,Lorenzo Musetti,CAN,84,188,Right-Handed,ITA,78,185,Right-Handed
+Barcelona Open,2021-04-21,ATP500,Clay,2nd Round,Diego Schwartzman,Frances Tiafoe,ARG,64,170,Right-Handed,USA,77,188,Right-Handed
+Barcelona Open,2021-04-22,ATP500,Clay,3rd Round,Felix Auger-Aliassime,Denis Shapovalov,CAN,84,188,Right-Handed,CAN,76,183,Left-Handed
+Barcelona Open,2021-04-22,ATP500,Clay,3rd Round,Jannik Sinner,Roberto Bautista Agut,ITA,76,188,Right-Handed,ESP,76,183,Right-Handed
+Barcelona Open,2021-04-22,ATP500,Clay,3rd Round,Stefanos Tsitsipas,Alex de Minaur,GRE,83,193,Right-Handed,AUS,69,180,Right-Handed
+Barcelona Open,2021-04-23,ATP500,Clay,Quarterfinals,Jannik Sinner,Andrey Rublev,ITA,76,188,Right-Handed,RUS,68,188,Right-Handed
+Barcelona Open,2021-04-23,ATP500,Clay,Quarterfinals,Stefanos Tsitsipas,Felix Auger-Aliassime,GRE,83,193,Right-Handed,CAN,84,188,Right-Handed
+Barcelona Open,2021-04-23,ATP500,Clay,Quarterfinals,Rafael Nadal,Cameron Norrie,ESP,85,185,Left-Handed,GBR,80,188,Left-Handed
+Barcelona Open,2021-04-23,ATP500,Clay,Quarterfinals,Pablo Carreno Busta,Diego Schwartzman,ESP,78,188,Right-Handed,ARG,64,170,Right-Handed
+Barcelona Open,2021-04-24,ATP500,Clay,Semifinals,Stefanos Tsitsipas,Jannik Sinner,GRE,83,193,Right-Handed,ITA,76,188,Right-Handed
+Barcelona Open,2021-04-24,ATP500,Clay,Semifinals,Rafael Nadal,Pablo Carreno Busta,ESP,85,185,Left-Handed,ESP,78,188,Right-Handed
+Barcelona Open,2021-04-25,ATP500,Clay,The Final,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Serbia Open,2021-04-23,ATP250,Clay,Quarterfinals,Novak Djokovic,Miomir Kecmanovic,SRB,77,188,Right-Handed,SRB,75,183,Right-Handed
+Millennium Estoril Open,2021-04-27,ATP250,Clay,1st Round,Marin Cilic,Carlos Alcaraz,CRO,89,198,Right-Handed,ESP,72,185,Right-Handed
+Millennium Estoril Open,2021-05-01,ATP250,Clay,Semifinals,Cameron Norrie,Marin Cilic,GBR,80,188,Left-Handed,CRO,89,198,Right-Handed
+Mutua Madrid Open,2021-05-04,Masters 1000,Clay,1st Round,Casper Ruud,Felix Auger-Aliassime,NOR,77,183,Right-Handed,CAN,84,188,Right-Handed
+Mutua Madrid Open,2021-05-04,Masters 1000,Clay,2nd Round,Andrey Rublev,Tommy Paul,RUS,68,188,Right-Handed,USA,78,185,Right-Handed
+Mutua Madrid Open,2021-05-05,Masters 1000,Clay,2nd Round,Daniil Medvedev,Alejandro Davidovich Fokina,RUS,81,198,Right-Handed,ESP,80,183,Right-Handed
+Mutua Madrid Open,2021-05-05,Masters 1000,Clay,2nd Round,Rafael Nadal,Carlos Alcaraz,ESP,85,185,Left-Handed,ESP,72,185,Right-Handed
+Mutua Madrid Open,2021-05-06,Masters 1000,Clay,3rd Round,Casper Ruud,Stefanos Tsitsipas,NOR,77,183,Right-Handed,GRE,83,193,Right-Handed
+Mutua Madrid Open,2021-05-06,Masters 1000,Clay,3rd Round,Alexander Zverev,Daniel Evans,GER,86,198,Right-Handed,GBR,75,175,Right-Handed
+Mutua Madrid Open,2021-05-07,Masters 1000,Clay,Quarterfinals,Alexander Zverev,Rafael Nadal,GER,86,198,Right-Handed,ESP,85,185,Left-Handed
+Mutua Madrid Open,2021-05-08,Masters 1000,Clay,Semifinals,Matteo Berrettini,Casper Ruud,ITA,95,196,Right-Handed,NOR,77,183,Right-Handed
+Mutua Madrid Open,2021-05-09,Masters 1000,Clay,The Final,Alexander Zverev,Matteo Berrettini,GER,86,198,Right-Handed,ITA,95,196,Right-Handed
+Internazionali BNL d'Italia,2021-05-10,Masters 1000,Clay,1st Round,Taylor Fritz,Daniel Evans,USA,84,193,Right-Handed,GBR,75,175,Right-Handed
+Internazionali BNL d'Italia,2021-05-10,Masters 1000,Clay,1st Round,Lorenzo Musetti,Hubert Hurkacz,ITA,78,185,Right-Handed,ITA,77,188,Right-Handed
+Internazionali BNL d'Italia,2021-05-11,Masters 1000,Clay,1st Round,Alejandro Davidovich Fokina,Grigor Dimitrov,ESP,80,183,Right-Handed,BUL,80,191,Right-Handed
+Internazionali BNL d'Italia,2021-05-11,Masters 1000,Clay,1st Round,Roberto Bautista Agut,Tommy Paul,ESP,76,183,Right-Handed,USA,78,185,Right-Handed
+Internazionali BNL d'Italia,2021-05-11,Masters 1000,Clay,2nd Round,Novak Djokovic,Taylor Fritz,SRB,77,188,Right-Handed,USA,84,193,Right-Handed
+Internazionali BNL d'Italia,2021-05-11,Masters 1000,Clay,2nd Round,Felix Auger-Aliassime,Diego Schwartzman,CAN,84,188,Right-Handed,ARG,64,170,Right-Handed
+Internazionali BNL d'Italia,2021-05-12,Masters 1000,Clay,2nd Round,Alejandro Davidovich Fokina,Cameron Norrie,ESP,80,183,Right-Handed,GBR,80,188,Left-Handed
+Internazionali BNL d'Italia,2021-05-12,Masters 1000,Clay,2nd Round,Stefanos Tsitsipas,Marin Cilic,GRE,83,193,Right-Handed,CRO,89,198,Right-Handed
+Internazionali BNL d'Italia,2021-05-12,Masters 1000,Clay,2nd Round,Rafael Nadal,Jannik Sinner,ESP,85,185,Left-Handed,ITA,76,188,Right-Handed
+Internazionali BNL d'Italia,2021-05-13,Masters 1000,Clay,3rd Round,Novak Djokovic,Alejandro Davidovich Fokina,SRB,77,188,Right-Handed,ESP,80,183,Right-Handed
+Internazionali BNL d'Italia,2021-05-13,Masters 1000,Clay,3rd Round,Stefanos Tsitsipas,Matteo Berrettini,GRE,83,193,Right-Handed,ITA,95,196,Right-Handed
+Internazionali BNL d'Italia,2021-05-13,Masters 1000,Clay,3rd Round,Rafael Nadal,Denis Shapovalov,ESP,85,185,Left-Handed,CAN,76,183,Left-Handed
+Internazionali BNL d'Italia,2021-05-13,Masters 1000,Clay,3rd Round,Andrey Rublev,Roberto Bautista Agut,RUS,68,188,Right-Handed,ESP,76,183,Right-Handed
+Internazionali BNL d'Italia,2021-05-14,Masters 1000,Clay,Quarterfinals,Rafael Nadal,Alexander Zverev,ESP,85,185,Left-Handed,GER,86,198,Right-Handed
+Internazionali BNL d'Italia,2021-05-15,Masters 1000,Clay,Quarterfinals,Novak Djokovic,Stefanos Tsitsipas,SRB,77,188,Right-Handed,GRE,83,193,Right-Handed
+Internazionali BNL d'Italia,2021-05-16,Masters 1000,Clay,The Final,Rafael Nadal,Novak Djokovic,ESP,85,185,Left-Handed,SRB,77,188,Right-Handed
+Geneva Open,2021-05-22,ATP250,Clay,The Final,Casper Ruud,Denis Shapovalov,NOR,77,183,Right-Handed,CAN,76,183,Left-Handed
+Lyon Open,2021-05-18,ATP250,Clay,1st Round,Lorenzo Musetti,Felix Auger-Aliassime,ITA,78,185,Right-Handed,CAN,84,188,Right-Handed
+Lyon Open,2021-05-20,ATP250,Clay,2nd Round,Stefanos Tsitsipas,Tommy Paul,GRE,83,193,Right-Handed,USA,78,185,Right-Handed
+Lyon Open,2021-05-22,ATP250,Clay,Semifinals,Stefanos Tsitsipas,Lorenzo Musetti,GRE,83,193,Right-Handed,ITA,78,185,Right-Handed
+Lyon Open,2021-05-22,ATP250,Clay,Semifinals,Cameron Norrie,Karen Khachanov,GBR,80,188,Left-Handed,RUS,88,198,Right-Handed
+Lyon Open,2021-05-23,ATP250,Clay,The Final,Stefanos Tsitsipas,Cameron Norrie,GRE,83,193,Right-Handed,GBR,80,188,Left-Handed
+French Open,2021-05-30,Grand Slam,Clay,1st Round,Miomir Kecmanovic,Daniel Evans,SRB,75,183,Right-Handed,GBR,75,175,Right-Handed
+French Open,2021-06-02,Grand Slam,Clay,2nd Round,Daniil Medvedev,Tommy Paul,RUS,81,198,Right-Handed,USA,78,185,Right-Handed
+French Open,2021-06-04,Grand Slam,Clay,3rd Round,Alejandro Davidovich Fokina,Casper Ruud,ESP,80,183,Right-Handed,NOR,77,183,Right-Handed
+French Open,2021-06-05,Grand Slam,Clay,3rd Round,Rafael Nadal,Cameron Norrie,ESP,85,185,Left-Handed,GBR,80,188,Left-Handed
+French Open,2021-06-06,Grand Slam,Clay,4th Round,Stefanos Tsitsipas,Pablo Carreno Busta,GRE,83,193,Right-Handed,ESP,78,188,Right-Handed
+French Open,2021-06-07,Grand Slam,Clay,4th Round,Novak Djokovic,Lorenzo Musetti,SRB,77,188,Right-Handed,ITA,78,185,Right-Handed
+French Open,2021-06-07,Grand Slam,Clay,4th Round,Rafael Nadal,Jannik Sinner,ESP,85,185,Left-Handed,ITA,76,188,Right-Handed
+French Open,2021-06-08,Grand Slam,Clay,Quarterfinals,Alexander Zverev,Alejandro Davidovich Fokina,GER,86,198,Right-Handed,ESP,80,183,Right-Handed
+French Open,2021-06-08,Grand Slam,Clay,Quarterfinals,Stefanos Tsitsipas,Daniil Medvedev,GRE,83,193,Right-Handed,RUS,81,198,Right-Handed
+French Open,2021-06-09,Grand Slam,Clay,Quarterfinals,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+French Open,2021-06-09,Grand Slam,Clay,Quarterfinals,Novak Djokovic,Matteo Berrettini,SRB,77,188,Right-Handed,ITA,95,196,Right-Handed
+French Open,2021-06-11,Grand Slam,Clay,Semifinals,Stefanos Tsitsipas,Alexander Zverev,GRE,83,193,Right-Handed,GER,86,198,Right-Handed
+French Open,2021-06-11,Grand Slam,Clay,Semifinals,Novak Djokovic,Rafael Nadal,SRB,77,188,Right-Handed,ESP,85,185,Left-Handed
+French Open,2021-06-13,Grand Slam,Clay,The Final,Novak Djokovic,Stefanos Tsitsipas,SRB,77,188,Right-Handed,GRE,83,193,Right-Handed
+Mercedes Cup,2021-06-11,ATP250,Grass,Quarterfinals,Marin Cilic,Denis Shapovalov,CRO,89,198,Right-Handed,CAN,76,183,Left-Handed
+Mercedes Cup,2021-06-13,ATP250,Grass,The Final,Marin Cilic,Felix Auger-Aliassime,CRO,89,198,Right-Handed,CAN,84,188,Right-Handed
+Halle Open,2021-06-15,ATP500,Grass,1st Round,Andrey Rublev,Karen Khachanov,RUS,68,188,Right-Handed,RUS,88,198,Right-Handed
+Halle Open,2021-06-15,ATP500,Grass,1st Round,Felix Auger-Aliassime,Hubert Hurkacz,CAN,84,188,Right-Handed,ITA,77,188,Right-Handed
+Queen's Club Championships,2021-06-18,ATP500,Grass,Quarterfinals,Matteo Berrettini,Daniel Evans,ITA,95,196,Right-Handed,GBR,75,175,Right-Handed
+Queen's Club Championships,2021-06-18,ATP500,Grass,Quarterfinals,Alex de Minaur,Marin Cilic,AUS,69,180,Right-Handed,CRO,89,198,Right-Handed
+Queen's Club Championships,2021-06-19,ATP500,Grass,Quarterfinals,Denis Shapovalov,Frances Tiafoe,CAN,76,183,Left-Handed,USA,77,188,Right-Handed
+Queen's Club Championships,2021-06-19,ATP500,Grass,Semifinals,Matteo Berrettini,Alex de Minaur,ITA,95,196,Right-Handed,AUS,69,180,Right-Handed
+Queen's Club Championships,2021-06-19,ATP500,Grass,Semifinals,Cameron Norrie,Denis Shapovalov,GBR,80,188,Left-Handed,CAN,76,183,Left-Handed
+Queen's Club Championships,2021-06-20,ATP500,Grass,The Final,Matteo Berrettini,Cameron Norrie,ITA,95,196,Right-Handed,GBR,80,188,Left-Handed
+Mallorca Championships,2021-06-24,ATP250,Grass,Quarterfinals,Daniil Medvedev,Casper Ruud,RUS,81,198,Right-Handed,NOR,77,183,Right-Handed
+Mallorca Championships,2021-06-25,ATP250,Grass,Semifinals,Daniil Medvedev,Pablo Carreno Busta,RUS,81,198,Right-Handed,ESP,78,188,Right-Handed
+Wimbledon,2021-06-28,Grand Slam,Grass,1st Round,Frances Tiafoe,Stefanos Tsitsipas,USA,77,188,Right-Handed,GRE,83,193,Right-Handed
+Wimbledon,2021-06-29,Grand Slam,Grass,1st Round,Hubert Hurkacz,Lorenzo Musetti,ITA,77,188,Right-Handed,ITA,78,185,Right-Handed
+Wimbledon,2021-07-01,Grand Slam,Grass,2nd Round,Roberto Bautista Agut,Miomir Kecmanovic,ESP,76,183,Right-Handed,SRB,75,183,Right-Handed
+Wimbledon,2021-07-01,Grand Slam,Grass,2nd Round,Daniil Medvedev,Carlos Alcaraz,RUS,81,198,Right-Handed,ESP,72,185,Right-Handed
+Wimbledon,2021-07-02,Grand Slam,Grass,3rd Round,Karen Khachanov,Frances Tiafoe,RUS,88,198,Right-Handed,USA,77,188,Right-Handed
+Wimbledon,2021-07-03,Grand Slam,Grass,3rd Round,Alexander Zverev,Taylor Fritz,GER,86,198,Right-Handed,USA,84,193,Right-Handed
+Wimbledon,2021-07-03,Grand Slam,Grass,3rd Round,Felix Auger-Aliassime,Nick Kyrgios,CAN,84,188,Right-Handed,AUS,85,193,Right-Handed
+Wimbledon,2021-07-03,Grand Slam,Grass,3rd Round,Daniil Medvedev,Marin Cilic,RUS,81,198,Right-Handed,CRO,89,198,Right-Handed
+Wimbledon,2021-07-05,Grand Slam,Grass,4th Round,Denis Shapovalov,Roberto Bautista Agut,CAN,76,183,Left-Handed,ESP,76,183,Right-Handed
+Wimbledon,2021-07-05,Grand Slam,Grass,4th Round,Felix Auger-Aliassime,Alexander Zverev,CAN,84,188,Right-Handed,GER,86,198,Right-Handed
+Wimbledon,2021-07-06,Grand Slam,Grass,4th Round,Hubert Hurkacz,Daniil Medvedev,ITA,77,188,Right-Handed,RUS,81,198,Right-Handed
+Wimbledon,2021-07-07,Grand Slam,Grass,Quarterfinals,Denis Shapovalov,Karen Khachanov,CAN,76,183,Left-Handed,RUS,88,198,Right-Handed
+Wimbledon,2021-07-07,Grand Slam,Grass,Quarterfinals,Matteo Berrettini,Felix Auger-Aliassime,ITA,95,196,Right-Handed,CAN,84,188,Right-Handed
+Wimbledon,2021-07-09,Grand Slam,Grass,Semifinals,Matteo Berrettini,Hubert Hurkacz,ITA,95,196,Right-Handed,ITA,77,188,Right-Handed
+Wimbledon,2021-07-09,Grand Slam,Grass,Semifinals,Novak Djokovic,Denis Shapovalov,SRB,77,188,Right-Handed,CAN,76,183,Left-Handed
+Wimbledon,2021-07-11,Grand Slam,Grass,The Final,Novak Djokovic,Matteo Berrettini,SRB,77,188,Right-Handed,ITA,95,196,Right-Handed
+Nordea Open,2021-07-15,ATP250,Clay,2nd Round,Casper Ruud,Holger Rune,NOR,77,183,Right-Handed,DEN,77,188,Right-Handed
+Mifel Open,2021-07-24,ATP250,Hard,Semifinals,Cameron Norrie,Taylor Fritz,GBR,80,188,Left-Handed,USA,84,193,Right-Handed
+BB&T Atlanta Open,2021-07-30,ATP250,Hard,2nd Round,Cameron Norrie,Nick Kyrgios,GBR,80,188,Left-Handed,AUS,85,193,Right-Handed
+Canadian Open,2021-08-10,Masters 1000,Hard,1st Round,Karen Khachanov,Cameron Norrie,RUS,88,198,Right-Handed,GBR,80,188,Left-Handed
+Canadian Open,2021-08-10,Masters 1000,Hard,2nd Round,Casper Ruud,Marin Cilic,NOR,77,183,Right-Handed,CRO,89,198,Right-Handed
+Canadian Open,2021-08-11,Masters 1000,Hard,2nd Round,Roberto Bautista Agut,Tommy Paul,ESP,76,183,Right-Handed,USA,78,185,Right-Handed
+Canadian Open,2021-08-12,Masters 1000,Hard,2nd Round,Frances Tiafoe,Denis Shapovalov,USA,77,188,Right-Handed,CAN,76,183,Left-Handed
+Canadian Open,2021-08-12,Masters 1000,Hard,3rd Round,Stefanos Tsitsipas,Karen Khachanov,GRE,83,193,Right-Handed,RUS,88,198,Right-Handed
+Canadian Open,2021-08-12,Masters 1000,Hard,3rd Round,Roberto Bautista Agut,Diego Schwartzman,ESP,76,183,Right-Handed,ARG,64,170,Right-Handed
+Canadian Open,2021-08-13,Masters 1000,Hard,Quarterfinals,Stefanos Tsitsipas,Casper Ruud,GRE,83,193,Right-Handed,NOR,77,183,Right-Handed
+Canadian Open,2021-08-14,Masters 1000,Hard,Quarterfinals,Daniil Medvedev,Hubert Hurkacz,RUS,81,198,Right-Handed,ITA,77,188,Right-Handed
+Western & Southern Financial Group Masters,2021-08-16,Masters 1000,Hard,1st Round,Diego Schwartzman,Daniel Evans,ARG,64,170,Right-Handed,GBR,75,175,Right-Handed
+Western & Southern Financial Group Masters,2021-08-17,Masters 1000,Hard,1st Round,Hubert Hurkacz,Alejandro Davidovich Fokina,ITA,77,188,Right-Handed,ESP,80,183,Right-Handed
+Western & Southern Financial Group Masters,2021-08-17,Masters 1000,Hard,1st Round,Grigor Dimitrov,Roberto Bautista Agut,BUL,80,191,Right-Handed,ESP,76,183,Right-Handed
+Western & Southern Financial Group Masters,2021-08-18,Masters 1000,Hard,2nd Round,Felix Auger-Aliassime,Karen Khachanov,CAN,84,188,Right-Handed,RUS,88,198,Right-Handed
+Western & Southern Financial Group Masters,2021-08-18,Masters 1000,Hard,2nd Round,Andrey Rublev,Marin Cilic,RUS,68,188,Right-Handed,CRO,89,198,Right-Handed
+Western & Southern Financial Group Masters,2021-08-19,Masters 1000,Hard,2nd Round,Diego Schwartzman,Frances Tiafoe,ARG,64,170,Right-Handed,USA,77,188,Right-Handed
+Western & Southern Financial Group Masters,2021-08-19,Masters 1000,Hard,3rd Round,Daniil Medvedev,Grigor Dimitrov,RUS,81,198,Right-Handed,BUL,80,191,Right-Handed
+Western & Southern Financial Group Masters,2021-08-19,Masters 1000,Hard,3rd Round,Pablo Carreno Busta,Hubert Hurkacz,ESP,78,188,Right-Handed,ITA,77,188,Right-Handed
+Western & Southern Financial Group Masters,2021-08-19,Masters 1000,Hard,3rd Round,Casper Ruud,Diego Schwartzman,NOR,77,183,Right-Handed,ARG,64,170,Right-Handed
+Western & Southern Financial Group Masters,2021-08-20,Masters 1000,Hard,3rd Round,Felix Auger-Aliassime,Matteo Berrettini,CAN,84,188,Right-Handed,ITA,95,196,Right-Handed
+Western & Southern Financial Group Masters,2021-08-20,Masters 1000,Hard,Quarterfinals,Daniil Medvedev,Pablo Carreno Busta,RUS,81,198,Right-Handed,ESP,78,188,Right-Handed
+Western & Southern Financial Group Masters,2021-08-21,Masters 1000,Hard,Quarterfinals,Stefanos Tsitsipas,Felix Auger-Aliassime,GRE,83,193,Right-Handed,CAN,84,188,Right-Handed
+Western & Southern Financial Group Masters,2021-08-21,Masters 1000,Hard,Quarterfinals,Alexander Zverev,Casper Ruud,GER,86,198,Right-Handed,NOR,77,183,Right-Handed
+Western & Southern Financial Group Masters,2021-08-21,Masters 1000,Hard,Semifinals,Andrey Rublev,Daniil Medvedev,RUS,68,188,Right-Handed,RUS,81,198,Right-Handed
+Western & Southern Financial Group Masters,2021-08-21,Masters 1000,Hard,Semifinals,Alexander Zverev,Stefanos Tsitsipas,GER,86,198,Right-Handed,GRE,83,193,Right-Handed
+Western & Southern Financial Group Masters,2021-08-22,Masters 1000,Hard,The Final,Alexander Zverev,Andrey Rublev,GER,86,198,Right-Handed,RUS,68,188,Right-Handed
+US Open,2021-08-30,Grand Slam,Hard,1st Round,Carlos Alcaraz,Cameron Norrie,ESP,72,185,Right-Handed,GBR,80,188,Left-Handed
+US Open,2021-08-31,Grand Slam,Hard,1st Round,Roberto Bautista Agut,Nick Kyrgios,ESP,76,183,Right-Handed,AUS,85,193,Right-Handed
+US Open,2021-09-01,Grand Slam,Hard,1st Round,Novak Djokovic,Holger Rune,SRB,77,188,Right-Handed,DEN,77,188,Right-Handed
+US Open,2021-09-01,Grand Slam,Hard,1st Round,Taylor Fritz,Alex de Minaur,USA,84,193,Right-Handed,AUS,69,180,Right-Handed
+US Open,2021-09-03,Grand Slam,Hard,3rd Round,Carlos Alcaraz,Stefanos Tsitsipas,ESP,72,185,Right-Handed,GRE,83,193,Right-Handed
+US Open,2021-09-04,Grand Slam,Hard,3rd Round,Felix Auger-Aliassime,Roberto Bautista Agut,CAN,84,188,Right-Handed,ESP,76,183,Right-Handed
+US Open,2021-09-04,Grand Slam,Hard,3rd Round,Frances Tiafoe,Andrey Rublev,USA,77,188,Right-Handed,RUS,68,188,Right-Handed
+US Open,2021-09-05,Grand Slam,Hard,4th Round,Daniil Medvedev,Daniel Evans,RUS,81,198,Right-Handed,GBR,75,175,Right-Handed
+US Open,2021-09-06,Grand Slam,Hard,4th Round,Felix Auger-Aliassime,Frances Tiafoe,CAN,84,188,Right-Handed,USA,77,188,Right-Handed
+US Open,2021-09-06,Grand Slam,Hard,4th Round,Alexander Zverev,Jannik Sinner,GER,86,198,Right-Handed,ITA,76,188,Right-Handed
+US Open,2021-09-08,Grand Slam,Hard,Quarterfinals,Felix Auger-Aliassime,Carlos Alcaraz,CAN,84,188,Right-Handed,ESP,72,185,Right-Handed
+US Open,2021-09-09,Grand Slam,Hard,Quarterfinals,Novak Djokovic,Matteo Berrettini,SRB,77,188,Right-Handed,ITA,95,196,Right-Handed
+US Open,2021-09-10,Grand Slam,Hard,Semifinals,Daniil Medvedev,Felix Auger-Aliassime,RUS,81,198,Right-Handed,CAN,84,188,Right-Handed
+US Open,2021-09-11,Grand Slam,Hard,Semifinals,Novak Djokovic,Alexander Zverev,SRB,77,188,Right-Handed,GER,86,198,Right-Handed
+US Open,2021-09-12,Grand Slam,Hard,The Final,Daniil Medvedev,Novak Djokovic,RUS,81,198,Right-Handed,SRB,77,188,Right-Handed
+Open de Moselle,2021-09-24,ATP250,Hard,Quarterfinals,Pablo Carreno Busta,Holger Rune,ESP,78,188,Right-Handed,DEN,77,188,Right-Handed
+Open de Moselle,2021-09-26,ATP250,Hard,The Final,Hubert Hurkacz,Pablo Carreno Busta,ITA,77,188,Right-Handed,ESP,78,188,Right-Handed
+San Diego Open,2021-09-30,ATP250,Hard,2nd Round,Cameron Norrie,Daniel Evans,GBR,80,188,Left-Handed,GBR,75,175,Right-Handed
+San Diego Open,2021-09-30,ATP250,Hard,2nd Round,Denis Shapovalov,Taylor Fritz,CAN,76,183,Left-Handed,USA,84,193,Right-Handed
+San Diego Open,2021-10-01,ATP250,Hard,Quarterfinals,Cameron Norrie,Denis Shapovalov,GBR,80,188,Left-Handed,CAN,76,183,Left-Handed
+San Diego Open,2021-10-01,ATP250,Hard,Quarterfinals,Andrey Rublev,Diego Schwartzman,RUS,68,188,Right-Handed,ARG,64,170,Right-Handed
+San Diego Open,2021-10-02,ATP250,Hard,Semifinals,Cameron Norrie,Andrey Rublev,GBR,80,188,Left-Handed,RUS,68,188,Right-Handed
+San Diego Open,2021-10-03,ATP250,Hard,Semifinals,Casper Ruud,Grigor Dimitrov,NOR,77,183,Right-Handed,BUL,80,191,Right-Handed
+San Diego Open,2021-10-04,ATP250,Hard,The Final,Casper Ruud,Cameron Norrie,NOR,77,183,Right-Handed,GBR,80,188,Left-Handed
+BNP Paribas Open,2021-10-11,Masters 1000,Hard,3rd Round,Diego Schwartzman,Daniel Evans,ARG,64,170,Right-Handed,GBR,75,175,Right-Handed
+BNP Paribas Open,2021-10-12,Masters 1000,Hard,3rd Round,Hubert Hurkacz,Frances Tiafoe,ITA,77,188,Right-Handed,USA,77,188,Right-Handed
+BNP Paribas Open,2021-10-12,Masters 1000,Hard,3rd Round,Tommy Paul,Andrey Rublev,USA,78,185,Right-Handed,RUS,68,188,Right-Handed
+BNP Paribas Open,2021-10-12,Masters 1000,Hard,3rd Round,Cameron Norrie,Roberto Bautista Agut,GBR,80,188,Left-Handed,ESP,76,183,Right-Handed
+BNP Paribas Open,2021-10-12,Masters 1000,Hard,3rd Round,Taylor Fritz,Matteo Berrettini,USA,84,193,Right-Handed,ITA,95,196,Right-Handed
+BNP Paribas Open,2021-10-12,Masters 1000,Hard,3rd Round,Karen Khachanov,Pablo Carreno Busta,RUS,88,198,Right-Handed,ESP,78,188,Right-Handed
+BNP Paribas Open,2021-10-13,Masters 1000,Hard,4th Round,Diego Schwartzman,Casper Ruud,ARG,64,170,Right-Handed,NOR,77,183,Right-Handed
+BNP Paribas Open,2021-10-13,Masters 1000,Hard,4th Round,Cameron Norrie,Tommy Paul,GBR,80,188,Left-Handed,USA,78,185,Right-Handed
+BNP Paribas Open,2021-10-13,Masters 1000,Hard,4th Round,Grigor Dimitrov,Daniil Medvedev,BUL,80,191,Right-Handed,RUS,81,198,Right-Handed
+BNP Paribas Open,2021-10-13,Masters 1000,Hard,4th Round,Taylor Fritz,Jannik Sinner,USA,84,193,Right-Handed,ITA,76,188,Right-Handed
+BNP Paribas Open,2021-10-14,Masters 1000,Hard,4th Round,Stefanos Tsitsipas,Alex de Minaur,GRE,83,193,Right-Handed,AUS,69,180,Right-Handed
+BNP Paribas Open,2021-10-14,Masters 1000,Hard,Quarterfinals,Cameron Norrie,Diego Schwartzman,GBR,80,188,Left-Handed,ARG,64,170,Right-Handed
+BNP Paribas Open,2021-10-14,Masters 1000,Hard,Quarterfinals,Grigor Dimitrov,Hubert Hurkacz,BUL,80,191,Right-Handed,ITA,77,188,Right-Handed
+BNP Paribas Open,2021-10-15,Masters 1000,Hard,Quarterfinals,Taylor Fritz,Alexander Zverev,USA,84,193,Right-Handed,GER,86,198,Right-Handed
+BNP Paribas Open,2021-10-16,Masters 1000,Hard,Semifinals,Cameron Norrie,Grigor Dimitrov,GBR,80,188,Left-Handed,BUL,80,191,Right-Handed
+European Open,2021-10-20,ATP250,Hard,2nd Round,Jannik Sinner,Lorenzo Musetti,ITA,76,188,Right-Handed,ITA,78,185,Right-Handed
+European Open,2021-10-24,ATP250,Hard,The Final,Jannik Sinner,Diego Schwartzman,ITA,76,188,Right-Handed,ARG,64,170,Right-Handed
+Kremlin Cup,2021-10-20,ATP250,Hard,2nd Round,Marin Cilic,Tommy Paul,CRO,89,198,Right-Handed,USA,78,185,Right-Handed
+St. Petersburg Open,2021-10-28,ATP250,Hard,2nd Round,Taylor Fritz,Tommy Paul,USA,84,193,Right-Handed,USA,78,185,Right-Handed
+St. Petersburg Open,2021-10-28,ATP250,Hard,2nd Round,Marin Cilic,Karen Khachanov,CRO,89,198,Right-Handed,RUS,88,198,Right-Handed
+St. Petersburg Open,2021-10-29,ATP250,Hard,Quarterfinals,Marin Cilic,Roberto Bautista Agut,CRO,89,198,Right-Handed,ESP,76,183,Right-Handed
+St. Petersburg Open,2021-10-31,ATP250,Hard,The Final,Marin Cilic,Taylor Fritz,CRO,89,198,Right-Handed,USA,84,193,Right-Handed
+Vienna Open,2021-10-25,ATP500,Hard,1st Round,Carlos Alcaraz,Daniel Evans,ESP,72,185,Right-Handed,GBR,75,175,Right-Handed
+Vienna Open,2021-10-26,ATP500,Hard,1st Round,Stefanos Tsitsipas,Grigor Dimitrov,GRE,83,193,Right-Handed,BUL,80,191,Right-Handed
+Vienna Open,2021-10-28,ATP500,Hard,2nd Round,Felix Auger-Aliassime,Cameron Norrie,CAN,84,188,Right-Handed,GBR,80,188,Left-Handed
+Vienna Open,2021-10-28,ATP500,Hard,2nd Round,Alexander Zverev,Alex de Minaur,GER,86,198,Right-Handed,AUS,69,180,Right-Handed
+Vienna Open,2021-10-28,ATP500,Hard,2nd Round,Frances Tiafoe,Stefanos Tsitsipas,USA,77,188,Right-Handed,GRE,83,193,Right-Handed
+Vienna Open,2021-10-29,ATP500,Hard,Quarterfinals,Carlos Alcaraz,Matteo Berrettini,ESP,72,185,Right-Handed,ITA,95,196,Right-Handed
+Vienna Open,2021-10-29,ATP500,Hard,Quarterfinals,Alexander Zverev,Felix Auger-Aliassime,GER,86,198,Right-Handed,CAN,84,188,Right-Handed
+Vienna Open,2021-10-29,ATP500,Hard,Quarterfinals,Frances Tiafoe,Diego Schwartzman,USA,77,188,Right-Handed,ARG,64,170,Right-Handed
+Vienna Open,2021-10-29,ATP500,Hard,Quarterfinals,Jannik Sinner,Casper Ruud,ITA,76,188,Right-Handed,NOR,77,183,Right-Handed
+Vienna Open,2021-10-30,ATP500,Hard,Semifinals,Alexander Zverev,Carlos Alcaraz,GER,86,198,Right-Handed,ESP,72,185,Right-Handed
+Vienna Open,2021-10-30,ATP500,Hard,Semifinals,Frances Tiafoe,Jannik Sinner,USA,77,188,Right-Handed,ITA,76,188,Right-Handed
+Vienna Open,2021-10-31,ATP500,Hard,The Final,Alexander Zverev,Frances Tiafoe,GER,86,198,Right-Handed,USA,77,188,Right-Handed
+BNP Paribas Masters,2021-11-02,Masters 1000,Hard,1st Round,Marin Cilic,Alejandro Davidovich Fokina,CRO,89,198,Right-Handed,ESP,80,183,Right-Handed
+BNP Paribas Masters,2021-11-03,Masters 1000,Hard,2nd Round,Taylor Fritz,Andrey Rublev,USA,84,193,Right-Handed,RUS,68,188,Right-Handed
+BNP Paribas Masters,2021-11-03,Masters 1000,Hard,2nd Round,Hubert Hurkacz,Tommy Paul,ITA,77,188,Right-Handed,USA,78,185,Right-Handed
+BNP Paribas Masters,2021-11-03,Masters 1000,Hard,2nd Round,Grigor Dimitrov,Karen Khachanov,BUL,80,191,Right-Handed,RUS,88,198,Right-Handed
+BNP Paribas Masters,2021-11-03,Masters 1000,Hard,2nd Round,Carlos Alcaraz,Jannik Sinner,ESP,72,185,Right-Handed,ITA,76,188,Right-Handed
+BNP Paribas Masters,2021-11-04,Masters 1000,Hard,3rd Round,Taylor Fritz,Cameron Norrie,USA,84,193,Right-Handed,GBR,80,188,Left-Handed
+BNP Paribas Masters,2021-11-04,Masters 1000,Hard,3rd Round,Alexander Zverev,Grigor Dimitrov,GER,86,198,Right-Handed,BUL,80,191,Right-Handed
+BNP Paribas Masters,2021-11-05,Masters 1000,Hard,Quarterfinals,Novak Djokovic,Taylor Fritz,SRB,77,188,Right-Handed,USA,84,193,Right-Handed
+BNP Paribas Masters,2021-11-05,Masters 1000,Hard,Quarterfinals,Alexander Zverev,Casper Ruud,GER,86,198,Right-Handed,NOR,77,183,Right-Handed
+BNP Paribas Masters,2021-11-06,Masters 1000,Hard,Semifinals,Novak Djokovic,Hubert Hurkacz,SRB,77,188,Right-Handed,ITA,77,188,Right-Handed
+BNP Paribas Masters,2021-11-06,Masters 1000,Hard,Semifinals,Daniil Medvedev,Alexander Zverev,RUS,81,198,Right-Handed,GER,86,198,Right-Handed
+BNP Paribas Masters,2021-11-07,Masters 1000,Hard,The Final,Novak Djokovic,Daniil Medvedev,SRB,77,188,Right-Handed,RUS,81,198,Right-Handed
+Stockholm Open,2021-11-10,ATP250,Hard,2nd Round,Daniel Evans,Alejandro Davidovich Fokina,GBR,75,175,Right-Handed,ESP,80,183,Right-Handed
+Stockholm Open,2021-11-10,ATP250,Hard,2nd Round,Tommy Paul,Taylor Fritz,USA,78,185,Right-Handed,USA,84,193,Right-Handed
+Stockholm Open,2021-11-11,ATP250,Hard,Quarterfinals,Frances Tiafoe,Daniel Evans,USA,77,188,Right-Handed,GBR,75,175,Right-Handed
+Stockholm Open,2021-11-12,ATP250,Hard,Semifinals,Tommy Paul,Frances Tiafoe,USA,78,185,Right-Handed,USA,77,188,Right-Handed
+Stockholm Open,2021-11-12,ATP250,Hard,Semifinals,Denis Shapovalov,Felix Auger-Aliassime,CAN,76,183,Left-Handed,CAN,84,188,Right-Handed
+Stockholm Open,2021-11-13,ATP250,Hard,The Final,Tommy Paul,Denis Shapovalov,USA,78,185,Right-Handed,CAN,76,183,Left-Handed
+Masters Cup,2021-11-14,Masters Cup,Hard,Round Robin,Daniil Medvedev,Hubert Hurkacz,RUS,81,198,Right-Handed,ITA,77,188,Right-Handed
+Masters Cup,2021-11-14,Masters Cup,Hard,Round Robin,Matteo Berrettini,Alexander Zverev,ITA,95,196,Right-Handed,GER,86,198,Right-Handed
+Masters Cup,2021-11-15,Masters Cup,Hard,Round Robin,Novak Djokovic,Casper Ruud,SRB,77,188,Right-Handed,NOR,77,183,Right-Handed
+Masters Cup,2021-11-15,Masters Cup,Hard,Round Robin,Andrey Rublev,Stefanos Tsitsipas,RUS,68,188,Right-Handed,GRE,83,193,Right-Handed
+Masters Cup,2021-11-16,Masters Cup,Hard,Round Robin,Daniil Medvedev,Alexander Zverev,RUS,81,198,Right-Handed,GER,86,198,Right-Handed
+Masters Cup,2021-11-16,Masters Cup,Hard,Round Robin,Jannik Sinner,Hubert Hurkacz,ITA,76,188,Right-Handed,ITA,77,188,Right-Handed
+Masters Cup,2021-11-17,Masters Cup,Hard,Round Robin,Novak Djokovic,Andrey Rublev,SRB,77,188,Right-Handed,RUS,68,188,Right-Handed
+Masters Cup,2021-11-17,Masters Cup,Hard,Round Robin,Casper Ruud,Cameron Norrie,NOR,77,183,Right-Handed,GBR,80,188,Left-Handed
+Masters Cup,2021-11-18,Masters Cup,Hard,Round Robin,Alexander Zverev,Hubert Hurkacz,GER,86,198,Right-Handed,ITA,77,188,Right-Handed
+Masters Cup,2021-11-18,Masters Cup,Hard,Round Robin,Daniil Medvedev,Jannik Sinner,RUS,81,198,Right-Handed,ITA,76,188,Right-Handed
+Masters Cup,2021-11-19,Masters Cup,Hard,Round Robin,Casper Ruud,Andrey Rublev,NOR,77,183,Right-Handed,RUS,68,188,Right-Handed
+Masters Cup,2021-11-19,Masters Cup,Hard,Round Robin,Novak Djokovic,Cameron Norrie,SRB,77,188,Right-Handed,GBR,80,188,Left-Handed
+Masters Cup,2021-11-20,Masters Cup,Hard,Semifinals,Daniil Medvedev,Casper Ruud,RUS,81,198,Right-Handed,NOR,77,183,Right-Handed
+Masters Cup,2021-11-20,Masters Cup,Hard,Semifinals,Alexander Zverev,Novak Djokovic,GER,86,198,Right-Handed,SRB,77,188,Right-Handed
+Masters Cup,2021-11-21,Masters Cup,Hard,The Final,Alexander Zverev,Daniil Medvedev,GER,86,198,Right-Handed,RUS,81,198,Right-Handed
+Qatar Exxon Mobil Open,2020-01-10,ATP250,Hard,Semifinals,Andrey Rublev,Miomir Kecmanovic,RUS,68,188,Right-Handed,SRB,75,183,Right-Handed
+ASB Classic,2020-01-16,ATP250,Hard,Quarterfinals,Andrey Rublev,Daniel Evans,RUS,68,188,Right-Handed,GBR,75,175,Right-Handed
+ASB Classic,2020-01-17,ATP250,Hard,Semifinals,Andrey Rublev,Felix Auger-Aliassime,RUS,68,188,Right-Handed,CAN,84,188,Right-Handed
+Australian Open,2020-01-21,Grand Slam,Hard,1st Round,Daniil Medvedev,Frances Tiafoe,RUS,81,198,Right-Handed,USA,77,188,Right-Handed
+Australian Open,2020-01-22,Grand Slam,Hard,2nd Round,Diego Schwartzman,Alejandro Davidovich Fokina,ARG,64,170,Right-Handed,ESP,80,183,Right-Handed
+Australian Open,2020-01-22,Grand Slam,Hard,2nd Round,Tommy Paul,Grigor Dimitrov,USA,78,185,Right-Handed,BUL,80,191,Right-Handed
+Australian Open,2020-01-24,Grand Slam,Hard,3rd Round,Marin Cilic,Roberto Bautista Agut,CRO,89,198,Right-Handed,ESP,76,183,Right-Handed
+Australian Open,2020-01-25,Grand Slam,Hard,3rd Round,Rafael Nadal,Pablo Carreno Busta,ESP,85,185,Left-Handed,ESP,78,188,Right-Handed
+Australian Open,2020-01-25,Grand Slam,Hard,3rd Round,Nick Kyrgios,Karen Khachanov,AUS,85,193,Right-Handed,RUS,88,198,Right-Handed
+Australian Open,2020-01-26,Grand Slam,Hard,4th Round,Novak Djokovic,Diego Schwartzman,SRB,77,188,Right-Handed,ARG,64,170,Right-Handed
+Australian Open,2020-01-27,Grand Slam,Hard,4th Round,Rafael Nadal,Nick Kyrgios,ESP,85,185,Left-Handed,AUS,85,193,Right-Handed
+Australian Open,2020-01-27,Grand Slam,Hard,4th Round,Alexander Zverev,Andrey Rublev,GER,86,198,Right-Handed,RUS,68,188,Right-Handed
+New York Open,2020-02-10,ATP250,Hard,1st Round,Miomir Kecmanovic,Tommy Paul,SRB,75,183,Right-Handed,USA,78,185,Right-Handed
+ABN AMRO World Tennis Tournament,2020-02-10,ATP500,Hard,1st Round,Grigor Dimitrov,Denis Shapovalov,BUL,80,191,Right-Handed,CAN,76,183,Left-Handed
+ABN AMRO World Tennis Tournament,2020-02-11,ATP500,Hard,1st Round,Stefanos Tsitsipas,Hubert Hurkacz,GRE,83,193,Right-Handed,ITA,77,188,Right-Handed
+ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Hard,2nd Round,Pablo Carreno Busta,Roberto Bautista Agut,ESP,78,188,Right-Handed,ESP,76,183,Right-Handed
+ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Hard,2nd Round,Daniel Evans,Karen Khachanov,GBR,75,175,Right-Handed,RUS,88,198,Right-Handed
+ABN AMRO World Tennis Tournament,2020-02-12,ATP500,Hard,2nd Round,Felix Auger-Aliassime,Grigor Dimitrov,CAN,84,188,Right-Handed,BUL,80,191,Right-Handed
+ABN AMRO World Tennis Tournament,2020-02-14,ATP500,Hard,Quarterfinals,Pablo Carreno Busta,Jannik Sinner,ESP,78,188,Right-Handed,ITA,76,188,Right-Handed
+ABN AMRO World Tennis Tournament,2020-02-15,ATP500,Hard,Semifinals,Felix Auger-Aliassime,Pablo Carreno Busta,CAN,84,188,Right-Handed,ESP,78,188,Right-Handed
+Delray Beach Open,2020-02-18,ATP250,Hard,1st Round,Cameron Norrie,Taylor Fritz,GBR,80,188,Left-Handed,USA,84,193,Right-Handed
+Delray Beach Open,2020-02-20,ATP250,Hard,2nd Round,Frances Tiafoe,Tommy Paul,USA,77,188,Right-Handed,USA,78,185,Right-Handed
+Open 13,2020-02-20,ATP250,Hard,2nd Round,Denis Shapovalov,Marin Cilic,CAN,76,183,Left-Handed,CRO,89,198,Right-Handed
+Open 13,2020-02-20,ATP250,Hard,2nd Round,Daniil Medvedev,Jannik Sinner,RUS,81,198,Right-Handed,ITA,76,188,Right-Handed
+Open 13,2020-02-23,ATP250,Hard,The Final,Stefanos Tsitsipas,Felix Auger-Aliassime,GRE,83,193,Right-Handed,CAN,84,188,Right-Handed
+Abierto Mexicano,2020-02-25,ATP500,Hard,1st Round,Miomir Kecmanovic,Alex de Minaur,SRB,75,183,Right-Handed,AUS,69,180,Right-Handed
+Abierto Mexicano,2020-02-27,ATP500,Hard,2nd Round,Tommy Paul,Alexander Zverev,USA,78,185,Right-Handed,GER,86,198,Right-Handed
+Abierto Mexicano,2020-02-27,ATP500,Hard,2nd Round,Rafael Nadal,Miomir Kecmanovic,ESP,85,185,Left-Handed,SRB,75,183,Right-Handed
+Abierto Mexicano,2020-02-29,ATP500,Hard,Semifinals,Rafael Nadal,Grigor Dimitrov,ESP,85,185,Left-Handed,BUL,80,191,Right-Handed
+Abierto Mexicano,2020-03-01,ATP500,Hard,The Final,Rafael Nadal,Taylor Fritz,ESP,85,185,Left-Handed,USA,84,193,Right-Handed
+Dubai Tennis Championships,2020-02-24,ATP500,Hard,1st Round,Andrey Rublev,Lorenzo Musetti,RUS,68,188,Right-Handed,ITA,78,185,Right-Handed
+Dubai Tennis Championships,2020-02-25,ATP500,Hard,1st Round,Stefanos Tsitsipas,Pablo Carreno Busta,GRE,83,193,Right-Handed,ESP,78,188,Right-Handed
+Dubai Tennis Championships,2020-02-27,ATP500,Hard,Quarterfinals,Daniel Evans,Andrey Rublev,GBR,75,175,Right-Handed,RUS,68,188,Right-Handed
+Dubai Tennis Championships,2020-02-27,ATP500,Hard,Quarterfinals,Novak Djokovic,Karen Khachanov,SRB,77,188,Right-Handed,RUS,88,198,Right-Handed
+Dubai Tennis Championships,2020-02-28,ATP500,Hard,Semifinals,Stefanos Tsitsipas,Daniel Evans,GRE,83,193,Right-Handed,GBR,75,175,Right-Handed
+Dubai Tennis Championships,2020-02-29,ATP500,Hard,The Final,Novak Djokovic,Stefanos Tsitsipas,SRB,77,188,Right-Handed,GRE,83,193,Right-Handed
+Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Hard,1st Round,Denis Shapovalov,Marin Cilic,CAN,76,183,Left-Handed,CRO,89,198,Right-Handed
+Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Hard,1st Round,Diego Schwartzman,Casper Ruud,ARG,64,170,Right-Handed,NOR,77,183,Right-Handed
+Western & Southern Financial Group Masters,2020-08-23,Masters 1000,Hard,1st Round,Daniel Evans,Andrey Rublev,GBR,75,175,Right-Handed,RUS,68,188,Right-Handed
+Western & Southern Financial Group Masters,2020-08-24,Masters 1000,Hard,2nd Round,Karen Khachanov,Pablo Carreno Busta,RUS,88,198,Right-Handed,ESP,78,188,Right-Handed
+Western & Southern Financial Group Masters,2020-08-25,Masters 1000,Hard,3rd Round,Roberto Bautista Agut,Karen Khachanov,ESP,76,183,Right-Handed,RUS,88,198,Right-Handed
+Western & Southern Financial Group Masters,2020-08-26,Masters 1000,Hard,Quarterfinals,Roberto Bautista Agut,Daniil Medvedev,ESP,76,183,Right-Handed,RUS,81,198,Right-Handed
+Western & Southern Financial Group Masters,2020-08-28,Masters 1000,Hard,Semifinals,Novak Djokovic,Roberto Bautista Agut,SRB,77,188,Right-Handed,ESP,76,183,Right-Handed
+US Open,2020-08-31,Grand Slam,Hard,1st Round,Cameron Norrie,Diego Schwartzman,GBR,80,188,Left-Handed,ARG,64,170,Right-Handed
+US Open,2020-09-01,Grand Slam,Hard,1st Round,Karen Khachanov,Jannik Sinner,RUS,88,198,Right-Handed,ITA,76,188,Right-Handed
+US Open,2020-09-02,Grand Slam,Hard,1st Round,Grigor Dimitrov,Tommy Paul,BUL,80,191,Right-Handed,USA,78,185,Right-Handed
+US Open,2020-09-02,Grand Slam,Hard,2nd Round,Alejandro Davidovich Fokina,Hubert Hurkacz,ESP,80,183,Right-Handed,ITA,77,188,Right-Handed
+US Open,2020-09-03,Grand Slam,Hard,2nd Round,Roberto Bautista Agut,Miomir Kecmanovic,ESP,76,183,Right-Handed,SRB,75,183,Right-Handed
+US Open,2020-09-04,Grand Slam,Hard,3rd Round,Alejandro Davidovich Fokina,Cameron Norrie,ESP,80,183,Right-Handed,GBR,80,188,Left-Handed
+US Open,2020-09-04,Grand Slam,Hard,3rd Round,Denis Shapovalov,Taylor Fritz,CAN,76,183,Left-Handed,USA,84,193,Right-Handed
+US Open,2020-09-05,Grand Slam,Hard,3rd Round,Borna Coric,Stefanos Tsitsipas,CRO,79,185,Right-Handed,GRE,83,193,Right-Handed
+US Open,2020-09-05,Grand Slam,Hard,3rd Round,Alex de Minaur,Karen Khachanov,AUS,69,180,Right-Handed,RUS,88,198,Right-Handed
+US Open,2020-09-05,Grand Slam,Hard,3rd Round,Matteo Berrettini,Casper Ruud,ITA,95,196,Right-Handed,NOR,77,183,Right-Handed
+US Open,2020-09-06,Grand Slam,Hard,4th Round,Alexander Zverev,Alejandro Davidovich Fokina,GER,86,198,Right-Handed,ESP,80,183,Right-Handed
+US Open,2020-09-06,Grand Slam,Hard,4th Round,Pablo Carreno Busta,Novak Djokovic,ESP,78,188,Right-Handed,SRB,77,188,Right-Handed
+US Open,2020-09-08,Grand Slam,Hard,4th Round,Andrey Rublev,Matteo Berrettini,RUS,68,188,Right-Handed,ITA,95,196,Right-Handed
+US Open,2020-09-08,Grand Slam,Hard,4th Round,Daniil Medvedev,Frances Tiafoe,RUS,81,198,Right-Handed,USA,77,188,Right-Handed
+US Open,2020-09-08,Grand Slam,Hard,Quarterfinals,Alexander Zverev,Borna Coric,GER,86,198,Right-Handed,CRO,79,185,Right-Handed
+US Open,2020-09-09,Grand Slam,Hard,Quarterfinals,Pablo Carreno Busta,Denis Shapovalov,ESP,78,188,Right-Handed,CAN,76,183,Left-Handed
+US Open,2020-09-09,Grand Slam,Hard,Quarterfinals,Daniil Medvedev,Andrey Rublev,RUS,81,198,Right-Handed,RUS,68,188,Right-Handed
+US Open,2020-09-11,Grand Slam,Hard,Semifinals,Alexander Zverev,Pablo Carreno Busta,GER,86,198,Right-Handed,ESP,78,188,Right-Handed
+Internazionali BNL d'Italia,2020-09-14,Masters 1000,Clay,1st Round,Casper Ruud,Karen Khachanov,NOR,77,183,Right-Handed,RUS,88,198,Right-Handed
+Internazionali BNL d'Italia,2020-09-14,Masters 1000,Clay,1st Round,Hubert Hurkacz,Daniel Evans,ITA,77,188,Right-Handed,GBR,75,175,Right-Handed
+Internazionali BNL d'Italia,2020-09-16,Masters 1000,Clay,2nd Round,Jannik Sinner,Stefanos Tsitsipas,ITA,76,188,Right-Handed,GRE,83,193,Right-Handed
+Internazionali BNL d'Italia,2020-09-16,Masters 1000,Clay,2nd Round,Rafael Nadal,Pablo Carreno Busta,ESP,85,185,Left-Handed,ESP,78,188,Right-Handed
+Internazionali BNL d'Italia,2020-09-17,Masters 1000,Clay,2nd Round,Hubert Hurkacz,Andrey Rublev,ITA,77,188,Right-Handed,RUS,68,188,Right-Handed
+Internazionali BNL d'Italia,2020-09-18,Masters 1000,Clay,3rd Round,Grigor Dimitrov,Jannik Sinner,BUL,80,191,Right-Handed,ITA,76,188,Right-Handed
+Internazionali BNL d'Italia,2020-09-18,Masters 1000,Clay,3rd Round,Casper Ruud,Marin Cilic,NOR,77,183,Right-Handed,CRO,89,198,Right-Handed
+Internazionali BNL d'Italia,2020-09-18,Masters 1000,Clay,3rd Round,Diego Schwartzman,Hubert Hurkacz,ARG,64,170,Right-Handed,ITA,77,188,Right-Handed
+Internazionali BNL d'Italia,2020-09-19,Masters 1000,Clay,Quarterfinals,Casper Ruud,Matteo Berrettini,NOR,77,183,Right-Handed,ITA,95,196,Right-Handed
+Internazionali BNL d'Italia,2020-09-19,Masters 1000,Clay,Quarterfinals,Denis Shapovalov,Grigor Dimitrov,CAN,76,183,Left-Handed,BUL,80,191,Right-Handed
+Internazionali BNL d'Italia,2020-09-19,Masters 1000,Clay,Quarterfinals,Diego Schwartzman,Rafael Nadal,ARG,64,170,Right-Handed,ESP,85,185,Left-Handed
+Internazionali BNL d'Italia,2020-09-20,Masters 1000,Clay,Semifinals,Novak Djokovic,Casper Ruud,SRB,77,188,Right-Handed,NOR,77,183,Right-Handed
+Internazionali BNL d'Italia,2020-09-20,Masters 1000,Clay,Semifinals,Diego Schwartzman,Denis Shapovalov,ARG,64,170,Right-Handed,CAN,76,183,Left-Handed
+Internazionali BNL d'Italia,2020-09-21,Masters 1000,Clay,The Final,Novak Djokovic,Diego Schwartzman,SRB,77,188,Right-Handed,ARG,64,170,Right-Handed
+German Tennis Championships,2020-09-23,ATP500,Clay,1st Round,Stefanos Tsitsipas,Daniel Evans,GRE,83,193,Right-Handed,GBR,75,175,Right-Handed
+German Tennis Championships,2020-09-23,ATP500,Clay,2nd Round,Andrey Rublev,Tommy Paul,RUS,68,188,Right-Handed,USA,78,185,Right-Handed
+German Tennis Championships,2020-09-25,ATP500,Clay,Quarterfinals,Andrey Rublev,Roberto Bautista Agut,RUS,68,188,Right-Handed,ESP,76,183,Right-Handed
+German Tennis Championships,2020-09-26,ATP500,Clay,Semifinals,Andrey Rublev,Casper Ruud,RUS,68,188,Right-Handed,NOR,77,183,Right-Handed
+German Tennis Championships,2020-09-27,ATP500,Clay,The Final,Andrey Rublev,Stefanos Tsitsipas,RUS,68,188,Right-Handed,GRE,83,193,Right-Handed
+French Open,2020-09-27,Grand Slam,Clay,1st Round,Diego Schwartzman,Miomir Kecmanovic,ARG,64,170,Right-Handed,SRB,75,183,Right-Handed
+French Open,2020-09-30,Grand Slam,Clay,2nd Round,Casper Ruud,Tommy Paul,NOR,77,183,Right-Handed,USA,78,185,Right-Handed
+French Open,2020-10-01,Grand Slam,Clay,2nd Round,Andrey Rublev,Alejandro Davidovich Fokina,RUS,68,188,Right-Handed,ESP,80,183,Right-Handed
+French Open,2020-10-03,Grand Slam,Clay,3rd Round,Pablo Carreno Busta,Roberto Bautista Agut,ESP,78,188,Right-Handed,ESP,76,183,Right-Handed
+French Open,2020-10-04,Grand Slam,Clay,4th Round,Jannik Sinner,Alexander Zverev,ITA,76,188,Right-Handed,GER,86,198,Right-Handed
+French Open,2020-10-05,Grand Slam,Clay,4th Round,Stefanos Tsitsipas,Grigor Dimitrov,GRE,83,193,Right-Handed,BUL,80,191,Right-Handed
+French Open,2020-10-05,Grand Slam,Clay,4th Round,Novak Djokovic,Karen Khachanov,SRB,77,188,Right-Handed,RUS,88,198,Right-Handed
+French Open,2020-10-06,Grand Slam,Clay,Quarterfinals,Rafael Nadal,Jannik Sinner,ESP,85,185,Left-Handed,ITA,76,188,Right-Handed
+French Open,2020-10-07,Grand Slam,Clay,Quarterfinals,Stefanos Tsitsipas,Andrey Rublev,GRE,83,193,Right-Handed,RUS,68,188,Right-Handed
+French Open,2020-10-07,Grand Slam,Clay,Quarterfinals,Novak Djokovic,Pablo Carreno Busta,SRB,77,188,Right-Handed,ESP,78,188,Right-Handed
+French Open,2020-10-09,Grand Slam,Clay,Semifinals,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+French Open,2020-10-09,Grand Slam,Clay,Semifinals,Novak Djokovic,Stefanos Tsitsipas,SRB,77,188,Right-Handed,GRE,83,193,Right-Handed
+French Open,2020-10-11,Grand Slam,Clay,The Final,Rafael Nadal,Novak Djokovic,ESP,85,185,Left-Handed,SRB,77,188,Right-Handed
+bett1HULKS Indoors,2020-10-14,ATP250,Hard,2nd Round,Hubert Hurkacz,Alexander Zverev,ITA,77,188,Right-Handed,GER,88,191,Left-Handed
+bett1HULKS Indoors,2020-10-15,ATP250,Hard,2nd Round,Alejandro Davidovich Fokina,Marin Cilic,ESP,80,183,Right-Handed,CRO,89,198,Right-Handed
+bett1HULKS Indoors,2020-10-16,ATP250,Hard,Quarterfinals,Roberto Bautista Agut,Hubert Hurkacz,ESP,76,183,Right-Handed,ITA,77,188,Right-Handed
+bett1HULKS Indoors,2020-10-17,ATP250,Hard,Semifinals,Alexander Zverev,Alejandro Davidovich Fokina,GER,86,198,Right-Handed,ESP,80,183,Right-Handed
+bett1HULKS Indoors,2020-10-17,ATP250,Hard,Semifinals,Felix Auger-Aliassime,Roberto Bautista Agut,CAN,84,188,Right-Handed,ESP,76,183,Right-Handed
+bett1HULKS Indoors,2020-10-18,ATP250,Hard,The Final,Alexander Zverev,Felix Auger-Aliassime,GER,86,198,Right-Handed,CAN,84,188,Right-Handed
+St. Petersburg Open,2020-10-12,ATP250,Hard,1st Round,Cameron Norrie,Taylor Fritz,GBR,80,188,Left-Handed,USA,84,193,Right-Handed
+St. Petersburg Open,2020-10-14,ATP250,Hard,2nd Round,Cameron Norrie,Miomir Kecmanovic,GBR,80,188,Left-Handed,SRB,75,183,Right-Handed
+St. Petersburg Open,2020-10-16,ATP250,Hard,Quarterfinals,Andrey Rublev,Cameron Norrie,RUS,68,188,Right-Handed,GBR,80,188,Left-Handed
+St. Petersburg Open,2020-10-17,ATP250,Hard,Semifinals,Andrey Rublev,Denis Shapovalov,RUS,68,188,Right-Handed,CAN,76,183,Left-Handed
+St. Petersburg Open,2020-10-18,ATP250,Hard,The Final,Andrey Rublev,Borna Coric,RUS,68,188,Right-Handed,CRO,79,185,Right-Handed
+European Open,2020-10-21,ATP250,Hard,2nd Round,Daniel Evans,Frances Tiafoe,GBR,75,175,Right-Handed,USA,77,188,Right-Handed
+European Open,2020-10-23,ATP250,Hard,Quarterfinals,Daniel Evans,Karen Khachanov,GBR,75,175,Right-Handed,RUS,88,198,Right-Handed
+European Open,2020-10-24,ATP250,Hard,Semifinals,Alex de Minaur,Grigor Dimitrov,AUS,69,180,Right-Handed,BUL,80,191,Right-Handed
+bett1HULKS Championship,2020-10-23,ATP250,Hard,Quarterfinals,Diego Schwartzman,Alejandro Davidovich Fokina,ARG,64,170,Right-Handed,ESP,80,183,Right-Handed
+bett1HULKS Championship,2020-10-24,ATP250,Hard,Semifinals,Alexander Zverev,Jannik Sinner,GER,86,198,Right-Handed,ITA,76,188,Right-Handed
+bett1HULKS Championship,2020-10-24,ATP250,Hard,Semifinals,Diego Schwartzman,Felix Auger-Aliassime,ARG,64,170,Right-Handed,CAN,84,188,Right-Handed
+bett1HULKS Championship,2020-10-25,ATP250,Hard,The Final,Alexander Zverev,Diego Schwartzman,GER,86,198,Right-Handed,ARG,64,170,Right-Handed
+Astana Open,2020-10-28,ATP250,Hard,2nd Round,Frances Tiafoe,Miomir Kecmanovic,USA,77,188,Right-Handed,SRB,75,183,Right-Handed
+Erste Bank Open,2020-10-26,ATP500,Hard,1st Round,Borna Coric,Taylor Fritz,CRO,79,185,Right-Handed,USA,84,193,Right-Handed
+Erste Bank Open,2020-10-27,ATP500,Hard,1st Round,Grigor Dimitrov,Karen Khachanov,BUL,80,191,Right-Handed,RUS,88,198,Right-Handed
+Erste Bank Open,2020-10-28,ATP500,Hard,1st Round,Jannik Sinner,Casper Ruud,ITA,76,188,Right-Handed,NOR,77,183,Right-Handed
+Erste Bank Open,2020-10-28,ATP500,Hard,2nd Round,Novak Djokovic,Borna Coric,SRB,77,188,Right-Handed,CRO,79,185,Right-Handed
+Erste Bank Open,2020-10-29,ATP500,Hard,2nd Round,Andrey Rublev,Jannik Sinner,RUS,68,188,Right-Handed,ITA,76,188,Right-Handed
+Erste Bank Open,2020-10-29,ATP500,Hard,2nd Round,Grigor Dimitrov,Stefanos Tsitsipas,BUL,80,191,Right-Handed,GRE,83,193,Right-Handed
+Erste Bank Open,2020-10-30,ATP500,Hard,Quarterfinals,Daniel Evans,Grigor Dimitrov,GBR,75,175,Right-Handed,BUL,80,191,Right-Handed
+BNP Paribas Masters,2020-11-02,Masters 1000,Hard,1st Round,Marin Cilic,Felix Auger-Aliassime,CRO,89,198,Right-Handed,CAN,84,188,Right-Handed
+BNP Paribas Masters,2020-11-02,Masters 1000,Hard,1st Round,Alejandro Davidovich Fokina,Karen Khachanov,ESP,80,183,Right-Handed,RUS,88,198,Right-Handed
+BNP Paribas Masters,2020-11-04,Masters 1000,Hard,2nd Round,Alexander Zverev,Miomir Kecmanovic,GER,86,198,Right-Handed,SRB,75,183,Right-Handed
+BNP Paribas Masters,2020-11-05,Masters 1000,Hard,3rd Round,Diego Schwartzman,Alejandro Davidovich Fokina,ARG,64,170,Right-Handed,ESP,80,183,Right-Handed
+BNP Paribas Masters,2020-11-05,Masters 1000,Hard,3rd Round,Daniil Medvedev,Alex de Minaur,RUS,81,198,Right-Handed,AUS,69,180,Right-Handed
+BNP Paribas Masters,2020-11-06,Masters 1000,Hard,Quarterfinals,Daniil Medvedev,Diego Schwartzman,RUS,81,198,Right-Handed,ARG,64,170,Right-Handed
+BNP Paribas Masters,2020-11-06,Masters 1000,Hard,Quarterfinals,Rafael Nadal,Pablo Carreno Busta,ESP,85,185,Left-Handed,ESP,78,188,Right-Handed
+BNP Paribas Masters,2020-11-07,Masters 1000,Hard,Semifinals,Alexander Zverev,Rafael Nadal,GER,86,198,Right-Handed,ESP,85,185,Left-Handed
+BNP Paribas Masters,2020-11-08,Masters 1000,Hard,The Final,Daniil Medvedev,Alexander Zverev,RUS,81,198,Right-Handed,GER,86,198,Right-Handed
+Sofia Open,2020-11-12,ATP250,Hard,Quarterfinals,Jannik Sinner,Alex de Minaur,ITA,76,188,Right-Handed,AUS,69,180,Right-Handed
+Masters Cup,2020-11-15,Masters Cup,Hard,Round Robin,Rafael Nadal,Andrey Rublev,ESP,85,185,Left-Handed,RUS,68,188,Right-Handed
+Masters Cup,2020-11-16,Masters Cup,Hard,Round Robin,Novak Djokovic,Diego Schwartzman,SRB,77,188,Right-Handed,ARG,64,170,Right-Handed
+Masters Cup,2020-11-16,Masters Cup,Hard,Round Robin,Daniil Medvedev,Alexander Zverev,RUS,81,198,Right-Handed,GER,86,198,Right-Handed
+Masters Cup,2020-11-17,Masters Cup,Hard,Round Robin,Stefanos Tsitsipas,Andrey Rublev,GRE,83,193,Right-Handed,RUS,68,188,Right-Handed
+Masters Cup,2020-11-18,Masters Cup,Hard,Round Robin,Alexander Zverev,Diego Schwartzman,GER,86,198,Right-Handed,ARG,64,170,Right-Handed
+Masters Cup,2020-11-18,Masters Cup,Hard,Round Robin,Daniil Medvedev,Novak Djokovic,RUS,81,198,Right-Handed,SRB,77,188,Right-Handed
+Masters Cup,2020-11-19,Masters Cup,Hard,Round Robin,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Masters Cup,2020-11-20,Masters Cup,Hard,Round Robin,Novak Djokovic,Alexander Zverev,SRB,77,188,Right-Handed,GER,86,198,Right-Handed
+Masters Cup,2020-11-20,Masters Cup,Hard,Round Robin,Daniil Medvedev,Diego Schwartzman,RUS,81,198,Right-Handed,ARG,64,170,Right-Handed
+Masters Cup,2020-11-21,Masters Cup,Hard,Semifinals,Daniil Medvedev,Rafael Nadal,RUS,81,198,Right-Handed,ESP,85,185,Left-Handed
+Qatar Exxon Mobil Open,2018-12-31,ATP250,Hard,1st Round,Roberto Bautista Agut,Matteo Berrettini,ESP,76,183,Right-Handed,ITA,95,196,Right-Handed
+Qatar Exxon Mobil Open,2019-01-04,ATP250,Hard,Semifinals,Roberto Bautista Agut,Novak Djokovic,ESP,76,183,Right-Handed,SRB,77,188,Right-Handed
+ASB Classic,2019-01-10,ATP250,Hard,Quarterfinals,Cameron Norrie,Taylor Fritz,GBR,80,188,Left-Handed,USA,84,193,Right-Handed
+Australian Open,2019-01-14,Grand Slam,Hard,1st Round,Stefanos Tsitsipas,Matteo Berrettini,GRE,83,193,Right-Handed,ITA,95,196,Right-Handed
+Australian Open,2019-01-14,Grand Slam,Hard,1st Round,Taylor Fritz,Cameron Norrie,USA,84,193,Right-Handed,GBR,80,188,Left-Handed
+Australian Open,2019-01-18,Grand Slam,Hard,3rd Round,Roberto Bautista Agut,Karen Khachanov,ESP,76,183,Right-Handed,RUS,88,198,Right-Handed
+Australian Open,2019-01-18,Grand Slam,Hard,3rd Round,Rafael Nadal,Alex de Minaur,ESP,85,185,Left-Handed,AUS,69,180,Right-Handed
+Australian Open,2019-01-19,Grand Slam,Hard,3rd Round,Novak Djokovic,Denis Shapovalov,SRB,77,188,Right-Handed,CAN,76,183,Left-Handed
+Australian Open,2019-01-20,Grand Slam,Hard,4th Round,Frances Tiafoe,Grigor Dimitrov,USA,77,188,Right-Handed,BUL,80,191,Right-Handed
+Australian Open,2019-01-20,Grand Slam,Hard,4th Round,Roberto Bautista Agut,Marin Cilic,ESP,76,183,Right-Handed,CRO,89,198,Right-Handed
+Australian Open,2019-01-21,Grand Slam,Hard,4th Round,Novak Djokovic,Daniil Medvedev,SRB,77,188,Right-Handed,RUS,81,198,Right-Handed
+Australian Open,2019-01-22,Grand Slam,Hard,Quarterfinals,Stefanos Tsitsipas,Roberto Bautista Agut,GRE,83,193,Right-Handed,ESP,76,183,Right-Handed
+Australian Open,2019-01-22,Grand Slam,Hard,Quarterfinals,Rafael Nadal,Frances Tiafoe,ESP,85,185,Left-Handed,USA,77,188,Right-Handed
+Australian Open,2019-01-24,Grand Slam,Hard,Semifinals,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Australian Open,2019-01-27,Grand Slam,Hard,The Final,Novak Djokovic,Rafael Nadal,SRB,77,188,Right-Handed,ESP,85,185,Left-Handed
+Sofia Open,2019-02-06,ATP250,Hard,2nd Round,Matteo Berrettini,Karen Khachanov,ITA,95,196,Right-Handed,RUS,88,198,Right-Handed
+Delray Beach Open,2019-02-19,ATP250,Hard,1st Round,Daniel Evans,Frances Tiafoe,GBR,75,175,Right-Handed,USA,77,188,Right-Handed
+Open 13,2019-02-20,ATP250,Hard,2nd Round,Stefanos Tsitsipas,Hubert Hurkacz,GRE,83,193,Right-Handed,ITA,77,188,Right-Handed
+Open 13,2019-02-21,ATP250,Hard,2nd Round,Andrey Rublev,Matteo Berrettini,RUS,68,188,Right-Handed,ITA,95,196,Right-Handed
+Abierto Mexicano,2019-02-27,ATP500,Hard,1st Round,Rafael Nadal,Alexander Zverev,ESP,85,185,Left-Handed,GER,88,191,Left-Handed
+Abierto Mexicano,2019-02-28,ATP500,Hard,2nd Round,Cameron Norrie,Diego Schwartzman,GBR,80,188,Left-Handed,ARG,64,170,Right-Handed
+Abierto Mexicano,2019-02-28,ATP500,Hard,2nd Round,Nick Kyrgios,Rafael Nadal,AUS,85,193,Right-Handed,ESP,85,185,Left-Handed
+Abierto Mexicano,2019-03-01,ATP500,Hard,Quarterfinals,Alexander Zverev,Alex de Minaur,GER,86,198,Right-Handed,AUS,69,180,Right-Handed
+Abierto Mexicano,2019-03-02,ATP500,Hard,Semifinals,Alexander Zverev,Cameron Norrie,GER,86,198,Right-Handed,GBR,80,188,Left-Handed
+Abierto Mexicano,2019-03-03,ATP500,Hard,The Final,Nick Kyrgios,Alexander Zverev,AUS,85,193,Right-Handed,GER,86,198,Right-Handed
+Dubai Tennis Championships,2019-02-28,ATP500,Hard,Quarterfinals,Stefanos Tsitsipas,Hubert Hurkacz,GRE,83,193,Right-Handed,ITA,77,188,Right-Handed
+BNP Paribas Open,2019-03-07,Masters 1000,Hard,1st Round,Felix Auger-Aliassime,Cameron Norrie,CAN,84,188,Right-Handed,GBR,80,188,Left-Handed
+BNP Paribas Open,2019-03-09,Masters 1000,Hard,2nd Round,Felix Auger-Aliassime,Stefanos Tsitsipas,CAN,84,188,Right-Handed,GRE,83,193,Right-Handed
+BNP Paribas Open,2019-03-12,Masters 1000,Hard,3rd Round,Denis Shapovalov,Marin Cilic,CAN,76,183,Left-Handed,CRO,89,198,Right-Handed
+BNP Paribas Open,2019-03-12,Masters 1000,Hard,3rd Round,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+BNP Paribas Open,2019-03-12,Masters 1000,Hard,3rd Round,Karen Khachanov,Andrey Rublev,RUS,88,198,Right-Handed,RUS,68,188,Right-Handed
+BNP Paribas Open,2019-03-13,Masters 1000,Hard,4th Round,Hubert Hurkacz,Denis Shapovalov,ITA,77,188,Right-Handed,CAN,76,183,Left-Handed
+BNP Paribas Open,2019-03-15,Masters 1000,Hard,Quarterfinals,Rafael Nadal,Karen Khachanov,ESP,85,185,Left-Handed,RUS,88,198,Right-Handed
+Sony Ericsson Open,2019-03-20,Masters 1000,Hard,1st Round,Hubert Hurkacz,Matteo Berrettini,ITA,77,188,Right-Handed,ITA,95,196,Right-Handed
+Sony Ericsson Open,2019-03-21,Masters 1000,Hard,1st Round,Felix Auger-Aliassime,Casper Ruud,CAN,84,188,Right-Handed,NOR,77,183,Right-Handed
+Sony Ericsson Open,2019-03-23,Masters 1000,Hard,2nd Round,Denis Shapovalov,Daniel Evans,CAN,76,183,Left-Handed,GBR,75,175,Right-Handed
+Sony Ericsson Open,2019-03-23,Masters 1000,Hard,2nd Round,Andrey Rublev,Marin Cilic,RUS,68,188,Right-Handed,CRO,89,198,Right-Handed
+Sony Ericsson Open,2019-03-23,Masters 1000,Hard,2nd Round,Frances Tiafoe,Miomir Kecmanovic,USA,77,188,Right-Handed,SRB,75,183,Right-Handed
+Sony Ericsson Open,2019-03-24,Masters 1000,Hard,3rd Round,Felix Auger-Aliassime,Hubert Hurkacz,CAN,84,188,Right-Handed,ITA,77,188,Right-Handed
+Sony Ericsson Open,2019-03-25,Masters 1000,Hard,3rd Round,Denis Shapovalov,Andrey Rublev,CAN,76,183,Left-Handed,RUS,68,188,Right-Handed
+Sony Ericsson Open,2019-03-26,Masters 1000,Hard,4th Round,Borna Coric,Nick Kyrgios,CRO,79,185,Right-Handed,AUS,85,193,Right-Handed
+Sony Ericsson Open,2019-03-26,Masters 1000,Hard,4th Round,Roberto Bautista Agut,Novak Djokovic,ESP,76,183,Right-Handed,SRB,77,188,Right-Handed
+Sony Ericsson Open,2019-03-27,Masters 1000,Hard,4th Round,Denis Shapovalov,Stefanos Tsitsipas,CAN,76,183,Left-Handed,GRE,83,193,Right-Handed
+Sony Ericsson Open,2019-03-28,Masters 1000,Hard,Quarterfinals,Felix Auger-Aliassime,Borna Coric,CAN,84,188,Right-Handed,CRO,79,185,Right-Handed
+Sony Ericsson Open,2019-03-28,Masters 1000,Hard,Quarterfinals,Denis Shapovalov,Frances Tiafoe,CAN,76,183,Left-Handed,USA,77,188,Right-Handed
+Monte Carlo Masters,2019-04-14,Masters 1000,Clay,1st Round,Borna Coric,Hubert Hurkacz,CRO,79,185,Right-Handed,ITA,77,188,Right-Handed
+Monte Carlo Masters,2019-04-14,Masters 1000,Clay,1st Round,Grigor Dimitrov,Matteo Berrettini,BUL,80,191,Right-Handed,ITA,95,196,Right-Handed
+Monte Carlo Masters,2019-04-17,Masters 1000,Clay,2nd Round,Taylor Fritz,Diego Schwartzman,USA,84,193,Right-Handed,ARG,64,170,Right-Handed
+Monte Carlo Masters,2019-04-17,Masters 1000,Clay,2nd Round,Alexander Zverev,Felix Auger-Aliassime,GER,86,198,Right-Handed,CAN,84,188,Right-Handed
+Monte Carlo Masters,2019-04-17,Masters 1000,Clay,2nd Round,Rafael Nadal,Roberto Bautista Agut,ESP,85,185,Left-Handed,ESP,76,183,Right-Handed
+Monte Carlo Masters,2019-04-18,Masters 1000,Clay,3rd Round,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+Monte Carlo Masters,2019-04-18,Masters 1000,Clay,3rd Round,Novak Djokovic,Taylor Fritz,SRB,77,188,Right-Handed,USA,84,193,Right-Handed
+Monte Carlo Masters,2019-04-18,Masters 1000,Clay,3rd Round,Rafael Nadal,Grigor Dimitrov,ESP,85,185,Left-Handed,BUL,80,191,Right-Handed
+Monte Carlo Masters,2019-04-19,Masters 1000,Clay,Quarterfinals,Daniil Medvedev,Novak Djokovic,RUS,81,198,Right-Handed,SRB,77,188,Right-Handed
+Millennium Estoril Open,2019-04-30,ATP250,Clay,1st Round,Alejandro Davidovich Fokina,Taylor Fritz,ESP,80,183,Right-Handed,USA,84,193,Right-Handed
+BMW Open,2019-05-05,ATP250,Clay,Semifinals,Matteo Berrettini,Roberto Bautista Agut,ITA,95,196,Right-Handed,ESP,76,183,Right-Handed
+Mutua Madrid Open,2019-05-05,Masters 1000,Clay,1st Round,Felix Auger-Aliassime,Denis Shapovalov,CAN,84,188,Right-Handed,CAN,76,183,Left-Handed
+Mutua Madrid Open,2019-05-06,Masters 1000,Clay,1st Round,Taylor Fritz,Grigor Dimitrov,USA,84,193,Right-Handed,BUL,80,191,Right-Handed
+Mutua Madrid Open,2019-05-07,Masters 1000,Clay,1st Round,Hubert Hurkacz,Alex de Minaur,ITA,77,188,Right-Handed,AUS,69,180,Right-Handed
+Mutua Madrid Open,2019-05-07,Masters 1000,Clay,2nd Round,Novak Djokovic,Taylor Fritz,SRB,77,188,Right-Handed,USA,84,193,Right-Handed
+Mutua Madrid Open,2019-05-08,Masters 1000,Clay,2nd Round,Rafael Nadal,Felix Auger-Aliassime,ESP,85,185,Left-Handed,CAN,84,188,Right-Handed
+Mutua Madrid Open,2019-05-09,Masters 1000,Clay,3rd Round,Alexander Zverev,Hubert Hurkacz,GER,86,198,Right-Handed,ITA,77,188,Right-Handed
+Mutua Madrid Open,2019-05-09,Masters 1000,Clay,3rd Round,Rafael Nadal,Frances Tiafoe,ESP,85,185,Left-Handed,USA,77,188,Right-Handed
+Mutua Madrid Open,2019-05-10,Masters 1000,Clay,Quarterfinals,Novak Djokovic,Marin Cilic,SRB,77,188,Right-Handed,CRO,89,198,Right-Handed
+Mutua Madrid Open,2019-05-10,Masters 1000,Clay,Quarterfinals,Stefanos Tsitsipas,Alexander Zverev,GRE,83,193,Right-Handed,GER,86,198,Right-Handed
+Mutua Madrid Open,2019-05-11,Masters 1000,Clay,Semifinals,Stefanos Tsitsipas,Rafael Nadal,GRE,83,193,Right-Handed,ESP,85,185,Left-Handed
+Mutua Madrid Open,2019-05-12,Masters 1000,Clay,The Final,Novak Djokovic,Stefanos Tsitsipas,SRB,77,188,Right-Handed,GRE,83,193,Right-Handed
+Internazionali BNL d'Italia,2019-05-13,Masters 1000,Clay,1st Round,Borna Coric,Felix Auger-Aliassime,CRO,79,185,Right-Handed,CAN,84,188,Right-Handed
+Internazionali BNL d'Italia,2019-05-13,Masters 1000,Clay,1st Round,Casper Ruud,Daniel Evans,NOR,77,183,Right-Handed,GBR,75,175,Right-Handed
+Internazionali BNL d'Italia,2019-05-13,Masters 1000,Clay,1st Round,Denis Shapovalov,Pablo Carreno Busta,CAN,76,183,Left-Handed,ESP,78,188,Right-Handed
+Internazionali BNL d'Italia,2019-05-14,Masters 1000,Clay,1st Round,Nick Kyrgios,Daniil Medvedev,AUS,85,193,Right-Handed,RUS,81,198,Right-Handed
+Internazionali BNL d'Italia,2019-05-14,Masters 1000,Clay,2nd Round,Karen Khachanov,Roberto Bautista Agut,RUS,88,198,Right-Handed,ESP,76,183,Right-Handed
+Internazionali BNL d'Italia,2019-05-14,Masters 1000,Clay,2nd Round,Matteo Berrettini,Alexander Zverev,ITA,95,196,Right-Handed,GER,86,198,Right-Handed
+Internazionali BNL d'Italia,2019-05-14,Masters 1000,Clay,2nd Round,Borna Coric,Cameron Norrie,CRO,79,185,Right-Handed,GBR,80,188,Left-Handed
+Internazionali BNL d'Italia,2019-05-16,Masters 1000,Clay,2nd Round,Casper Ruud,Nick Kyrgios,NOR,77,183,Right-Handed,AUS,85,193,Right-Handed
+Internazionali BNL d'Italia,2019-05-16,Masters 1000,Clay,2nd Round,Stefanos Tsitsipas,Jannik Sinner,GRE,83,193,Right-Handed,ITA,76,188,Right-Handed
+Internazionali BNL d'Italia,2019-05-16,Masters 1000,Clay,2nd Round,Novak Djokovic,Denis Shapovalov,SRB,77,188,Right-Handed,CAN,76,183,Left-Handed
+Internazionali BNL d'Italia,2019-05-16,Masters 1000,Clay,3rd Round,Diego Schwartzman,Matteo Berrettini,ARG,64,170,Right-Handed,ITA,95,196,Right-Handed
+Internazionali BNL d'Italia,2019-05-18,Masters 1000,Clay,Semifinals,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Internazionali BNL d'Italia,2019-05-18,Masters 1000,Clay,Semifinals,Novak Djokovic,Diego Schwartzman,SRB,77,188,Right-Handed,ARG,64,170,Right-Handed
+Internazionali BNL d'Italia,2019-05-19,Masters 1000,Clay,The Final,Rafael Nadal,Novak Djokovic,ESP,85,185,Left-Handed,SRB,77,188,Right-Handed
+Lyon Open,2019-05-23,ATP250,Clay,Quarterfinals,Taylor Fritz,Roberto Bautista Agut,USA,84,193,Right-Handed,ESP,76,183,Right-Handed
+French Open,2019-05-27,Grand Slam,Clay,1st Round,Novak Djokovic,Hubert Hurkacz,SRB,77,188,Right-Handed,ITA,77,188,Right-Handed
+French Open,2019-05-29,Grand Slam,Clay,2nd Round,Casper Ruud,Matteo Berrettini,NOR,77,183,Right-Handed,ITA,95,196,Right-Handed
+French Open,2019-05-29,Grand Slam,Clay,2nd Round,Grigor Dimitrov,Marin Cilic,BUL,80,191,Right-Handed,CRO,89,198,Right-Handed
+French Open,2019-05-29,Grand Slam,Clay,2nd Round,Pablo Carreno Busta,Alex de Minaur,ESP,78,188,Right-Handed,AUS,69,180,Right-Handed
+French Open,2019-05-30,Grand Slam,Clay,2nd Round,Roberto Bautista Agut,Taylor Fritz,ESP,76,183,Right-Handed,USA,84,193,Right-Handed
+French Open,2019-06-06,Grand Slam,Clay,Quarterfinals,Novak Djokovic,Alexander Zverev,SRB,77,188,Right-Handed,GER,86,198,Right-Handed
+Rosmalen Grass Court Championships,2019-06-12,ATP250,Grass,2nd Round,Borna Coric,Taylor Fritz,CRO,79,185,Right-Handed,USA,84,193,Right-Handed
+Mercedes Cup,2019-06-11,ATP250,Grass,1st Round,Matteo Berrettini,Nick Kyrgios,ITA,95,196,Right-Handed,AUS,85,193,Right-Handed
+Mercedes Cup,2019-06-13,ATP250,Grass,2nd Round,Matteo Berrettini,Karen Khachanov,ITA,95,196,Right-Handed,RUS,88,198,Right-Handed
+Mercedes Cup,2019-06-16,ATP250,Grass,The Final,Matteo Berrettini,Felix Auger-Aliassime,ITA,95,196,Right-Handed,CAN,84,188,Right-Handed
+Halle Open,2019-06-17,ATP500,Grass,1st Round,Karen Khachanov,Miomir Kecmanovic,RUS,88,198,Right-Handed,SRB,75,183,Right-Handed
+Halle Open,2019-06-18,ATP500,Grass,1st Round,Roberto Bautista Agut,Taylor Fritz,ESP,76,183,Right-Handed,USA,84,193,Right-Handed
+Halle Open,2019-06-21,ATP500,Grass,Quarterfinals,Matteo Berrettini,Karen Khachanov,ITA,95,196,Right-Handed,RUS,88,198,Right-Handed
+Queen's Club Championships,2019-06-20,ATP500,Grass,1st Round,Felix Auger-Aliassime,Grigor Dimitrov,CAN,84,188,Right-Handed,BUL,80,191,Right-Handed
+Queen's Club Championships,2019-06-20,ATP500,Grass,2nd Round,Diego Schwartzman,Marin Cilic,ARG,64,170,Right-Handed,CRO,89,198,Right-Handed
+Queen's Club Championships,2019-06-20,ATP500,Grass,2nd Round,Felix Auger-Aliassime,Nick Kyrgios,CAN,84,188,Right-Handed,AUS,85,193,Right-Handed
+Queen's Club Championships,2019-06-21,ATP500,Grass,Quarterfinals,Daniil Medvedev,Diego Schwartzman,RUS,81,198,Right-Handed,ARG,64,170,Right-Handed
+Queen's Club Championships,2019-06-21,ATP500,Grass,Quarterfinals,Felix Auger-Aliassime,Stefanos Tsitsipas,CAN,84,188,Right-Handed,GRE,83,193,Right-Handed
+Eastbourne International,2019-06-27,ATP250,Grass,Quarterfinals,Taylor Fritz,Hubert Hurkacz,USA,84,193,Right-Handed,ITA,77,188,Right-Handed
+Wimbledon,2019-07-04,Grand Slam,Grass,2nd Round,Rafael Nadal,Nick Kyrgios,ESP,85,185,Left-Handed,AUS,85,193,Right-Handed
+Wimbledon,2019-07-05,Grand Slam,Grass,3rd Round,Roberto Bautista Agut,Karen Khachanov,ESP,76,183,Right-Handed,RUS,88,198,Right-Handed
+Wimbledon,2019-07-05,Grand Slam,Grass,3rd Round,Novak Djokovic,Hubert Hurkacz,SRB,77,188,Right-Handed,ITA,77,188,Right-Handed
+Wimbledon,2019-07-06,Grand Slam,Grass,3rd Round,Matteo Berrettini,Diego Schwartzman,ITA,95,196,Right-Handed,ARG,64,170,Right-Handed
+Wimbledon,2019-07-12,Grand Slam,Grass,Semifinals,Novak Djokovic,Roberto Bautista Agut,SRB,77,188,Right-Handed,ESP,76,183,Right-Handed
+BB&T Atlanta Open,2019-07-27,ATP250,Hard,Quarterfinals,Taylor Fritz,Miomir Kecmanovic,USA,84,193,Right-Handed,SRB,75,183,Right-Handed
+BB&T Atlanta Open,2019-07-28,ATP250,Hard,Semifinals,Taylor Fritz,Cameron Norrie,USA,84,193,Right-Handed,GBR,80,188,Left-Handed
+BB&T Atlanta Open,2019-07-28,ATP250,Hard,The Final,Alex de Minaur,Taylor Fritz,AUS,69,180,Right-Handed,USA,84,193,Right-Handed
+German Tennis Championships,2019-07-24,ATP500,Clay,2nd Round,Andrey Rublev,Casper Ruud,RUS,68,188,Right-Handed,NOR,77,183,Right-Handed
+German Tennis Championships,2019-07-27,ATP500,Clay,Semifinals,Andrey Rublev,Pablo Carreno Busta,RUS,68,188,Right-Handed,ESP,78,188,Right-Handed
+Generali Open,2019-07-30,ATP250,Clay,1st Round,Casper Ruud,Pablo Carreno Busta,NOR,77,183,Right-Handed,ESP,78,188,Right-Handed
+Abierto Mexicano Mifel,2019-08-04,ATP250,Hard,The Final,Diego Schwartzman,Taylor Fritz,ARG,64,170,Right-Handed,USA,84,193,Right-Handed
+Citi Open,2019-08-01,ATP500,Hard,2nd Round,Stefanos Tsitsipas,Tommy Paul,GRE,83,193,Right-Handed,USA,78,185,Right-Handed
+Citi Open,2019-08-01,ATP500,Hard,3rd Round,Marin Cilic,Felix Auger-Aliassime,CRO,89,198,Right-Handed,CAN,84,188,Right-Handed
+Citi Open,2019-08-01,ATP500,Hard,3rd Round,Daniil Medvedev,Frances Tiafoe,RUS,81,198,Right-Handed,USA,77,188,Right-Handed
+Citi Open,2019-08-02,ATP500,Hard,Quarterfinals,Daniil Medvedev,Marin Cilic,RUS,81,198,Right-Handed,CRO,89,198,Right-Handed
+Citi Open,2019-08-04,ATP500,Hard,Semifinals,Nick Kyrgios,Stefanos Tsitsipas,AUS,85,193,Right-Handed,GRE,83,193,Right-Handed
+Citi Open,2019-08-04,ATP500,Hard,The Final,Nick Kyrgios,Daniil Medvedev,AUS,85,193,Right-Handed,RUS,81,198,Right-Handed
+Rogers Masters,2019-08-06,Masters 1000,Hard,1st Round,Daniel Evans,Alex de Minaur,GBR,75,175,Right-Handed,AUS,69,180,Right-Handed
+Rogers Masters,2019-08-06,Masters 1000,Hard,1st Round,Hubert Hurkacz,Taylor Fritz,ITA,77,188,Right-Handed,USA,84,193,Right-Handed
+Rogers Masters,2019-08-07,Masters 1000,Hard,2nd Round,Alexander Zverev,Cameron Norrie,GER,86,198,Right-Handed,GBR,80,188,Left-Handed
+Rogers Masters,2019-08-07,Masters 1000,Hard,2nd Round,Rafael Nadal,Daniel Evans,ESP,85,185,Left-Handed,GBR,75,175,Right-Handed
+Rogers Masters,2019-08-07,Masters 1000,Hard,2nd Round,Roberto Bautista Agut,Diego Schwartzman,ESP,76,183,Right-Handed,ARG,64,170,Right-Handed
+Rogers Masters,2019-08-07,Masters 1000,Hard,2nd Round,Hubert Hurkacz,Stefanos Tsitsipas,ITA,77,188,Right-Handed,GRE,83,193,Right-Handed
+Rogers Masters,2019-08-08,Masters 1000,Hard,3rd Round,Karen Khachanov,Felix Auger-Aliassime,RUS,88,198,Right-Handed,CAN,84,188,Right-Handed
+Rogers Masters,2019-08-09,Masters 1000,Hard,Quarterfinals,Karen Khachanov,Alexander Zverev,RUS,88,198,Right-Handed,GER,86,198,Right-Handed
+Rogers Masters,2019-08-10,Masters 1000,Hard,Semifinals,Daniil Medvedev,Karen Khachanov,RUS,81,198,Right-Handed,RUS,88,198,Right-Handed
+Rogers Masters,2019-08-11,Masters 1000,Hard,The Final,Rafael Nadal,Daniil Medvedev,ESP,85,185,Left-Handed,RUS,81,198,Right-Handed
+Western & Southern Financial Group Masters,2019-08-12,Masters 1000,Hard,1st Round,Miomir Kecmanovic,Felix Auger-Aliassime,SRB,75,183,Right-Handed,CAN,84,188,Right-Handed
+Western & Southern Financial Group Masters,2019-08-13,Masters 1000,Hard,1st Round,Roberto Bautista Agut,Hubert Hurkacz,ESP,76,183,Right-Handed,ITA,77,188,Right-Handed
+Western & Southern Financial Group Masters,2019-08-14,Masters 1000,Hard,2nd Round,Miomir Kecmanovic,Alexander Zverev,SRB,75,183,Right-Handed,GER,86,198,Right-Handed
+Western & Southern Financial Group Masters,2019-08-15,Masters 1000,Hard,2nd Round,Roberto Bautista Agut,Frances Tiafoe,ESP,76,183,Right-Handed,USA,77,188,Right-Handed
+Western & Southern Financial Group Masters,2019-08-15,Masters 1000,Hard,2nd Round,Karen Khachanov,Nick Kyrgios,RUS,88,198,Right-Handed,AUS,85,193,Right-Handed
+Western & Southern Financial Group Masters,2019-08-15,Masters 1000,Hard,3rd Round,Roberto Bautista Agut,Miomir Kecmanovic,ESP,76,183,Right-Handed,SRB,75,183,Right-Handed
+Western & Southern Financial Group Masters,2019-08-16,Masters 1000,Hard,3rd Round,Novak Djokovic,Pablo Carreno Busta,SRB,77,188,Right-Handed,ESP,78,188,Right-Handed
+Western & Southern Financial Group Masters,2019-08-17,Masters 1000,Hard,Quarterfinals,Daniil Medvedev,Andrey Rublev,RUS,81,198,Right-Handed,RUS,68,188,Right-Handed
+Western & Southern Financial Group Masters,2019-08-17,Masters 1000,Hard,Semifinals,Daniil Medvedev,Novak Djokovic,RUS,81,198,Right-Handed,SRB,77,188,Right-Handed
+Winston-Salem Open at Wake Forest University,2019-08-21,ATP250,Hard,3rd Round,Denis Shapovalov,Miomir Kecmanovic,CAN,76,183,Left-Handed,SRB,75,183,Right-Handed
+Winston-Salem Open at Wake Forest University,2019-08-23,ATP250,Hard,Quarterfinals,Denis Shapovalov,Andrey Rublev,CAN,76,183,Left-Handed,RUS,68,188,Right-Handed
+Winston-Salem Open at Wake Forest University,2019-08-23,ATP250,Hard,Quarterfinals,Hubert Hurkacz,Frances Tiafoe,ITA,77,188,Right-Handed,USA,77,188,Right-Handed
+Winston-Salem Open at Wake Forest University,2019-08-24,ATP250,Hard,Semifinals,Hubert Hurkacz,Denis Shapovalov,ITA,77,188,Right-Handed,CAN,76,183,Left-Handed
+US Open,2019-08-27,Grand Slam,Hard,1st Round,Andrey Rublev,Stefanos Tsitsipas,RUS,68,188,Right-Handed,GRE,83,193,Right-Handed
+US Open,2019-08-27,Grand Slam,Hard,1st Round,Denis Shapovalov,Felix Auger-Aliassime,CAN,76,183,Left-Handed,CAN,84,188,Right-Handed
+US Open,2019-08-28,Grand Slam,Hard,2nd Round,Grigor Dimitrov,Borna Coric,BUL,80,191,Right-Handed,CRO,79,185,Right-Handed
+US Open,2019-08-29,Grand Slam,Hard,2nd Round,Alexander Zverev,Frances Tiafoe,GER,86,198,Right-Handed,USA,77,188,Right-Handed
+US Open,2019-09-01,Grand Slam,Hard,3rd Round,Andrey Rublev,Nick Kyrgios,RUS,68,188,Right-Handed,AUS,85,193,Right-Handed
+US Open,2019-09-01,Grand Slam,Hard,4th Round,Grigor Dimitrov,Alex de Minaur,BUL,80,191,Right-Handed,AUS,69,180,Right-Handed
+US Open,2019-09-02,Grand Slam,Hard,4th Round,Diego Schwartzman,Alexander Zverev,ARG,64,170,Right-Handed,GER,86,198,Right-Handed
+US Open,2019-09-02,Grand Slam,Hard,4th Round,Matteo Berrettini,Andrey Rublev,ITA,95,196,Right-Handed,RUS,68,188,Right-Handed
+US Open,2019-09-03,Grand Slam,Hard,4th Round,Rafael Nadal,Marin Cilic,ESP,85,185,Left-Handed,CRO,89,198,Right-Handed
+US Open,2019-09-05,Grand Slam,Hard,Quarterfinals,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+US Open,2019-09-06,Grand Slam,Hard,Semifinals,Daniil Medvedev,Grigor Dimitrov,RUS,81,198,Right-Handed,BUL,80,191,Right-Handed
+US Open,2019-09-07,Grand Slam,Hard,Semifinals,Rafael Nadal,Matteo Berrettini,ESP,85,185,Left-Handed,ITA,95,196,Right-Handed
+US Open,2019-09-08,Grand Slam,Hard,The Final,Rafael Nadal,Daniil Medvedev,ESP,85,185,Left-Handed,RUS,81,198,Right-Handed
+St. Petersburg Open,2019-09-20,ATP250,Hard,Quarterfinals,Borna Coric,Casper Ruud,CRO,79,185,Right-Handed,NOR,77,183,Right-Handed
+St. Petersburg Open,2019-09-20,ATP250,Hard,Quarterfinals,Daniil Medvedev,Andrey Rublev,RUS,81,198,Right-Handed,RUS,68,188,Right-Handed
+St. Petersburg Open,2019-09-22,ATP250,Hard,The Final,Daniil Medvedev,Borna Coric,RUS,81,198,Right-Handed,CRO,79,185,Right-Handed
+Chengdu Open,2019-09-26,ATP250,Hard,2nd Round,Grigor Dimitrov,Daniel Evans,BUL,80,191,Right-Handed,GBR,75,175,Right-Handed
+Chengdu Open,2019-09-28,ATP250,Hard,Semifinals,Pablo Carreno Busta,Denis Shapovalov,ESP,78,188,Right-Handed,CAN,76,183,Left-Handed
+Zhuhai Open,2019-09-24,ATP250,Hard,1st Round,Miomir Kecmanovic,Casper Ruud,SRB,75,183,Right-Handed,NOR,77,183,Right-Handed
+Zhuhai Open,2019-09-27,ATP250,Hard,Quarterfinals,Alex de Minaur,Borna Coric,AUS,69,180,Right-Handed,CRO,79,185,Right-Handed
+Zhuhai Open,2019-09-28,ATP250,Hard,Semifinals,Alex de Minaur,Roberto Bautista Agut,AUS,69,180,Right-Handed,ESP,76,183,Right-Handed
+China Open,2019-09-30,ATP500,Hard,1st Round,Andrey Rublev,Grigor Dimitrov,RUS,68,188,Right-Handed,BUL,80,191,Right-Handed
+China Open,2019-09-30,ATP500,Hard,1st Round,Alexander Zverev,Frances Tiafoe,GER,86,198,Right-Handed,USA,77,188,Right-Handed
+China Open,2019-10-03,ATP500,Hard,2nd Round,Alexander Zverev,Felix Auger-Aliassime,GER,86,198,Right-Handed,CAN,84,188,Right-Handed
+China Open,2019-10-05,ATP500,Hard,Semifinals,Stefanos Tsitsipas,Alexander Zverev,GRE,83,193,Right-Handed,GER,86,198,Right-Handed
+Rakuten Japan Open Tennis Championships,2019-10-01,ATP500,Hard,1st Round,Denis Shapovalov,Miomir Kecmanovic,CAN,76,183,Left-Handed,SRB,75,183,Right-Handed
+Shanghai Masters,2019-10-07,Masters 1000,Hard,1st Round,Denis Shapovalov,Frances Tiafoe,CAN,76,183,Left-Handed,USA,77,188,Right-Handed
+Shanghai Masters,2019-10-08,Masters 1000,Hard,1st Round,Andrey Rublev,Borna Coric,RUS,68,188,Right-Handed,CRO,79,185,Right-Handed
+Shanghai Masters,2019-10-08,Masters 1000,Hard,2nd Round,Daniil Medvedev,Cameron Norrie,RUS,81,198,Right-Handed,GBR,80,188,Left-Handed
+Shanghai Masters,2019-10-09,Masters 1000,Hard,2nd Round,Stefanos Tsitsipas,Felix Auger-Aliassime,GRE,83,193,Right-Handed,CAN,84,188,Right-Handed
+Shanghai Masters,2019-10-09,Masters 1000,Hard,2nd Round,Karen Khachanov,Taylor Fritz,RUS,88,198,Right-Handed,USA,84,193,Right-Handed
+Shanghai Masters,2019-10-09,Masters 1000,Hard,2nd Round,Novak Djokovic,Denis Shapovalov,SRB,77,188,Right-Handed,CAN,76,183,Left-Handed
+Shanghai Masters,2019-10-10,Masters 1000,Hard,3rd Round,Matteo Berrettini,Roberto Bautista Agut,ITA,95,196,Right-Handed,ESP,76,183,Right-Handed
+Shanghai Masters,2019-10-10,Masters 1000,Hard,3rd Round,Stefanos Tsitsipas,Hubert Hurkacz,GRE,83,193,Right-Handed,ITA,77,188,Right-Handed
+Shanghai Masters,2019-10-10,Masters 1000,Hard,3rd Round,Alexander Zverev,Andrey Rublev,GER,86,198,Right-Handed,RUS,68,188,Right-Handed
+Shanghai Masters,2019-10-11,Masters 1000,Hard,Quarterfinals,Stefanos Tsitsipas,Novak Djokovic,GRE,83,193,Right-Handed,SRB,77,188,Right-Handed
+Shanghai Masters,2019-10-12,Masters 1000,Hard,Semifinals,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+Shanghai Masters,2019-10-12,Masters 1000,Hard,Semifinals,Alexander Zverev,Matteo Berrettini,GER,86,198,Right-Handed,ITA,95,196,Right-Handed
+Shanghai Masters,2019-10-13,Masters 1000,Hard,The Final,Daniil Medvedev,Alexander Zverev,RUS,81,198,Right-Handed,GER,86,198,Right-Handed
+European Open,2019-10-18,ATP250,Hard,Quarterfinals,Jannik Sinner,Frances Tiafoe,ITA,76,188,Right-Handed,USA,77,188,Right-Handed
+Kremlin Cup,2019-10-19,ATP250,Hard,Semifinals,Andrey Rublev,Marin Cilic,RUS,68,188,Right-Handed,CRO,89,198,Right-Handed
+Swiss Indoors,2019-10-22,ATP500,Hard,1st Round,Taylor Fritz,Alexander Zverev,USA,84,193,Right-Handed,GER,86,198,Right-Handed
+Swiss Indoors,2019-10-23,ATP500,Hard,1st Round,Frances Tiafoe,Daniel Evans,USA,77,188,Right-Handed,GBR,75,175,Right-Handed
+Swiss Indoors,2019-10-23,ATP500,Hard,2nd Round,Alex de Minaur,Taylor Fritz,AUS,69,180,Right-Handed,USA,84,193,Right-Handed
+Erste Bank Open,2019-10-21,ATP500,Hard,1st Round,Karen Khachanov,Hubert Hurkacz,RUS,88,198,Right-Handed,ITA,77,188,Right-Handed
+Erste Bank Open,2019-10-23,ATP500,Hard,1st Round,Pablo Carreno Busta,Denis Shapovalov,ESP,78,188,Right-Handed,CAN,76,183,Left-Handed
+Erste Bank Open,2019-10-23,ATP500,Hard,2nd Round,Matteo Berrettini,Grigor Dimitrov,ITA,95,196,Right-Handed,BUL,80,191,Right-Handed
+Erste Bank Open,2019-10-25,ATP500,Hard,Quarterfinals,Matteo Berrettini,Andrey Rublev,ITA,95,196,Right-Handed,RUS,68,188,Right-Handed
+Erste Bank Open,2019-10-25,ATP500,Hard,Quarterfinals,Diego Schwartzman,Karen Khachanov,ARG,64,170,Right-Handed,RUS,88,198,Right-Handed
+BNP Paribas Masters,2019-10-28,Masters 1000,Hard,1st Round,Marin Cilic,Hubert Hurkacz,CRO,89,198,Right-Handed,ITA,77,188,Right-Handed
+BNP Paribas Masters,2019-10-29,Masters 1000,Hard,1st Round,Taylor Fritz,Frances Tiafoe,USA,84,193,Right-Handed,USA,77,188,Right-Handed
+BNP Paribas Masters,2019-10-30,Masters 1000,Hard,2nd Round,Stefanos Tsitsipas,Taylor Fritz,GRE,83,193,Right-Handed,USA,84,193,Right-Handed
+BNP Paribas Masters,2019-10-30,Masters 1000,Hard,2nd Round,Alex de Minaur,Roberto Bautista Agut,AUS,69,180,Right-Handed,ESP,76,183,Right-Handed
+BNP Paribas Masters,2019-10-31,Masters 1000,Hard,3rd Round,Stefanos Tsitsipas,Alex de Minaur,GRE,83,193,Right-Handed,AUS,69,180,Right-Handed
+BNP Paribas Masters,2019-10-31,Masters 1000,Hard,3rd Round,Denis Shapovalov,Alexander Zverev,CAN,76,183,Left-Handed,GER,86,198,Right-Handed
+BNP Paribas Masters,2019-11-01,Masters 1000,Hard,Quarterfinals,Novak Djokovic,Stefanos Tsitsipas,SRB,77,188,Right-Handed,GRE,83,193,Right-Handed
+BNP Paribas Masters,2019-11-02,Masters 1000,Hard,Semifinals,Novak Djokovic,Grigor Dimitrov,SRB,77,188,Right-Handed,BUL,80,191,Right-Handed
+BNP Paribas Masters,2019-11-02,Masters 1000,Hard,Semifinals,Denis Shapovalov,Rafael Nadal,CAN,76,183,Left-Handed,ESP,85,185,Left-Handed
+BNP Paribas Masters,2019-11-03,Masters 1000,Hard,The Final,Novak Djokovic,Denis Shapovalov,SRB,77,188,Right-Handed,CAN,76,183,Left-Handed
+Masters Cup,2019-11-10,Masters Cup,Hard,Round Robin,Novak Djokovic,Matteo Berrettini,SRB,77,188,Right-Handed,ITA,95,196,Right-Handed
+Masters Cup,2019-11-11,Masters Cup,Hard,Round Robin,Stefanos Tsitsipas,Daniil Medvedev,GRE,83,193,Right-Handed,RUS,81,198,Right-Handed
+Masters Cup,2019-11-11,Masters Cup,Hard,Round Robin,Alexander Zverev,Rafael Nadal,GER,86,198,Right-Handed,ESP,85,185,Left-Handed
+Masters Cup,2019-11-13,Masters Cup,Hard,Round Robin,Rafael Nadal,Daniil Medvedev,ESP,85,185,Left-Handed,RUS,81,198,Right-Handed
+Masters Cup,2019-11-13,Masters Cup,Hard,Round Robin,Stefanos Tsitsipas,Alexander Zverev,GRE,83,193,Right-Handed,GER,86,198,Right-Handed
+Masters Cup,2019-11-15,Masters Cup,Hard,Round Robin,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Masters Cup,2019-11-15,Masters Cup,Hard,Round Robin,Alexander Zverev,Daniil Medvedev,GER,86,198,Right-Handed,RUS,81,198,Right-Handed
+Brisbane International,2018-01-06,ATP250,Hard,Semifinals,Nick Kyrgios,Grigor Dimitrov,AUS,85,193,Right-Handed,BUL,80,191,Right-Handed
+Qatar Exxon Mobil Open,2018-01-02,ATP250,Hard,1st Round,Borna Coric,Pablo Carreno Busta,CRO,79,185,Right-Handed,ESP,78,188,Right-Handed
+Qatar Exxon Mobil Open,2018-01-04,ATP250,Hard,Quarterfinals,Andrey Rublev,Borna Coric,RUS,68,188,Right-Handed,CRO,79,185,Right-Handed
+Sydney International,2018-01-13,ATP250,Hard,The Final,Daniil Medvedev,Alex de Minaur,RUS,81,198,Right-Handed,AUS,69,180,Right-Handed
+Australian Open,2018-01-15,Grand Slam,Hard,1st Round,Denis Shapovalov,Stefanos Tsitsipas,CAN,76,183,Left-Handed,GRE,83,193,Right-Handed
+Australian Open,2018-01-17,Grand Slam,Hard,2nd Round,Diego Schwartzman,Casper Ruud,ARG,64,170,Right-Handed,NOR,77,183,Right-Handed
+Australian Open,2018-01-19,Grand Slam,Hard,3rd Round,Grigor Dimitrov,Andrey Rublev,BUL,80,191,Right-Handed,RUS,68,188,Right-Handed
+Australian Open,2018-01-21,Grand Slam,Hard,4th Round,Marin Cilic,Pablo Carreno Busta,CRO,89,198,Right-Handed,ESP,78,188,Right-Handed
+Australian Open,2018-01-21,Grand Slam,Hard,4th Round,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+Australian Open,2018-01-21,Grand Slam,Hard,4th Round,Grigor Dimitrov,Nick Kyrgios,BUL,80,191,Right-Handed,AUS,85,193,Right-Handed
+Australian Open,2018-01-23,Grand Slam,Hard,Quarterfinals,Marin Cilic,Rafael Nadal,CRO,89,198,Right-Handed,ESP,85,185,Left-Handed
+ABN AMRO World Tennis Tournament,2018-02-16,ATP500,Hard,Quarterfinals,Grigor Dimitrov,Andrey Rublev,BUL,80,191,Right-Handed,RUS,68,188,Right-Handed
+Delray Beach Open,2018-02-23,ATP250,Hard,Quarterfinals,Denis Shapovalov,Taylor Fritz,CAN,76,183,Left-Handed,USA,84,193,Right-Handed
+Delray Beach Open,2018-02-25,ATP250,Hard,Semifinals,Frances Tiafoe,Denis Shapovalov,USA,77,188,Right-Handed,CAN,76,183,Left-Handed
+Open 13,2018-02-22,ATP250,Hard,2nd Round,Karen Khachanov,Alexander Zverev,RUS,88,198,Right-Handed,GER,88,191,Left-Handed
+Rio Open,2018-02-20,ATP500,Clay,1st Round,Diego Schwartzman,Casper Ruud,ARG,64,170,Right-Handed,NOR,77,183,Right-Handed
+Dubai Tennis Championships,2018-03-01,ATP500,Hard,Quarterfinals,Roberto Bautista Agut,Borna Coric,ESP,76,183,Right-Handed,CRO,79,185,Right-Handed
+BNP Paribas Open,2018-03-10,Masters 1000,Hard,2nd Round,Taylor Fritz,Andrey Rublev,USA,84,193,Right-Handed,RUS,68,188,Right-Handed
+BNP Paribas Open,2018-03-10,Masters 1000,Hard,2nd Round,Daniil Medvedev,Matteo Berrettini,RUS,81,198,Right-Handed,ITA,95,196,Right-Handed
+BNP Paribas Open,2018-03-12,Masters 1000,Hard,3rd Round,Pablo Carreno Busta,Daniil Medvedev,ESP,78,188,Right-Handed,RUS,81,198,Right-Handed
+BNP Paribas Open,2018-03-12,Masters 1000,Hard,3rd Round,Borna Coric,Roberto Bautista Agut,CRO,79,185,Right-Handed,ESP,76,183,Right-Handed
+BNP Paribas Open,2018-03-14,Masters 1000,Hard,4th Round,Borna Coric,Taylor Fritz,CRO,79,185,Right-Handed,USA,84,193,Right-Handed
+Sony Ericsson Open,2018-03-22,Masters 1000,Hard,1st Round,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+Sony Ericsson Open,2018-03-24,Masters 1000,Hard,2nd Round,Alexander Zverev,Daniil Medvedev,GER,86,198,Right-Handed,RUS,81,198,Right-Handed
+Sony Ericsson Open,2018-03-27,Masters 1000,Hard,4th Round,Borna Coric,Denis Shapovalov,CRO,79,185,Right-Handed,CAN,76,183,Left-Handed
+Sony Ericsson Open,2018-03-28,Masters 1000,Hard,4th Round,Alexander Zverev,Nick Kyrgios,GER,86,198,Right-Handed,AUS,85,193,Right-Handed
+Sony Ericsson Open,2018-03-30,Masters 1000,Hard,Quarterfinals,Alexander Zverev,Borna Coric,GER,86,198,Right-Handed,CRO,79,185,Right-Handed
+Sony Ericsson Open,2018-03-31,Masters 1000,Hard,Semifinals,Alexander Zverev,Pablo Carreno Busta,GER,86,198,Right-Handed,ESP,78,188,Right-Handed
+Monte Carlo Masters,2018-04-15,Masters 1000,Clay,1st Round,Alexander Zverev,Felix Auger-Aliassime,GER,88,191,Left-Handed,CAN,84,188,Right-Handed
+Monte Carlo Masters,2018-04-16,Masters 1000,Clay,1st Round,Stefanos Tsitsipas,Denis Shapovalov,GRE,83,193,Right-Handed,CAN,76,183,Left-Handed
+Monte Carlo Masters,2018-04-18,Masters 1000,Clay,2nd Round,Novak Djokovic,Borna Coric,SRB,77,188,Right-Handed,CRO,79,185,Right-Handed
+Monte Carlo Masters,2018-04-19,Masters 1000,Clay,3rd Round,Rafael Nadal,Karen Khachanov,ESP,85,185,Left-Handed,RUS,88,198,Right-Handed
+Monte Carlo Masters,2018-04-21,Masters 1000,Clay,Semifinals,Rafael Nadal,Grigor Dimitrov,ESP,85,185,Left-Handed,BUL,80,191,Right-Handed
+Open Banco Sabadell ,2018-04-25,ATP500,Clay,2nd Round,Stefanos Tsitsipas,Diego Schwartzman,GRE,83,193,Right-Handed,ARG,64,170,Right-Handed
+Open Banco Sabadell ,2018-04-27,ATP500,Clay,Quarterfinals,Pablo Carreno Busta,Grigor Dimitrov,ESP,78,188,Right-Handed,BUL,80,191,Right-Handed
+Open Banco Sabadell ,2018-04-28,ATP500,Clay,Semifinals,Stefanos Tsitsipas,Pablo Carreno Busta,GRE,83,193,Right-Handed,ESP,78,188,Right-Handed
+Open Banco Sabadell ,2018-04-29,ATP500,Clay,The Final,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Millennium Estoril Open,2018-05-05,ATP250,Clay,Semifinals,Frances Tiafoe,Pablo Carreno Busta,USA,77,188,Right-Handed,ESP,78,188,Right-Handed
+BMW Open,2018-05-03,ATP250,Clay,2nd Round,Roberto Bautista Agut,Casper Ruud,ESP,76,183,Right-Handed,NOR,77,183,Right-Handed
+Mutua Madrid Open,2018-05-08,Masters 1000,Clay,1st Round,Borna Coric,Pablo Carreno Busta,CRO,79,185,Right-Handed,ESP,78,188,Right-Handed
+Mutua Madrid Open,2018-05-10,Masters 1000,Clay,3rd Round,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+Mutua Madrid Open,2018-05-12,Masters 1000,Clay,Semifinals,Alexander Zverev,Denis Shapovalov,GER,86,198,Right-Handed,CAN,76,183,Left-Handed
+Internazionali BNL d'Italia,2018-05-14,Masters 1000,Clay,1st Round,Matteo Berrettini,Frances Tiafoe,ITA,95,196,Right-Handed,USA,77,188,Right-Handed
+Internazionali BNL d'Italia,2018-05-15,Masters 1000,Clay,1st Round,Stefanos Tsitsipas,Borna Coric,GRE,83,193,Right-Handed,CRO,79,185,Right-Handed
+Internazionali BNL d'Italia,2018-05-16,Masters 1000,Clay,2nd Round,Alexander Zverev,Matteo Berrettini,GER,86,198,Right-Handed,ITA,95,196,Right-Handed
+Internazionali BNL d'Italia,2018-05-17,Masters 1000,Clay,3rd Round,Rafael Nadal,Denis Shapovalov,ESP,85,185,Left-Handed,CAN,76,183,Left-Handed
+Internazionali BNL d'Italia,2018-05-18,Masters 1000,Clay,Quarterfinals,Marin Cilic,Pablo Carreno Busta,CRO,89,198,Right-Handed,ESP,78,188,Right-Handed
+Internazionali BNL d'Italia,2018-05-19,Masters 1000,Clay,Semifinals,Rafael Nadal,Novak Djokovic,ESP,85,185,Left-Handed,SRB,77,188,Right-Handed
+Internazionali BNL d'Italia,2018-05-19,Masters 1000,Clay,Semifinals,Alexander Zverev,Marin Cilic,GER,86,198,Right-Handed,CRO,89,198,Right-Handed
+Internazionali BNL d'Italia,2018-05-20,Masters 1000,Clay,The Final,Rafael Nadal,Alexander Zverev,ESP,85,185,Left-Handed,GER,86,198,Right-Handed
+French Open,2018-05-31,Grand Slam,Clay,2nd Round,Marin Cilic,Hubert Hurkacz,CRO,89,198,Right-Handed,ITA,77,188,Right-Handed
+French Open,2018-06-01,Grand Slam,Clay,3rd Round,Novak Djokovic,Roberto Bautista Agut,SRB,77,188,Right-Handed,ESP,76,183,Right-Handed
+French Open,2018-06-02,Grand Slam,Clay,3rd Round,Diego Schwartzman,Borna Coric,ARG,64,170,Right-Handed,CRO,79,185,Right-Handed
+French Open,2018-06-03,Grand Slam,Clay,4th Round,Alexander Zverev,Karen Khachanov,GER,86,198,Right-Handed,RUS,88,198,Right-Handed
+French Open,2018-06-07,Grand Slam,Clay,Quarterfinals,Rafael Nadal,Diego Schwartzman,ESP,85,185,Left-Handed,ARG,64,170,Right-Handed
+Gerry Weber Open,2018-06-19,ATP500,Grass,1st Round,Karen Khachanov,Alexander Zverev,RUS,88,198,Right-Handed,GER,88,191,Left-Handed
+Gerry Weber Open,2018-06-19,ATP500,Grass,1st Round,Borna Coric,Alexander Zverev,CRO,79,185,Right-Handed,GER,86,198,Right-Handed
+Gerry Weber Open,2018-06-22,ATP500,Grass,Quarterfinals,Roberto Bautista Agut,Karen Khachanov,ESP,76,183,Right-Handed,RUS,88,198,Right-Handed
+Gerry Weber Open,2018-06-23,ATP500,Grass,Semifinals,Borna Coric,Roberto Bautista Agut,CRO,79,185,Right-Handed,ESP,76,183,Right-Handed
+AEGON Championships,2018-06-21,ATP500,Grass,2nd Round,Novak Djokovic,Grigor Dimitrov,SRB,77,188,Right-Handed,BUL,80,191,Right-Handed
+AEGON Championships,2018-06-23,ATP500,Grass,Semifinals,Marin Cilic,Nick Kyrgios,CRO,89,198,Right-Handed,AUS,85,193,Right-Handed
+AEGON Championships,2018-06-24,ATP500,Grass,The Final,Marin Cilic,Novak Djokovic,CRO,89,198,Right-Handed,SRB,77,188,Right-Handed
+Eastbourne International,2018-06-28,ATP250,Grass,Quarterfinals,Alexander Zverev,Denis Shapovalov,GER,88,191,Left-Handed,CAN,76,183,Left-Handed
+Wimbledon,2018-07-02,Grand Slam,Grass,1st Round,Daniil Medvedev,Borna Coric,RUS,81,198,Right-Handed,CRO,79,185,Right-Handed
+Wimbledon,2018-07-06,Grand Slam,Grass,2nd Round,Alexander Zverev,Taylor Fritz,GER,86,198,Right-Handed,USA,84,193,Right-Handed
+Wimbledon,2018-07-07,Grand Slam,Grass,3rd Round,Rafael Nadal,Alex de Minaur,ESP,85,185,Left-Handed,AUS,69,180,Right-Handed
+Wimbledon,2018-07-07,Grand Slam,Grass,3rd Round,Karen Khachanov,Frances Tiafoe,RUS,88,198,Right-Handed,USA,77,188,Right-Handed
+Wimbledon,2018-07-09,Grand Slam,Grass,4th Round,Novak Djokovic,Karen Khachanov,SRB,77,188,Right-Handed,RUS,88,198,Right-Handed
+Wimbledon,2018-07-14,Grand Slam,Grass,Semifinals,Novak Djokovic,Rafael Nadal,SRB,77,188,Right-Handed,ESP,85,185,Left-Handed
+Croatia Open,2018-07-19,ATP250,Clay,2nd Round,Andrey Rublev,Felix Auger-Aliassime,RUS,68,188,Right-Handed,CAN,84,188,Right-Handed
+BB&T Atlanta Open,2018-07-23,ATP250,Hard,1st Round,Alex de Minaur,Hubert Hurkacz,AUS,69,180,Right-Handed,ITA,77,188,Right-Handed
+BB&T Atlanta Open,2018-07-28,ATP250,Hard,Quarterfinals,Cameron Norrie,Nick Kyrgios,GBR,80,188,Left-Handed,AUS,85,193,Right-Handed
+Suisse Open Gstaad,2018-07-25,ATP250,Clay,2nd Round,Matteo Berrettini,Andrey Rublev,ITA,95,196,Right-Handed,RUS,68,188,Right-Handed
+Suisse Open Gstaad,2018-07-29,ATP250,Clay,The Final,Matteo Berrettini,Roberto Bautista Agut,ITA,95,196,Right-Handed,ESP,76,183,Right-Handed
+German Tennis Championships,2018-07-23,ATP500,Clay,1st Round,Diego Schwartzman,Casper Ruud,ARG,64,170,Right-Handed,NOR,77,183,Right-Handed
+Citi Open,2018-08-01,ATP500,Hard,2nd Round,Frances Tiafoe,Hubert Hurkacz,USA,77,188,Right-Handed,ITA,77,188,Right-Handed
+Citi Open,2018-08-01,ATP500,Hard,2nd Round,Denis Shapovalov,Daniil Medvedev,CAN,76,183,Left-Handed,RUS,81,198,Right-Handed
+Citi Open,2018-08-02,ATP500,Hard,2nd Round,Andrey Rublev,Tommy Paul,RUS,68,188,Right-Handed,USA,78,185,Right-Handed
+Citi Open,2018-08-03,ATP500,Hard,3rd Round,Alexander Zverev,Alexander Zverev,GER,86,198,Right-Handed,GER,88,191,Left-Handed
+Citi Open,2018-08-04,ATP500,Hard,Semifinals,Alexander Zverev,Stefanos Tsitsipas,GER,86,198,Right-Handed,GRE,83,193,Right-Handed
+Citi Open,2018-08-05,ATP500,Hard,Semifinals,Alex de Minaur,Andrey Rublev,AUS,69,180,Right-Handed,RUS,68,188,Right-Handed
+Citi Open,2018-08-05,ATP500,Hard,The Final,Alexander Zverev,Alex de Minaur,GER,86,198,Right-Handed,AUS,69,180,Right-Handed
+Rogers Masters,2018-08-08,Masters 1000,Hard,2nd Round,Marin Cilic,Borna Coric,CRO,89,198,Right-Handed,CRO,79,185,Right-Handed
+Rogers Masters,2018-08-08,Masters 1000,Hard,2nd Round,Karen Khachanov,Pablo Carreno Busta,RUS,88,198,Right-Handed,ESP,78,188,Right-Handed
+Rogers Masters,2018-08-09,Masters 1000,Hard,2nd Round,Daniil Medvedev,Felix Auger-Aliassime,RUS,81,198,Right-Handed,CAN,84,188,Right-Handed
+Rogers Masters,2018-08-09,Masters 1000,Hard,3rd Round,Grigor Dimitrov,Frances Tiafoe,BUL,80,191,Right-Handed,USA,77,188,Right-Handed
+Rogers Masters,2018-08-09,Masters 1000,Hard,3rd Round,Stefanos Tsitsipas,Novak Djokovic,GRE,83,193,Right-Handed,SRB,77,188,Right-Handed
+Rogers Masters,2018-08-09,Masters 1000,Hard,3rd Round,Marin Cilic,Diego Schwartzman,CRO,89,198,Right-Handed,ARG,64,170,Right-Handed
+Rogers Masters,2018-08-09,Masters 1000,Hard,3rd Round,Alexander Zverev,Daniil Medvedev,GER,86,198,Right-Handed,RUS,81,198,Right-Handed
+Rogers Masters,2018-08-10,Masters 1000,Hard,Quarterfinals,Stefanos Tsitsipas,Alexander Zverev,GRE,83,193,Right-Handed,GER,86,198,Right-Handed
+Rogers Masters,2018-08-11,Masters 1000,Hard,Quarterfinals,Rafael Nadal,Marin Cilic,ESP,85,185,Left-Handed,CRO,89,198,Right-Handed
+Rogers Masters,2018-08-12,Masters 1000,Hard,Semifinals,Rafael Nadal,Karen Khachanov,ESP,85,185,Left-Handed,RUS,88,198,Right-Handed
+Rogers Masters,2018-08-12,Masters 1000,Hard,The Final,Rafael Nadal,Stefanos Tsitsipas,ESP,85,185,Left-Handed,GRE,83,193,Right-Handed
+Western & Southern Financial Group Masters,2018-08-13,Masters 1000,Hard,1st Round,Denis Shapovalov,Frances Tiafoe,CAN,76,183,Left-Handed,USA,77,188,Right-Handed
+Western & Southern Financial Group Masters,2018-08-14,Masters 1000,Hard,1st Round,Borna Coric,Daniil Medvedev,CRO,79,185,Right-Handed,RUS,81,198,Right-Handed
+Western & Southern Financial Group Masters,2018-08-15,Masters 1000,Hard,2nd Round,Grigor Dimitrov,Alexander Zverev,BUL,80,191,Right-Handed,GER,88,191,Left-Handed
+Western & Southern Financial Group Masters,2018-08-16,Masters 1000,Hard,2nd Round,Nick Kyrgios,Borna Coric,AUS,85,193,Right-Handed,CRO,79,185,Right-Handed
+Western & Southern Financial Group Masters,2018-08-17,Masters 1000,Hard,3rd Round,Novak Djokovic,Grigor Dimitrov,SRB,77,188,Right-Handed,BUL,80,191,Right-Handed
+Western & Southern Financial Group Masters,2018-08-17,Masters 1000,Hard,3rd Round,Marin Cilic,Karen Khachanov,CRO,89,198,Right-Handed,RUS,88,198,Right-Handed
+Western & Southern Financial Group Masters,2018-08-17,Masters 1000,Hard,Quarterfinals,Marin Cilic,Pablo Carreno Busta,CRO,89,198,Right-Handed,ESP,78,188,Right-Handed
+Western & Southern Financial Group Masters,2018-08-18,Masters 1000,Hard,Semifinals,Novak Djokovic,Marin Cilic,SRB,77,188,Right-Handed,CRO,89,198,Right-Handed
+Winston-Salem Open at Wake Forest University,2018-08-21,ATP250,Hard,2nd Round,Daniil Medvedev,Alex de Minaur,RUS,81,198,Right-Handed,AUS,69,180,Right-Handed
+US Open,2018-08-27,Grand Slam,Hard,1st Round,Taylor Fritz,Alexander Zverev,USA,84,193,Right-Handed,GER,88,191,Left-Handed
+US Open,2018-08-27,Grand Slam,Hard,1st Round,Denis Shapovalov,Felix Auger-Aliassime,CAN,76,183,Left-Handed,CAN,84,188,Right-Handed
+US Open,2018-08-29,Grand Slam,Hard,2nd Round,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+US Open,2018-08-30,Grand Slam,Hard,2nd Round,Alex de Minaur,Frances Tiafoe,AUS,69,180,Right-Handed,USA,77,188,Right-Handed
+US Open,2018-08-31,Grand Slam,Hard,2nd Round,Marin Cilic,Hubert Hurkacz,CRO,89,198,Right-Handed,ITA,77,188,Right-Handed
+US Open,2018-08-31,Grand Slam,Hard,3rd Round,Rafael Nadal,Karen Khachanov,ESP,85,185,Left-Handed,RUS,88,198,Right-Handed
+US Open,2018-09-01,Grand Slam,Hard,3rd Round,Borna Coric,Daniil Medvedev,CRO,79,185,Right-Handed,RUS,81,198,Right-Handed
+US Open,2018-09-02,Grand Slam,Hard,3rd Round,Marin Cilic,Alex de Minaur,CRO,89,198,Right-Handed,AUS,69,180,Right-Handed
+St. Petersburg Open,2018-09-20,ATP250,Hard,2nd Round,Denis Shapovalov,Matteo Berrettini,CAN,76,183,Left-Handed,ITA,95,196,Right-Handed
+Shenzhen Open,2018-09-26,ATP250,Hard,2nd Round,Cameron Norrie,Borna Coric,GBR,80,188,Left-Handed,CRO,79,185,Right-Handed
+China Open,2018-10-02,ATP500,Hard,1st Round,Alexander Zverev,Roberto Bautista Agut,GER,86,198,Right-Handed,ESP,76,183,Right-Handed
+Rakuten Japan Open Tennis Championships,2018-10-01,ATP500,Hard,1st Round,Daniil Medvedev,Diego Schwartzman,RUS,81,198,Right-Handed,ARG,64,170,Right-Handed
+Rakuten Japan Open Tennis Championships,2018-10-04,ATP500,Hard,2nd Round,Stefanos Tsitsipas,Alex de Minaur,GRE,83,193,Right-Handed,AUS,69,180,Right-Handed
+Rakuten Japan Open Tennis Championships,2018-10-06,ATP500,Hard,Semifinals,Daniil Medvedev,Denis Shapovalov,RUS,81,198,Right-Handed,CAN,76,183,Left-Handed
+Shanghai Masters,2018-10-08,Masters 1000,Hard,1st Round,Roberto Bautista Agut,Andrey Rublev,ESP,76,183,Right-Handed,RUS,68,188,Right-Handed
+Shanghai Masters,2018-10-10,Masters 1000,Hard,2nd Round,Stefanos Tsitsipas,Karen Khachanov,GRE,83,193,Right-Handed,RUS,88,198,Right-Handed
+Shanghai Masters,2018-10-11,Masters 1000,Hard,3rd Round,Alexander Zverev,Alex de Minaur,GER,86,198,Right-Handed,AUS,69,180,Right-Handed
+Shanghai Masters,2018-10-13,Masters 1000,Hard,Semifinals,Novak Djokovic,Alexander Zverev,SRB,77,188,Right-Handed,GER,86,198,Right-Handed
+Shanghai Masters,2018-10-14,Masters 1000,Hard,The Final,Novak Djokovic,Borna Coric,SRB,77,188,Right-Handed,CRO,79,185,Right-Handed
+European Open,2018-10-18,ATP250,Hard,2nd Round,Diego Schwartzman,Cameron Norrie,ARG,64,170,Right-Handed,GBR,80,188,Left-Handed
+Kremlin Cup,2018-10-16,ATP250,Hard,1st Round,Nick Kyrgios,Andrey Rublev,AUS,85,193,Right-Handed,RUS,68,188,Right-Handed
+Kremlin Cup,2018-10-20,ATP250,Hard,Semifinals,Karen Khachanov,Daniil Medvedev,RUS,88,198,Right-Handed,RUS,81,198,Right-Handed
+Swiss Indoors,2018-10-22,ATP500,Hard,1st Round,Marin Cilic,Denis Shapovalov,CRO,89,198,Right-Handed,CAN,76,183,Left-Handed
+Swiss Indoors,2018-10-26,ATP500,Hard,Quarterfinals,Alexander Zverev,Roberto Bautista Agut,GER,86,198,Right-Handed,ESP,76,183,Right-Handed
+Swiss Indoors,2018-10-26,ATP500,Hard,Quarterfinals,Daniil Medvedev,Stefanos Tsitsipas,RUS,81,198,Right-Handed,GRE,83,193,Right-Handed
+BNP Paribas Masters,2018-10-30,Masters 1000,Hard,1st Round,Daniil Medvedev,Pablo Carreno Busta,RUS,81,198,Right-Handed,ESP,78,188,Right-Handed
+BNP Paribas Masters,2018-10-31,Masters 1000,Hard,2nd Round,Alexander Zverev,Frances Tiafoe,GER,86,198,Right-Handed,USA,77,188,Right-Handed
+BNP Paribas Masters,2018-10-31,Masters 1000,Hard,2nd Round,Grigor Dimitrov,Roberto Bautista Agut,BUL,80,191,Right-Handed,ESP,76,183,Right-Handed
+BNP Paribas Masters,2018-10-31,Masters 1000,Hard,2nd Round,Borna Coric,Daniil Medvedev,CRO,79,185,Right-Handed,RUS,81,198,Right-Handed
+BNP Paribas Masters,2018-11-01,Masters 1000,Hard,3rd Round,Marin Cilic,Grigor Dimitrov,CRO,89,198,Right-Handed,BUL,80,191,Right-Handed
+BNP Paribas Masters,2018-11-01,Masters 1000,Hard,3rd Round,Alexander Zverev,Diego Schwartzman,GER,86,198,Right-Handed,ARG,64,170,Right-Handed
+BNP Paribas Masters,2018-11-02,Masters 1000,Hard,Quarterfinals,Karen Khachanov,Alexander Zverev,RUS,88,198,Right-Handed,GER,86,198,Right-Handed
+BNP Paribas Masters,2018-11-02,Masters 1000,Hard,Quarterfinals,Novak Djokovic,Marin Cilic,SRB,77,188,Right-Handed,CRO,89,198,Right-Handed
+BNP Paribas Masters,2018-11-04,Masters 1000,Hard,The Final,Karen Khachanov,Novak Djokovic,RUS,88,198,Right-Handed,SRB,77,188,Right-Handed
+Masters Cup,2018-11-12,Masters Cup,Hard,Round Robin,Alexander Zverev,Marin Cilic,GER,86,198,Right-Handed,CRO,89,198,Right-Handed
+Masters Cup,2018-11-14,Masters Cup,Hard,Round Robin,Novak Djokovic,Alexander Zverev,SRB,77,188,Right-Handed,GER,86,198,Right-Handed
+Masters Cup,2018-11-16,Masters Cup,Hard,Round Robin,Novak Djokovic,Marin Cilic,SRB,77,188,Right-Handed,CRO,89,198,Right-Handed
+Masters Cup,2018-11-18,Masters Cup,Hard,The Final,Alexander Zverev,Novak Djokovic,GER,86,198,Right-Handed,SRB,77,188,Right-Handed
