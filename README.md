@@ -1,4 +1,4 @@
-# Final Project Tennis 🎾
+# Final Project Tennis. Iron Salam 🎾
 
 ## ÍNDICE
 
@@ -44,6 +44,8 @@ Los jugadores que alcanzan la ronda final son Rafa Nadal y Novak Djokovic, siend
 ### 4. Visualización
 
 La visualización se ha basado en el estudio de las efectividades de saque, resto y líder bajo presión de ambos finalistas, los dos jugadores tienen efectividades con valores muy ajustados, destacando ligeramente Djokovic. También se observa que sus efectividades han disminuido desde 2018 a la actualizadad.
+
+Con Folium se ha realizado el mapa con las coordenas de Matadero, que es donde se hubicará la pista para disputarse el torneo.
 
 
 
