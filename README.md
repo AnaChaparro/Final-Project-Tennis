@@ -9,11 +9,14 @@
 5. [Conclusiones](#conclusiones)
 
 
+
 ### 1. Introducción y objetivos
 
 Se trata de un proyecto en el que se ha recreado la organización de un torneo en el que participan los 32 jugadores de ranking ATP más alto actualmente. Los objetivos eran realizar un modelo predicitivo que pudiese establecer quien tienen más probabilidad de ganar el torneo, denominado Iron Slam, cruzando aleatoriamente estos jugadores en varias rondas, definiendo quien es el ganador de cada encuentro en función de su ratio de victorias predecidas.
 
 Posteriromente se ha hecho un análisis de las ventajas competitivas de los dos finalistas que se han enfrentado en la ronda final del torneo.
+
+--------------------------------------------------------
 
 ### 2. Pasos seguidos
 
@@ -32,6 +35,8 @@ Se realiza la importación de los dataframes para realizar su limpieza, homogene
 
 También se concatenan los dataframen se cara a realizar el modelo predictivo y tener los datos que interesan en un mismo DF.
 
+--------------------------------------------------------
+
 ### 3. Machine Learning
 
 El proceso para obtener un ganador del torneo se ha basado en la predicción partido a partido para establecer un ratio de victorias por cada jugador.
@@ -41,11 +46,33 @@ Del modelo predictivo se esxtraía un ratio de victorias por jugador en función
 
 Los jugadores que alcanzan la ronda final son Rafa Nadal y Novak Djokovic, siendo Djokovic el jugador ganador con un ratio de victorias del 80%, y superior al resto de los jugadores.
 
+--------------------------------------------------------
+
 ### 4. Visualización
 
 La visualización se ha basado en el estudio de las efectividades de saque, resto y líder bajo presión de ambos finalistas, los dos jugadores tienen efectividades con valores muy ajustados, destacando ligeramente Djokovic. También se observa que sus efectividades han disminuido desde 2018 a la actualizadad.
 
 Con Folium se ha realizado el mapa con las coordenas de Matadero, que es donde se hubicará la pista para disputarse el torneo.
+
+--------------------------------------------------------
+
+-------------------------------------------------------
+
+🚀 **HERRAMIENTAS**
+
+  - **_Python_**: numpy, pandas, Folium, selenium, sklearn, LazyClassifier
+  - **_Excel_**
+  - **_Tableau_**
+
+-------------------------------------------------------
+
+© **FUENTES**
+
+- Fichero de kaggle: https://www.kaggle.com/datasets/edoardoba/atp-tennis-data
+- Web ATP estadíticas: https://www.atptour.com/es/stats
+- Web ESPN:https://www.espn.com.ar/tenis/rankings
+
+
 
 
 
