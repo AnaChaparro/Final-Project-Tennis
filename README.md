@@ -1,5 +1,7 @@
 # Final Project Tennis. Iron Salam 🎾
 
+<img src="https://github.com/AnaChaparro/Final-Project-Tennis/blob/main/img/close-up-view-tennis-ball-caught-net-court.jpg?raw=true"> 
+
 ## ÍNDICE
 
 1. [Introducción y objetivos](#introducción-y-objetivos)
@@ -7,7 +9,6 @@
 3. [Machine Learning](#machine-learning)
 4. [Visualización](#visualización)
 5. [Conclusiones](#conclusiones)
-
 
 
 ### 1. Introducción y objetivos 🎯
@@ -19,6 +20,7 @@ Posteriromente se ha hecho un análisis de las ventajas competitivas de los dos 
 --------------------------------------------------------
 
 ### 2. Pasos seguidos 📌
+
 - Extracción de datos:
 
   Se han extrído datos de rankings, efectividades e hitórico de enfrentamientos entre los 32 jugadores indicados:
@@ -53,7 +55,12 @@ Los jugadores que alcanzan la ronda final son Rafa Nadal y Novak Djokovic, siend
 
 La visualización se ha basado en el estudio de las efectividades de saque, resto y líder bajo presión de ambos finalistas, los dos jugadores tienen efectividades con valores muy ajustados, destacando ligeramente Djokovic. También se observa que sus efectividades han disminuido desde 2018 a la actualizadad en ambos jugadores.
 
+<img src="https://github.com/AnaChaparro/Final-Project-Tennis/blob/main/img/Captura%20de%20pantalla%202022-12-15%20a%20las%2014.13.02.png?raw=true" width="443" height="344">         <img src="https://github.com/AnaChaparro/Final-Project-Tennis/blob/main/img/Captura%20de%20pantalla%202022-12-15%20a%20las%2014.12.47.png?raw=true" width="443" height="344">
+
 Con Folium se ha realizado el mapa con las coordenas de Matadero, que es donde se hubicará la pista para disputarse el torneo.
+ <p align="center">
+  <img src="https://github.com/AnaChaparro/Final-Project-Tennis/blob/main/img/Captura%20de%20pantalla%202022-12-15%20a%20las%2014.14.32.png?raw=true" width="725" height="433">
+  </p>
 
 --------------------------------------------------------
 
