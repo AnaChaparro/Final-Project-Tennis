@@ -10,7 +10,7 @@
 
 
 
-### 1. Introducción y objetivos
+### 1. Introducción y objetivos 🎯
 
 Se trata de un proyecto en el que se ha recreado la organización de un torneo en el que participan los 32 jugadores con ranking ATP más alto actualmente. El objetivo era realizar un modelo predicitivo que pudiese establecer quien tienen más probabilidad de ganar el torneo, denominado Iron Slam, cruzando aleatoriamente estos jugadores en varias rondas, definiendo quien es el ganador de cada encuentro en función de su ratio de victorias predecidas.
 
@@ -18,8 +18,7 @@ Posteriromente se ha hecho un análisis de las ventajas competitivas de los dos 
 
 --------------------------------------------------------
 
-### 2. Pasos seguidos
-
+### 2. Pasos seguidos 📌
 - Extracción de datos:
 
   Se han extrído datos de rankings, efectividades e hitórico de enfrentamientos entre los 32 jugadores indicados:
@@ -37,7 +36,7 @@ Posteriromente se ha hecho un análisis de las ventajas competitivas de los dos 
 
 --------------------------------------------------------
 
-### 3. Machine Learning
+### 3. Machine Learning 🤖
 
 El proceso para obtener un ganador del torneo se ha basado en la predicción partido a partido para establecer un ratio de victorias por cada jugador.
 Se ha realizado la formación de parejas de manera random entre los 32 jugadores y se enfrentan por partidos en diferentes rondas hasta llegar a la final, en la que únicamente quedaban dos jugadores.
@@ -50,7 +49,7 @@ Los jugadores que alcanzan la ronda final son Rafa Nadal y Novak Djokovic, siend
 
 --------------------------------------------------------
 
-### 4. Visualización
+### 4. Visualización 📊
 
 La visualización se ha basado en el estudio de las efectividades de saque, resto y líder bajo presión de ambos finalistas, los dos jugadores tienen efectividades con valores muy ajustados, destacando ligeramente Djokovic. También se observa que sus efectividades han disminuido desde 2018 a la actualizadad en ambos jugadores.
 
@@ -58,7 +57,7 @@ Con Folium se ha realizado el mapa con las coordenas de Matadero, que es donde s
 
 --------------------------------------------------------
 
-### 5. Conclusiones
+### 5. Conclusiones 🔎
 
 Como predicción entendemos que intervienen muchos más factores que se podrían incluir en los modelos predictivos. Habría que tener en cuenta los eventos que han ocurrido en cada partido, para poder aproximar más el resultado a una "verdad". Siempre nos quedaríamos a gran distancia de la realidad ya que lo bonito de un desporte como este es lo que puede sorprender cada jugador en el partido y lo diferentes que pueden ser los resultados.
 
